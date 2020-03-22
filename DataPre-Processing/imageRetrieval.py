@@ -17,6 +17,11 @@ for i in df.index:
 
     url ="http://skyserver.sdss.org/dr16/SkyServerWS/ImgCutout/getjpeg?TaskName=Skyserver.Chart.List&ra=" + str(ra) + "&dec=" + str(dec)
     imgName = "Gal+fileNum:" + str(i) + "+objID:" + str(objID) + ".jpg"
-    urllib.request.urlretrieve(url, imgName)
-    print(i)
-    files.download(imgName)
+    
+ #download each image if data exists
+    try:
+        urllib.request.urlretrieve(url, imgName)
+        print(i)
+        files.download(imgName)
+    except:
+        print("Missing" + str(i))
