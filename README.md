@@ -11,7 +11,7 @@ The query used to retrieve 500k Galaxy's locations:
  SELECT objID, ra, dec
  FROM Galaxy 
  WHERE 
- (r - extinction_r) between 1 and 25
+ (r - extinction_r) between 16 and 23
  ```
  
 The limit for the SQL server is 500k. You will need to run seperate search queries as the total data set we are working with is 6 million +.
