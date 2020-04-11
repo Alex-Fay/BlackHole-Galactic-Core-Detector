@@ -1,4 +1,4 @@
-#Alex Fay 4/10/2020 Not the best Code but it's 4am, and just needs to be done 
+#Alex Fay 4/5-10/2020 Not the best Code but it's 4am, and just needs to be done 
 
 import pandas as pd
 from pandas import ExcelWriter
@@ -8,9 +8,8 @@ import numpy as np
 
 #=============Importing CSV and coloumns==============
 #read csv file
-file = "training_solutions_rev1.csv" #Galaxy Zoo Survey percents https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/overview/the-galaxy-zoo-decision-tree
+file = "test1.csv" #Galaxy Zoo Survey percents https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/overview/the-galaxy-zoo-decision-tree
 df = pd.read_csv(file)
-label = np.array([])
 
 #Q1 Is galaxy smooth, round, or no disk
 smooth = df['Class1.1']
@@ -19,7 +18,7 @@ star = df['Class1.3']
 
 #Q2 is disk on edge
 edgeOn = df['Class2.1']
-notOnEdge = df['Class2.1']
+notOnEdge = df['Class2.2']
 
 #Q3 is bar of galaxy present
 bar = df['Class3.1']
@@ -68,68 +67,38 @@ fourArms = df['Class11.4']
 manyArms = df['Class11.5']
 unknownArms = df['Class11.6']
 
-#=========Summary of Decision Tree: https://static.zooniverse.org/data.galaxyzoo.org/data/gzh/images/GZ_HST.jpg========
-#Q1: star => star, smooth -> Q7, disk -> Q2
-#Q2: edgeon -> Q9, notedge -> Q3
-#Q3: barPresent -> Q4, noBar -> Q4
-#Q4: spiralArmPresent -> Q10, noArm -> Q5
-#Q5: noBulge -> Q6, someBulge -> Q6, obviousBulge -> Q6, dominantBulge -> Q6
-#Q6: odd -> Q8, notOdd -> end
-#Q7: roud-> Q6, inbetween, cigarShaped -> Q6
-#Q8: ring -> end, lens/arc -> end, disturbed -> end, irregular -> end, other -> end, merger -> end, dustLane -> end
-#Q9: rounded -> Q6, boxy -> Q6, noBulge -> Q6
-#Q10: tightSpiral -> Q11, mediumSpiral -> Q11, looseSpiral -> Q11
-#Q11 SpiralArmNumber: 1-> Q5, 2-> Q5, 3->Q5, 4-> Q5, 4+-> Q5, can'tTell->Q5
-
-
-#==========Results ==========
-#---Stars--- q1 star
-#-----Lenticular------
-#S0 (lenticular Edge ON): Q1: disk, Q2: notEdge Q3: noBar, Q4: noArm, Q5: obviousBulge or dominantBulge, Q6: notOdd
-#S0 (lenticular Edge Off): Q1: disk, Q2: edgeOn, Q9: !noBulge, Q6: notOdd (last test) Q4
-#---Spiral w/o Bulge-----
-#Sa: Q1: disk, Q2:edgeOn, Q9: rounded or noBulge, Q6: notOdd
-#Sa EdgeOff: Q1: disk, Q2: edgeoff, Q3: noBar, Q4: spiralArmPresent, Q10: tightSpiral, Q11: !cantTell,
-#Sb: Same above but Q10: mediumSpiral
-#SC: Same Q10: loosSpiral
-#-----Spiral W/ Bulge----
-#Boxy central bulge
-#Q1: disk, Q2:edgeOn, Q9: boxy, Q6: notOdd
-#EdgeOff: Q1: disk, Q2: edgeoff, Q3: Bar, Q4: spiralArmPresent, Q10: any, Q11: !cantTell
-#SBA: bar, tight arms
-#SBb: bar, both tight and loose arms
-#SBc: bar, loose arms
-#----Irregular----
-#Irregular: Q6: odd, Q8: irregular, all others
-#(if dust lane,ring, lens, then spiral or elliptical NOT irregular)
-
+label = np.array([])
 
 def elliptical(i):
+  isEllipse = True
   if(smooth[i] > disk[i]):
-    if(roundess | semiRound > longAndSkinny): #Elliptical Types: E0- E3
+    if((roundness[i] > longAndSkinny[i]) | (semiRound[i] > longAndSkinny[i])): #Elliptical Types: E0- E3
       if(notOdd[i] > odd[i]):
-        label = np.append(label, "Elliptical")
+        np.append(label, "Elliptical")
     else:
-     label = np.append(label, "Elliptical Cigar") #E4-E7
+      np.append(label, "Elliptical Cigar") #E4-E7
   else:
-    return False
+    isEllipse = False
+  return isEllipse
 
 def spiral(i):
   booly = True
   if(disk[i] > smooth[i]): #Q1
     if(edgeOn[i] > notOnEdge[i]): #Q2
-      if(boxy[i] < centerRound[i] | boxy[i] < centerNoBulge[i]):#Q9
+      if((boxy[i] < centerRound[i]) | (boxy[i] < centerNoBulge[i])):#Q9
         if(notOdd[i] > odd[i]): 
-          label = np.append(label, "Spiral")
-        elif((ring[i] + lensOrArc[i]) > (disturbed[i] + irregular[i])): #check irregular
-          label = np.append(label, "Spiral")
+          np.append(label, "Spiral")
+        elif((ring[i] > disturbed[i])): #check irregular
+          np.append(label, "Spiral")
+        elif(lensOrArc[i] > irregular[i]):
+          np.append(label, "Spiral")
         else: 
           booly = False
-      elif(bar[i] > nobar[i]): #boxy galaxy with bar
+      elif(bar[i] > noBar[i]): #boxy galaxy with bar
         if(notOdd[i] > odd[i]):
-          label = np.append(label, "Bar Spiral")
-        elif((ring[i] + lensOrArc[i]) > (disturbed[i] + irregular[i])):
-          label = np.append(label, "Bar Spiral")
+           np.append(label, "Bar Spiral")
+        elif((ring[i] > disturbed[i]) | (lensOrArc[i] > irregular[i])):
+           np.append(label, "Bar Spiral")
         else:
           booly = False
       else:
@@ -137,51 +106,50 @@ def spiral(i):
     else:
       if(noBar[i] > bar[i]):
         if(spiralArmPresent[i] > noSpiralArm[i]):
-          label = np.append(label, "Spiral")
+           np.append(label, "Spiral")
         else: 
           booly = False
       else:
         if(notOdd[i] > odd[i]):
-          label = np.append(label, "Bar Spiral")
+           np.append(label, "Bar Spiral")
         elif((ring[i] + lensOrArc[i]) > (disturbed[i] + irregular[i])):
-          label = np.append(label, "Bar Spiral")
+           np.append(label, "Bar Spiral")
         else:
           booly = False
-    else:
-      booly = False
   return booly
 
 def lenticular(i):
-#S0 (lenticular Edge ON): Q1: disk, Q2: notEdge Q3: noBar, Q4: noArm, Q5: obviousBulge or dominantBulge, Q6: notOdd
-#S0 (lenticular Edge Off): Q1: disk, Q2: edgeOn, Q9: !noBulge, Q6: notOdd (last test) Q4
+  isLenticular = True
   if(disk[i] > smooth[i]):
-    if(notEdge[i] > edgeOn[i]):
+    if(notOnEdge[i] > edgeOn[i]):
       if(noBar[i] > bar[i]):
-        if(noArm[i] > arm[i]):
+        if(noSpiralArm[i] > spiralArmPresent[i]):
           if((noBulge[i] + someBulge[i]) < (obviousBulge[i] + dominantBulge[i])):
             if(notOdd[i] > odd[i]):
-              label = np.append(label, "Lenticular")
+               np.append(label, "Lenticular")
     else:
       if(noBulge[i] < .25):
         if(noSpiralArm[i] > spiralArmPresent[i]):
           if(notOdd[i] > odd[i]):
-            label = np.append(label, "Lenticular")
+             np.append(label, "Lenticular")
   else:
-    return False
+    isLenticular = False
+  return isLenticular
 
 #========Main==========
 for i in df.index:
-  if (star[i] > .47):
-    label = np.append(label, 'STAR')
+  if ((star[i] > disk[i]) & (star[i] > smooth[i])):
+     np.append(label, 'STAR')
   else:
-  elliptical(i) #all 3 types
-    if (elliptical == False):
+    elliptical(i) #all 3 types
+    if (elliptical(i) == False):
       spiral(i) #both bar and nobar
-     if(booly = False):
-       lenticular(i)
-       if(lenticular(i) = False ):
-        label = np.append(label, "Irregular")
+      if(spiral(i) == False):
+        lenticular(i)
+        if(lenticular(i) == False ):
+           np.append(label, "Irregular")
 
 #add values to csv
+print(label)
 df['Type'] = str(label)
-df.to_csv("training_solutions_rev1.csv")
+#df.to_csv("training_solutions_rev1.csv")
