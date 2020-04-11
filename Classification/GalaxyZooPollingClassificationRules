@@ -1,4 +1,4 @@
-#Alex Fay 4/5-10/2020 Not the best Code but it's 4am, and just needs to be done 
+#Alex Fay 4/2-10/2020 Code needs to be cleaned, 4am results but it runs and it's right :/
 
 import pandas as pd
 from pandas import ExcelWriter
@@ -8,7 +8,7 @@ import numpy as np
 
 #=============Importing CSV and coloumns==============
 #read csv file
-file = "test1.csv" #Galaxy Zoo Survey percents https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/overview/the-galaxy-zoo-decision-tree
+file = "training_solutions_rev1.csv" #Galaxy Zoo Survey percents https://www.kaggle.com/c/galaxy-zoo-the-galaxy-challenge/overview/the-galaxy-zoo-decision-tree
 df = pd.read_csv(file)
 
 #Q1 Is galaxy smooth, round, or no disk
@@ -67,16 +67,18 @@ fourArms = df['Class11.4']
 manyArms = df['Class11.5']
 unknownArms = df['Class11.6']
 
-label = np.array([])
+label = []
 
 def elliptical(i):
   isEllipse = True
   if(smooth[i] > disk[i]):
     if((roundness[i] > longAndSkinny[i]) | (semiRound[i] > longAndSkinny[i])): #Elliptical Types: E0- E3
       if(notOdd[i] > odd[i]):
-        np.append(label, "Elliptical")
+        label.append("Elliptical")
+        print("Elliptical")
     else:
-      np.append(label, "Elliptical Cigar") #E4-E7
+      label.append("Elliptical Cigar") #E4-E7
+      print("Cigar E")
   else:
     isEllipse = False
   return isEllipse
@@ -87,18 +89,23 @@ def spiral(i):
     if(edgeOn[i] > notOnEdge[i]): #Q2
       if((boxy[i] < centerRound[i]) | (boxy[i] < centerNoBulge[i])):#Q9
         if(notOdd[i] > odd[i]): 
-          np.append(label, "Spiral")
+          label.append("Spiral")
+          print("Spiral")
         elif((ring[i] > disturbed[i])): #check irregular
-          np.append(label, "Spiral")
+          label.append("Spiral")
+          print("Spiral")
         elif(lensOrArc[i] > irregular[i]):
-          np.append(label, "Spiral")
+          label.append("Spiral")
+          print("Spiral")
         else: 
           booly = False
       elif(bar[i] > noBar[i]): #boxy galaxy with bar
         if(notOdd[i] > odd[i]):
-           np.append(label, "Bar Spiral")
+           label.append("Bar Spiral")
+           print("Bar Spiral")
         elif((ring[i] > disturbed[i]) | (lensOrArc[i] > irregular[i])):
-           np.append(label, "Bar Spiral")
+           label.append("Bar Spiral")
+           print("Ba Spiral")
         else:
           booly = False
       else:
@@ -106,14 +113,17 @@ def spiral(i):
     else:
       if(noBar[i] > bar[i]):
         if(spiralArmPresent[i] > noSpiralArm[i]):
-           np.append(label, "Spiral")
+           label.append("Spiral")
+           print("Spiral")
         else: 
           booly = False
       else:
         if(notOdd[i] > odd[i]):
-           np.append(label, "Bar Spiral")
+           label.append("Bar Spiral")
+           print("Bar Spiral")
         elif((ring[i] + lensOrArc[i]) > (disturbed[i] + irregular[i])):
-           np.append(label, "Bar Spiral")
+           label.append("Bar Spiral")
+           print("Bar Spiral")
         else:
           booly = False
   return booly
@@ -126,12 +136,14 @@ def lenticular(i):
         if(noSpiralArm[i] > spiralArmPresent[i]):
           if((noBulge[i] + someBulge[i]) < (obviousBulge[i] + dominantBulge[i])):
             if(notOdd[i] > odd[i]):
-               np.append(label, "Lenticular")
+               label.append("Lenticular")
+               print("Lenticular")
     else:
       if(noBulge[i] < .25):
         if(noSpiralArm[i] > spiralArmPresent[i]):
           if(notOdd[i] > odd[i]):
-             np.append(label, "Lenticular")
+             label.append("Lenticular")
+             print("Lenticular")
   else:
     isLenticular = False
   return isLenticular
@@ -139,7 +151,7 @@ def lenticular(i):
 #========Main==========
 for i in df.index:
   if ((star[i] > disk[i]) & (star[i] > smooth[i])):
-     np.append(label, 'STAR')
+     label.append('STAR')
   else:
     elliptical(i) #all 3 types
     if (elliptical(i) == False):
@@ -147,9 +159,10 @@ for i in df.index:
       if(spiral(i) == False):
         lenticular(i)
         if(lenticular(i) == False ):
-           np.append(label, "Irregular")
+           label.append("Irregular")
+           print("Irregular")
 
 #add values to csv
 print(label)
 df['Type'] = str(label)
-#df.to_csv("training_solutions_rev1.csv")
+df.to_csv("training_solutions_rev1.csv")
