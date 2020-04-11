@@ -149,20 +149,18 @@ def lenticular(i):
   return isLenticular
 
 #========Main==========
-for i in df.index:
+for i in df.index & range(0, 61578):
   if ((star[i] > disk[i]) & (star[i] > smooth[i])):
      label.append('STAR')
   else:
-    elliptical(i) #all 3 types
     if (elliptical(i) == False):
-      spiral(i) #both bar and nobar
       if(spiral(i) == False):
-        lenticular(i)
         if(lenticular(i) == False ):
            label.append("Irregular")
            print("Irregular")
 
 #add values to csv
 print(label)
-df['Type'] = str(label)
-df.to_csv("training_solutions_rev1.csv")
+ndf = pd.DataFrame(list(zip(label)))
+ndf.to_csv("results.csv")
+#df.to_csv("training_solutions_rev1.csv")
