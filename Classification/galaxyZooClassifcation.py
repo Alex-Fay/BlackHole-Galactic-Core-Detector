@@ -1,75 +1,124 @@
-#Alex Fay CNN for Galaxy Classification
-#Original Code from Tensorflow CNN Tutorial: changes to activation layers, channels, and more for optimization of specific class
-#added layers for accuracy
-
+#Alex Fay 4/3-12/2020 Galaxy Sorter CNN
+#Using 55,000 images for training, 6,100 for testing
 import tensorflow as tf
+import numpy as np
+import pandas as pd
 from tensorflow.keras import datasets, layers, models
 import matplotlib.pyplot as plt
+from keras.models import Sequential, Model
+from keras.layers.core import Flatten, Dense, Dropout, Lambda, Reshape
+from keras.layers import Input
+from keras.layers.convolutional import Convolution2D, MaxPooling2D, ZeroPadding2D
+from keras.layers import Conv2D, MaxPooling2D, Activation
+from keras.optimizers import SGD, RMSprop, Adam
+import cv2 #open CV for cropping image
+import matplotlib.image as mpimg
+import os
+from sklearn.preprocessing import LabelEncoder,OneHotEncoder
+from keras import backend as K
+import pdb #debugger
 
-#=====importing data=======
-(train_images, train_labels), (test_images, test_labels) = datasets.cifar10.load_data() #change data
-train_images, test_images = train_images / 255.0, test_images / 255.0
+#==========unzip training data=======
+import zipfile
+zip_ref = zipfile.ZipFile("images_training.zip", "r")
+zip_ref.extractall() #data is too big for google drive and github even in zip :/
+zip_ref.close()
 
-class_names = ['SpiralA', 'SpiralB', 'SpiralC', 'SpiralBa', 'SpiralSBb',
-               'SpiralBc', 'Elliptical', 'Irregular', 'Star', 'Other']
+import zipfile
+zip_ref = zipfile.ZipFile("Testing_Images.zip", "r")
+zip_ref.extractall()
+zip_ref.close()
 
-#----------Plot-----------
-plt.figure(figsize=(10,10))
-for i in range(9):
-    plt.subplot(5,5,i+1)
-    plt.xticks([])
-    plt.yticks([])
-    plt.grid(False)
-    plt.imshow(train_images[i], cmap=plt.cm.binary)
-    plt.xlabel(class_names[train_labels[i][0]])
-plt.show()
+#Read CSV For Cropping Images
+file = "FinalResults.csv"
+df = pd.read_csv(file)
+galaxyID = df['GalaxyID']
+Label = df['Label']
 
-#=========Convolutional Base=========
-#relu = rectified linear unit
-model = models.Sequential() #not from API
-model.add(layers.Conv2D(32, (3, 3), activation='relu', input_shape=(32, 32, 3))) #32 channels, 3by3 kernel size
-model.add(layers.MaxPooling2D((2, 2))) #2d Pooling Layer
-model.add(layers.Conv2D(64, (3, 3), activation='relu'))
-model.add(layers.MaxPooling2D((2, 2)))
-model.add(layers.Conv2D(64, (3, 3), activation='relu'))
+#Testing Data Read
+testData = 'trainLabels.csv'
 
-#================Layer 1=============
-model.add(layers.Flatten())
-model.add(layers.Dense(64, activation='relu'))
-model.add(layers.Dense(10))
+import pandas as pd
+import cv2
 
-#=========Layer 2========
-model.add(layers.Flatten())
-model.add(layers.Dense(32, activation='softmax'))
-model.add(layers.Dense(10))
+#===========Cropping Images==============
+#SDSS Galaxy Set is 120 by 120 pixels, cropping to get similar data & delete empty space
+def cropImages():
+  for i in df.index & range(0, 61000):
+    try:
+      imgName = "./images_training/" + str(galaxyID[i]) + ".jpg"
+      img = cv2.imread(imgName)
+      img = img[106:106*3, 106:106*3]
+      #plt.figure();plt.imshow(crop_img);plt.show()
+      cv2.waitKey(0)
+      cv2.imwrite(imgName, img)
+      print("Success")
+    except:
+      print("Image Missing from DataBase")
+  return img
 
-#=========Layer 3=========
-model.add(layers.Flatten())
-model.add(layers.Dense(64, activation='linear'))
-model.add(layers.Dense(10))
+cropImages()
 
+#=============training data init===========
+train_file_path = 'FinalResults.csv'
+test_file_path = 'trainLabels.csv'
 
-#====Layer 4========
-model.add(layers.Flatten())
-model.add(layers.Dense(64, activation='relu'))
-model.add(layers.Dense(10))
+#Cuts out all in csv except galaxy name, returns list w/ commas
+ary = np.genfromtxt(train_file_path, delimiter= ',' , dtype = str)
+train_labels = list(ary[:,-1])
+tempAry = np.genfromtxt(test_file_path, dtype = str, delimiter= ",")
+test_labels = list(tempAry[:, -1])
+train_images = "./images_training/"
+test_images = "./Testing_Images/"
 
-#============Compile and Train Model==========
-model.compile(optimizer='adam',
-              loss= 'mean_squared_error',
-              metrics=['accuracy'])
+#=======CNN========
+def ConvBlock(layers, model, filters):
+    for i in range(layers): 
+        model.add(ZeroPadding2D((2,2)))  # zero padding of size 1
+        model.add(Convolution2D(filters, 3, 3, activation='relu'))  # 3x3 filter size 
+    model.add(MaxPooling2D((2,2), strides=(2,2)))
 
-history = model.fit(train_images, train_labels, epochs=10, 
-                    validation_data=(test_images, test_labels))
+def FCBlock(model):
+    model.add(Dense(4096, activation='relu'))
+    model.add(Dropout(0.5))
+    
+def VGG_16():
+    model = Sequential()
+    model.add(Lambda(lambda x : x, input_shape=(3,106,106)))
+    
+    ConvBlock(2, model, 64)
+    ConvBlock(2, model, 128)
+    ConvBlock(3, model, 256)
+    ConvBlock(3, model, 512)
+    ConvBlock(3, model, 512)
 
-#Evaluate Model with Plot: Accuracy to Epoch
-plt.plot(history.history['accuracy'], label='accuracy')
-plt.plot(history.history['val_accuracy'], label = 'val_accuracy')
+    model.add(Flatten())
+    FCBlock(model)
+    FCBlock(model)
+    
+    model.add(Dense(37, activation = 'sigmoid'))
+    return model
+
+#======MAIN========
+#cropImages()
+# Compile 
+optimizer = RMSprop(lr=1e-6)
+model = VGG_16()
+model.compile(loss='mean_squared_error', optimizer=optimizer)
+
+temp_data = (test_images, test_labels)
+print(test_labels)
+
+fitCNN = model.fit(train_images, train_labels, epochs= 40, 
+                    validation_data = temp_data)
+model.summary()
+
+#========Plot======
+plt.plot(fitCNN.fitCNN['accuracy'], label = 'accuracy')
+plt.plot(fitCNN.fitCNN['val_accuracy'], label = 'val_accuracy')
 plt.xlabel('Epoch')
 plt.ylabel('Accuracy')
-plt.ylim([0.5, 1])
-plt.legend(loc='lower right')
+plt.legend(loc= 'upper right')
 
-test_loss, test_acc = model.evaluate(test_images,  test_labels, verbose=2)
-
+test_loss, test_acc = model.evaluate(test_images, test_labels, verbose = 2)
 print(test_acc)
