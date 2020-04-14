@@ -1,0 +1,6995 @@
+id,GalaxyID,Label
+1,511937,Elliptical Cigar
+2,511947,Elliptical
+3,511989,Bar Spiral
+4,512022,Spiral
+5,512038,Irregular
+6,512051,Spiral
+7,512072,Elliptical
+8,512081,Spiral
+9,512091,Elliptical
+10,512094,Irregular
+11,512134,Elliptical
+12,512136,Elliptical
+13,512146,Elliptical
+14,512150,Bar Spiral
+15,512157,Bar Spiral
+16,512162,Irregular
+17,512168,Elliptical
+18,512188,Spiral
+19,512201,Spiral
+20,512256,Elliptical
+21,512265,Elliptical
+22,512270,Lenticular
+23,512290,Irregular
+24,512307,Elliptical
+25,512312,Elliptical
+26,512333,Lenticular
+27,512358,Lenticular
+28,512369,Irregular
+29,512377,Irregular
+30,512381,Lenticular
+31,512395,Elliptical
+32,512397,Elliptical
+33,512418,Elliptical
+34,512454,Elliptical
+35,512456,Irregular
+36,512481,Elliptical
+37,512498,Spiral
+38,512503,Elliptical
+39,512512,Elliptical
+40,512551,Spiral
+41,512571,Bar Spiral
+42,512650,Lenticular
+43,512651,Lenticular
+44,512657,Spiral
+45,512687,Lenticular
+46,512717,Irregular
+47,512753,Spiral
+48,512757,Spiral
+49,512830,Spiral
+50,512836,Irregular
+51,512843,Irregular
+52,512860,Elliptical
+53,512864,Elliptical
+54,512879,Elliptical
+55,512893,Irregular
+56,512924,Elliptical
+57,512925,Spiral
+58,512945,Irregular
+59,512977,Spiral
+60,512996,Elliptical
+61,513003,Irregular
+62,513052,Spiral
+63,513089,Spiral
+64,513109,Spiral
+65,513114,Irregular
+66,513118,Elliptical
+67,513120,Irregular
+68,513127,Spiral
+69,513142,Irregular
+70,513193,Lenticular
+71,513198,Elliptical
+72,513238,Bar Spiral
+73,513242,Elliptical
+74,513243,Elliptical
+75,513245,Elliptical
+76,513256,Elliptical
+77,513266,Elliptical
+78,513300,Irregular
+79,513301,Lenticular
+80,513302,Spiral
+81,513304,Elliptical
+82,513309,Spiral
+83,513320,Spiral
+84,513348,Spiral
+85,513360,Elliptical
+86,513378,Spiral
+87,513382,Irregular
+88,513411,Elliptical
+89,513420,Elliptical
+90,513431,Elliptical
+91,513451,Lenticular
+92,513458,Spiral
+93,513466,Elliptical
+94,513513,Elliptical
+95,513520,Bar Spiral
+96,513543,Spiral
+97,513546,Bar Spiral
+98,513554,Spiral
+99,513556,Irregular
+100,513594,Lenticular
+101,513625,Elliptical
+102,513628,Spiral
+103,513641,Irregular
+104,513685,Bar Spiral
+105,513689,Elliptical
+106,513694,Elliptical
+107,513748,Elliptical
+108,513758,Elliptical
+109,513780,Irregular
+110,513818,Elliptical
+111,513830,Elliptical
+112,513849,Elliptical
+113,513863,Irregular
+114,513879,Elliptical
+115,513903,Bar Spiral
+116,513904,Elliptical
+117,513924,Spiral
+118,513933,Bar Spiral
+119,513944,Lenticular
+120,513953,Spiral
+121,513998,Spiral
+122,514012,Elliptical
+123,514014,Spiral
+124,514035,Bar Spiral
+125,514039,Lenticular
+126,514047,Elliptical
+127,514048,Spiral
+128,514050,Lenticular
+129,514060,Spiral
+130,514064,Irregular
+131,514108,Spiral
+132,514109,Bar Spiral
+133,514110,Bar Spiral
+134,514112,Spiral
+135,514136,Spiral
+136,514148,Lenticular
+137,514157,Spiral
+138,514158,Spiral
+139,514160,Elliptical Cigar
+140,514166,Spiral
+141,514169,Bar Spiral
+142,514182,Elliptical
+143,514188,Elliptical
+144,514195,Lenticular
+145,514198,Spiral
+146,514228,Irregular
+147,514241,Elliptical
+148,514252,Elliptical
+149,514258,Spiral
+150,514273,Lenticular
+151,514288,Irregular
+152,514298,Elliptical
+153,514299,Elliptical
+154,514301,Irregular
+155,514325,Elliptical
+156,514327,Spiral
+157,514345,Spiral
+158,514347,Spiral
+159,514355,Spiral
+160,514359,Spiral
+161,514365,Elliptical
+162,514369,Elliptical
+163,514392,Spiral
+164,514405,Elliptical
+165,514406,Irregular
+166,514407,Elliptical
+167,514413,Elliptical
+168,514415,Spiral
+169,514422,Lenticular
+170,514424,Elliptical
+171,514443,Elliptical
+172,514455,Spiral
+173,514479,Spiral
+174,514511,Irregular
+175,514516,Lenticular
+176,514523,Spiral
+177,514526,Elliptical
+178,514579,Spiral
+179,514612,Spiral
+180,514624,Spiral
+181,514628,Irregular
+182,514637,Lenticular
+183,514659,Irregular
+184,514669,Elliptical
+185,514696,Bar Spiral
+186,514701,Irregular
+187,514730,Irregular
+188,514762,Spiral
+189,514764,Elliptical
+190,514775,Spiral
+191,514776,Spiral
+192,514781,Elliptical
+193,514802,Bar Spiral
+194,514803,Elliptical
+195,514810,Elliptical
+196,514846,Elliptical
+197,514847,Spiral
+198,514853,Irregular
+199,514864,Irregular
+200,514879,Spiral
+201,514893,Spiral
+202,514899,Elliptical
+203,514920,Spiral
+204,514930,Elliptical
+205,514931,Spiral
+206,514943,Lenticular
+207,514957,Elliptical
+208,514987,Irregular
+209,514989,Spiral
+210,515036,Spiral
+211,515044,Lenticular
+212,515060,Irregular
+213,515098,Elliptical
+214,515102,Elliptical
+215,515105,Spiral
+216,515107,Irregular
+217,515124,Irregular
+218,515131,Elliptical
+219,515133,Lenticular
+220,515154,Elliptical
+221,515168,Spiral
+222,515198,Elliptical
+223,515204,Spiral
+224,515226,Spiral
+225,515236,Spiral
+226,515240,Elliptical
+227,515249,Elliptical
+228,515260,Spiral
+229,515261,Bar Spiral
+230,515284,Elliptical
+231,515293,Irregular
+232,515300,Spiral
+233,515354,Irregular
+234,515370,Elliptical
+235,515386,Elliptical
+236,515388,Elliptical
+237,515401,Elliptical
+238,515407,Spiral
+239,515418,Bar Spiral
+240,515437,Lenticular
+241,515441,Elliptical
+242,515443,Irregular
+243,515500,Elliptical
+244,515503,Irregular
+245,515510,Elliptical
+246,515519,Spiral
+247,515534,Elliptical
+248,515553,Bar Spiral
+249,515556,Spiral
+250,515594,Spiral
+251,515600,STAR
+252,515607,Bar Spiral
+253,515608,Spiral
+254,515623,Spiral
+255,515631,Elliptical
+256,515634,Spiral
+257,515684,Elliptical
+258,515691,Elliptical
+259,515728,Elliptical
+260,515744,Spiral
+261,515754,Spiral
+262,515771,Irregular
+263,515774,Spiral
+264,515795,Elliptical
+265,515817,Spiral
+266,515818,Elliptical
+267,515822,Bar Spiral
+268,515840,Spiral
+269,515861,STAR
+270,515864,Spiral
+271,515909,Irregular
+272,515911,Spiral
+273,515924,Bar Spiral
+274,515929,Spiral
+275,515947,Spiral
+276,515971,Elliptical
+277,515978,Elliptical
+278,516016,Spiral
+279,516017,Bar Spiral
+280,516030,Irregular
+281,516051,Spiral
+282,516064,Spiral
+283,516070,Spiral
+284,516140,Bar Spiral
+285,516158,Spiral
+286,516159,Elliptical
+287,516162,Lenticular
+288,516174,Elliptical
+289,516183,Spiral
+290,516184,Bar Spiral
+291,516188,Elliptical
+292,516193,Bar Spiral
+293,516204,Spiral
+294,516226,Elliptical
+295,516248,Spiral
+296,516271,Elliptical
+297,516275,Lenticular
+298,516276,Elliptical
+299,516309,STAR
+300,516322,Bar Spiral
+301,516335,Spiral
+302,516351,Spiral
+303,516360,Bar Spiral
+304,516382,Elliptical
+305,516385,Bar Spiral
+306,516387,Spiral
+307,516397,Elliptical
+308,516405,Lenticular
+309,516411,Elliptical
+310,516417,Spiral
+311,516425,Irregular
+312,516453,Bar Spiral
+313,516465,Elliptical
+314,516472,Elliptical
+315,516497,Spiral
+316,516498,Irregular
+317,516508,Elliptical
+318,516518,Elliptical
+319,516530,Elliptical
+320,516574,Elliptical
+321,516579,Bar Spiral
+322,516591,Bar Spiral
+323,516617,Spiral
+324,516632,Elliptical
+325,516648,Elliptical
+326,516654,Elliptical Cigar
+327,516678,Elliptical
+328,516693,Bar Spiral
+329,516714,Spiral
+330,516719,Elliptical
+331,516745,Spiral
+332,516747,Bar Spiral
+333,516751,Irregular
+334,516759,Elliptical
+335,516785,Spiral
+336,516792,Elliptical
+337,516796,Bar Spiral
+338,516808,Bar Spiral
+339,516815,Elliptical
+340,516838,Spiral
+341,516839,Elliptical
+342,516850,Irregular
+343,516851,Elliptical Cigar
+344,516856,Spiral
+345,516857,Elliptical
+346,516858,Bar Spiral
+347,516895,Spiral
+348,516900,Spiral
+349,516949,Elliptical
+350,516988,Elliptical
+351,517012,Elliptical
+352,517019,Spiral
+353,517026,Elliptical
+354,517038,Spiral
+355,517045,Spiral
+356,517059,Bar Spiral
+357,517069,Irregular
+358,517075,Spiral
+359,517084,Spiral
+360,517088,Spiral
+361,517130,Spiral
+362,517132,Spiral
+363,517141,Spiral
+364,517158,Spiral
+365,517162,Irregular
+366,517190,Spiral
+367,517216,Elliptical
+368,517233,Irregular
+369,517250,Spiral
+370,517264,Elliptical
+371,517270,Spiral
+372,517278,Spiral
+373,517283,Elliptical
+374,517317,Elliptical
+375,517340,Spiral
+376,517357,Spiral
+377,517358,Spiral
+378,517395,Elliptical
+379,517410,Irregular
+380,517442,Elliptical
+381,517455,Spiral
+382,517461,Spiral
+383,517465,Spiral
+384,517466,Lenticular
+385,517493,Elliptical
+386,517496,Spiral
+387,517502,Irregular
+388,517511,Spiral
+389,517522,Elliptical
+390,517528,Bar Spiral
+391,517549,Elliptical
+392,517550,Elliptical
+393,517558,Spiral
+394,517579,Spiral
+395,517603,Elliptical
+396,517611,Spiral
+397,517613,Bar Spiral
+398,517625,Elliptical
+399,517631,Elliptical Cigar
+400,517641,Irregular
+401,517692,Elliptical
+402,517724,Lenticular
+403,517735,Bar Spiral
+404,517743,Elliptical
+405,517744,Bar Spiral
+406,517765,Spiral
+407,517771,Elliptical
+408,517794,Elliptical
+409,517810,Irregular
+410,517839,Elliptical
+411,517841,Elliptical
+412,517870,Spiral
+413,517872,Irregular
+414,517903,Bar Spiral
+415,517923,Spiral
+416,518005,Spiral
+417,518008,Elliptical
+418,518020,Bar Spiral
+419,518039,Spiral
+420,518059,Spiral
+421,518070,Elliptical
+422,518080,Spiral
+423,518097,Bar Spiral
+424,518108,Elliptical
+425,518111,Irregular
+426,518122,Elliptical
+427,518132,Elliptical
+428,518140,Spiral
+429,518151,Irregular
+430,518178,Elliptical
+431,518186,Elliptical
+432,518210,Spiral
+433,518239,Irregular
+434,518252,Spiral
+435,518269,Spiral
+436,518297,Irregular
+437,518305,Bar Spiral
+438,518310,Elliptical
+439,518335,Irregular
+440,518367,Spiral
+441,518413,Elliptical
+442,518448,Elliptical
+443,518455,Spiral
+444,518483,Bar Spiral
+445,518489,Spiral
+446,518507,Elliptical
+447,518511,Elliptical
+448,518527,Elliptical
+449,518531,Spiral
+450,518569,Elliptical
+451,518579,Elliptical
+452,518592,Irregular
+453,518593,Spiral
+454,518614,Irregular
+455,518618,Lenticular
+456,518630,Bar Spiral
+457,518654,Elliptical
+458,518656,Irregular
+459,518673,Elliptical Cigar
+460,518678,Elliptical
+461,518685,Lenticular
+462,518704,Elliptical
+463,518724,Irregular
+464,518726,Lenticular
+465,518731,Spiral
+466,518740,Elliptical Cigar
+467,518741,Bar Spiral
+468,518746,Lenticular
+469,518752,Spiral
+470,518763,Bar Spiral
+471,518775,Elliptical
+472,518777,Spiral
+473,518798,Elliptical
+474,518835,Elliptical
+475,518858,Elliptical
+476,518867,Bar Spiral
+477,518892,Bar Spiral
+478,518899,Spiral
+479,518938,Elliptical
+480,518977,Irregular
+481,518978,Elliptical
+482,518995,Spiral
+483,518999,Elliptical
+484,519001,Elliptical
+485,519048,Elliptical
+486,519050,Spiral
+487,519051,Spiral
+488,519077,Irregular
+489,519081,Elliptical
+490,519083,Elliptical
+491,519093,Spiral
+492,519105,Irregular
+493,519108,Bar Spiral
+494,519129,Spiral
+495,519138,Lenticular
+496,519141,Bar Spiral
+497,519148,Bar Spiral
+498,519156,Spiral
+499,519185,Elliptical
+500,519187,Spiral
+501,519192,Irregular
+502,519205,Spiral
+503,519208,Spiral
+504,519214,Spiral
+505,519235,Spiral
+506,519243,Elliptical
+507,519255,Spiral
+508,519256,Irregular
+509,519271,Irregular
+510,519286,Elliptical
+511,519300,Elliptical
+512,519342,Bar Spiral
+513,519380,Elliptical Cigar
+514,519388,Irregular
+515,519391,Elliptical Cigar
+516,519392,Elliptical
+517,519407,Spiral
+518,519415,Spiral
+519,519452,Spiral
+520,519459,Bar Spiral
+521,519472,Irregular
+522,519512,Elliptical
+523,519524,Irregular
+524,519535,Irregular
+525,519566,Irregular
+526,519575,Elliptical
+527,519584,Elliptical
+528,519597,Irregular
+529,519603,Elliptical
+530,519607,Bar Spiral
+531,519616,Spiral
+532,519618,Irregular
+533,519627,Lenticular
+534,519637,Lenticular
+535,519647,Lenticular
+536,519685,Spiral
+537,519723,Elliptical
+538,519733,Bar Spiral
+539,519749,Elliptical
+540,519759,Elliptical
+541,519785,Irregular
+542,519799,Elliptical
+543,519810,Elliptical
+544,519816,Elliptical
+545,519819,Elliptical
+546,519820,Bar Spiral
+547,519828,Elliptical
+548,519832,Spiral
+549,519837,Irregular
+550,519841,Irregular
+551,519844,Irregular
+552,519849,Elliptical
+553,519850,Elliptical
+554,519853,Irregular
+555,519856,Irregular
+556,519865,Bar Spiral
+557,519886,Elliptical
+558,519890,Bar Spiral
+559,519900,Spiral
+560,519953,Spiral
+561,519956,Lenticular
+562,519967,Elliptical
+563,519968,Elliptical
+564,519995,Elliptical
+565,520017,Elliptical
+566,520023,Irregular
+567,520035,Elliptical
+568,520051,Elliptical Cigar
+569,520077,Spiral
+570,520078,Spiral
+571,520092,Bar Spiral
+572,520112,Elliptical
+573,520128,Spiral
+574,520132,Elliptical
+575,520141,Spiral
+576,520156,Spiral
+577,520162,Bar Spiral
+578,520163,Elliptical
+579,520199,Irregular
+580,520218,Spiral
+581,520231,Spiral
+582,520232,Irregular
+583,520234,Irregular
+584,520246,Irregular
+585,520248,Spiral
+586,520274,Elliptical
+587,520283,Elliptical
+588,520316,Spiral
+589,520330,Spiral
+590,520338,Lenticular
+591,520346,Spiral
+592,520394,Elliptical
+593,520410,Elliptical
+594,520428,Irregular
+595,520438,Irregular
+596,520459,Bar Spiral
+597,520528,Irregular
+598,520530,Elliptical
+599,520603,Elliptical Cigar
+600,520608,Spiral
+601,520612,Elliptical
+602,520651,Elliptical Cigar
+603,520678,Elliptical
+604,520681,Elliptical
+605,520683,Spiral
+606,520696,Irregular
+607,520726,Irregular
+608,520757,Elliptical
+609,520761,Spiral
+610,520764,Elliptical
+611,520774,Spiral
+612,520787,Elliptical
+613,520795,Irregular
+614,520800,Irregular
+615,520805,Elliptical
+616,520817,Elliptical
+617,520826,Elliptical
+618,520848,Bar Spiral
+619,520853,Spiral
+620,520855,Elliptical
+621,520866,Spiral
+622,520889,Spiral
+623,520910,Elliptical
+624,520911,Irregular
+625,520917,Elliptical
+626,520920,Elliptical
+627,520936,Spiral
+628,520944,Elliptical
+629,520951,Lenticular
+630,521002,Irregular
+631,521006,Elliptical
+632,521039,Irregular
+633,521065,Elliptical
+634,521096,Elliptical
+635,521117,Irregular
+636,521125,Elliptical
+637,521131,Spiral
+638,521132,Elliptical
+639,521187,Spiral
+640,521190,Elliptical
+641,521200,Spiral
+642,521206,Spiral
+643,521217,Spiral
+644,521223,Elliptical
+645,521246,Irregular
+646,521252,Spiral
+647,521305,Bar Spiral
+648,521306,Spiral
+649,521309,Elliptical
+650,521311,Bar Spiral
+651,521328,Lenticular
+652,521339,Spiral
+653,521357,Irregular
+654,521361,Elliptical
+655,521367,Elliptical Cigar
+656,521405,Spiral
+657,521414,Elliptical
+658,521448,Lenticular
+659,521469,Elliptical
+660,521470,Elliptical
+661,521471,Elliptical
+662,521492,Elliptical
+663,521500,Irregular
+664,521513,Elliptical
+665,521560,Spiral
+666,521563,Spiral
+667,521607,Lenticular
+668,521618,Irregular
+669,521640,Elliptical
+670,521647,Spiral
+671,521668,Elliptical
+672,521670,Spiral
+673,521676,Elliptical
+674,521684,Irregular
+675,521706,Spiral
+676,521712,Spiral
+677,521756,Irregular
+678,521775,Elliptical
+679,521804,Spiral
+680,521806,Irregular
+681,521810,Spiral
+682,521817,Elliptical Cigar
+683,521849,Irregular
+684,521852,Elliptical
+685,521865,Spiral
+686,521880,Spiral
+687,521884,Irregular
+688,521887,Elliptical
+689,521901,Spiral
+690,521904,Elliptical
+691,521909,Lenticular
+692,521910,Elliptical
+693,521921,Elliptical
+694,521931,Bar Spiral
+695,521950,Elliptical
+696,521963,Elliptical
+697,521977,Elliptical
+698,521983,Spiral
+699,522006,Spiral
+700,522020,Bar Spiral
+701,522026,Spiral
+702,522029,Spiral
+703,522036,Irregular
+704,522041,Spiral
+705,522047,Elliptical
+706,522066,Spiral
+707,522080,Spiral
+708,522086,Spiral
+709,522087,Spiral
+710,522097,Elliptical
+711,522143,Irregular
+712,522152,Elliptical
+713,522163,Elliptical
+714,522176,Elliptical
+715,522179,Spiral
+716,522196,Irregular
+717,522216,Elliptical
+718,522217,Irregular
+719,522220,Irregular
+720,522229,Irregular
+721,522247,Elliptical
+722,522250,Spiral
+723,522268,Elliptical
+724,522318,Spiral
+725,522344,Spiral
+726,522349,Spiral
+727,522377,Spiral
+728,522387,Elliptical
+729,522396,Irregular
+730,522407,Elliptical
+731,522428,Lenticular
+732,522438,Elliptical
+733,522441,Elliptical
+734,522446,Irregular
+735,522459,Spiral
+736,522463,Elliptical
+737,522469,Spiral
+738,522477,Elliptical
+739,522501,Elliptical
+740,522513,Bar Spiral
+741,522532,Elliptical
+742,522550,Elliptical
+743,522557,Elliptical
+744,522598,Elliptical
+745,522602,Elliptical
+746,522603,Elliptical
+747,522655,Elliptical Cigar
+748,522662,Elliptical
+749,522683,Elliptical
+750,522686,Elliptical
+751,522694,Spiral
+752,522696,Elliptical
+753,522709,Elliptical
+754,522734,Elliptical
+755,522750,Bar Spiral
+756,522752,Bar Spiral
+757,522763,Elliptical
+758,522770,Elliptical
+759,522780,Irregular
+760,522798,Bar Spiral
+761,522802,Spiral
+762,522835,Elliptical
+763,522853,Spiral
+764,522862,Spiral
+765,522873,Spiral
+766,522875,Elliptical
+767,522882,Elliptical
+768,522888,Elliptical
+769,522922,Irregular
+770,522931,Bar Spiral
+771,522937,Elliptical
+772,522952,Elliptical
+773,522959,Spiral
+774,522961,Elliptical
+775,522967,Irregular
+776,522991,Elliptical
+777,523012,Lenticular
+778,523032,Lenticular
+779,523037,Bar Spiral
+780,523136,Spiral
+781,523178,Elliptical
+782,523179,Lenticular
+783,523199,Elliptical
+784,523231,Irregular
+785,523238,Spiral
+786,523245,Bar Spiral
+787,523265,Spiral
+788,523278,Spiral
+789,523280,Spiral
+790,523284,Elliptical
+791,523314,Spiral
+792,523337,Lenticular
+793,523356,Elliptical
+794,523360,Elliptical
+795,523368,Spiral
+796,523385,Spiral
+797,523470,Irregular
+798,523475,Elliptical Cigar
+799,523496,Elliptical
+800,523499,Irregular
+801,523507,Elliptical
+802,523520,Spiral
+803,523529,Elliptical
+804,523552,Irregular
+805,523554,Bar Spiral
+806,523557,Elliptical
+807,523566,Elliptical Cigar
+808,523569,Lenticular
+809,523579,Elliptical
+810,523586,Spiral
+811,523619,Elliptical
+812,523620,Spiral
+813,523638,Elliptical
+814,523656,Elliptical
+815,523658,Irregular
+816,523679,Spiral
+817,523691,Spiral
+818,523699,Elliptical Cigar
+819,523716,Irregular
+820,523720,Irregular
+821,523721,Elliptical Cigar
+822,523728,Elliptical
+823,523759,Elliptical
+824,523786,Elliptical
+825,523820,Irregular
+826,523832,Elliptical Cigar
+827,523850,Spiral
+828,523870,Elliptical
+829,523873,Spiral
+830,523876,Bar Spiral
+831,523878,Irregular
+832,523913,Elliptical
+833,523918,Elliptical
+834,523936,Elliptical
+835,523990,Irregular
+836,523997,Irregular
+837,524008,Spiral
+838,524020,Spiral
+839,524025,Elliptical
+840,524042,Irregular
+841,524052,Bar Spiral
+842,524093,Elliptical
+843,524106,Elliptical
+844,524120,Spiral
+845,524123,Elliptical
+846,524158,Spiral
+847,524164,Spiral
+848,524165,Elliptical
+849,524167,Spiral
+850,524170,Irregular
+851,524194,Bar Spiral
+852,524215,Spiral
+853,524226,Lenticular
+854,524236,Elliptical
+855,524241,Irregular
+856,524244,Elliptical
+857,524249,Spiral
+858,524258,Elliptical
+859,524267,Elliptical
+860,524279,Irregular
+861,524286,Spiral
+862,524287,Spiral
+863,524311,Irregular
+864,524324,Elliptical
+865,524335,Bar Spiral
+866,524343,Bar Spiral
+867,524347,Spiral
+868,524354,Spiral
+869,524361,Elliptical Cigar
+870,524365,Elliptical
+871,524366,Elliptical
+872,524379,Irregular
+873,524393,Spiral
+874,524419,Elliptical
+875,524423,Lenticular
+876,524428,Spiral
+877,524468,Bar Spiral
+878,524495,Spiral
+879,524497,Elliptical
+880,524513,Lenticular
+881,524527,Spiral
+882,524560,Irregular
+883,524561,Spiral
+884,524564,Lenticular
+885,524576,Elliptical
+886,524590,Elliptical
+887,524591,Bar Spiral
+888,524609,Elliptical
+889,524611,Elliptical
+890,524645,Elliptical
+891,524655,Spiral
+892,524659,Spiral
+893,524673,Elliptical
+894,524681,Bar Spiral
+895,524693,Elliptical
+896,524743,Elliptical Cigar
+897,524749,Elliptical
+898,524763,Spiral
+899,524767,Elliptical
+900,524774,Lenticular
+901,524776,Irregular
+902,524783,Spiral
+903,524811,Spiral
+904,524821,Spiral
+905,524831,Bar Spiral
+906,524838,Irregular
+907,524850,Bar Spiral
+908,524874,Elliptical
+909,524880,Lenticular
+910,524885,Irregular
+911,524886,Spiral
+912,524893,Spiral
+913,524896,Spiral
+914,524942,Irregular
+915,524975,Irregular
+916,524982,Spiral
+917,524990,Irregular
+918,524995,Elliptical
+919,525011,Elliptical
+920,525021,Elliptical
+921,525037,Elliptical
+922,525044,Elliptical
+923,525064,Elliptical
+924,525066,Irregular
+925,525075,Spiral
+926,525093,Bar Spiral
+927,525097,Spiral
+928,525109,Elliptical
+929,525156,Elliptical
+930,525159,Lenticular
+931,525160,Spiral
+932,525167,Irregular
+933,525171,Spiral
+934,525177,Elliptical
+935,525203,Elliptical
+936,525211,Spiral
+937,525226,Irregular
+938,525246,Lenticular
+939,525275,Spiral
+940,525280,Bar Spiral
+941,525282,Elliptical
+942,525304,Elliptical
+943,525318,Elliptical
+944,525326,Lenticular
+945,525362,Elliptical
+946,525372,Spiral
+947,525376,Elliptical
+948,525386,Spiral
+949,525389,Spiral
+950,525413,Elliptical
+951,525415,Elliptical
+952,525422,Elliptical
+953,525474,Spiral
+954,525495,Spiral
+955,525497,Spiral
+956,525498,Irregular
+957,525499,Lenticular
+958,525512,Elliptical
+959,525541,Elliptical
+960,525543,Spiral
+961,525548,Irregular
+962,525563,Elliptical
+963,525581,Spiral
+964,525584,Elliptical
+965,525588,Spiral
+966,525591,Spiral
+967,525678,Spiral
+968,525696,Elliptical
+969,525697,Elliptical
+970,525700,Elliptical
+971,525702,Elliptical
+972,525707,Elliptical Cigar
+973,525709,Elliptical Cigar
+974,525745,Irregular
+975,525800,Elliptical
+976,525802,Elliptical
+977,525822,Elliptical
+978,525829,Bar Spiral
+979,525864,Elliptical
+980,525869,Irregular
+981,525875,Elliptical
+982,525910,Spiral
+983,525919,Irregular
+984,525929,Lenticular
+985,525947,Spiral
+986,525969,Spiral
+987,525978,Irregular
+988,525983,Bar Spiral
+989,525988,Elliptical
+990,526002,Elliptical
+991,526006,Elliptical
+992,526007,Spiral
+993,526018,Bar Spiral
+994,526035,Irregular
+995,526053,Bar Spiral
+996,526065,Spiral
+997,526090,Irregular
+998,526123,Spiral
+999,526131,Spiral
+1000,526135,Irregular
+1001,526137,Elliptical
+1002,526214,Elliptical
+1003,526228,Spiral
+1004,526234,Elliptical
+1005,526238,Lenticular
+1006,526248,Lenticular
+1007,526283,Elliptical
+1008,526309,Elliptical
+1009,526314,Irregular
+1010,526319,Irregular
+1011,526330,Elliptical Cigar
+1012,526332,Irregular
+1013,526369,Lenticular
+1014,526370,Spiral
+1015,526376,Elliptical Cigar
+1016,526395,Spiral
+1017,526399,Elliptical
+1018,526431,Irregular
+1019,526433,Elliptical Cigar
+1020,526438,Spiral
+1021,526441,Spiral
+1022,526446,Elliptical
+1023,526457,Elliptical
+1024,526458,Elliptical
+1025,526464,Elliptical
+1026,526512,Lenticular
+1027,526514,Spiral
+1028,526518,Elliptical
+1029,526550,Elliptical
+1030,526551,Irregular
+1031,526557,Elliptical
+1032,526569,Elliptical
+1033,526573,Spiral
+1034,526602,Spiral
+1035,526616,Irregular
+1036,526617,Elliptical
+1037,526633,Irregular
+1038,526636,Irregular
+1039,526641,Elliptical
+1040,526660,Bar Spiral
+1041,526669,Spiral
+1042,526676,Spiral
+1043,526697,Irregular
+1044,526729,Spiral
+1045,526743,Irregular
+1046,526746,Spiral
+1047,526779,Elliptical
+1048,526785,Elliptical
+1049,526793,Spiral
+1050,526815,Elliptical
+1051,526817,Elliptical
+1052,526824,Elliptical
+1053,526836,Spiral
+1054,526837,Spiral
+1055,526854,Spiral
+1056,526883,Elliptical
+1057,526894,Elliptical
+1058,526913,Elliptical
+1059,526924,Spiral
+1060,526948,Spiral
+1061,526957,Elliptical
+1062,526964,Elliptical Cigar
+1063,527024,Elliptical
+1064,527037,Irregular
+1065,527066,Lenticular
+1066,527073,Elliptical
+1067,527085,Spiral
+1068,527087,Lenticular
+1069,527091,Spiral
+1070,527097,Elliptical
+1071,527099,Spiral
+1072,527115,Spiral
+1073,527126,Lenticular
+1074,527176,Irregular
+1075,527251,Elliptical
+1076,527265,Elliptical
+1077,527266,Irregular
+1078,527311,Elliptical
+1079,527328,Bar Spiral
+1080,527334,Irregular
+1081,527359,Lenticular
+1082,527363,Irregular
+1083,527372,Irregular
+1084,527389,Irregular
+1085,527393,Spiral
+1086,527397,Elliptical
+1087,527408,Lenticular
+1088,527415,Irregular
+1089,527451,Spiral
+1090,527463,Elliptical
+1091,527476,Elliptical
+1092,527497,Elliptical
+1093,527517,Elliptical
+1094,527522,Irregular
+1095,527532,Lenticular
+1096,527543,Irregular
+1097,527553,Lenticular
+1098,527572,Lenticular
+1099,527574,Spiral
+1100,527578,Elliptical Cigar
+1101,527615,Elliptical
+1102,527622,Elliptical
+1103,527625,Spiral
+1104,527633,Elliptical
+1105,527634,Elliptical
+1106,527654,Bar Spiral
+1107,527692,Irregular
+1108,527706,Spiral
+1109,527710,Bar Spiral
+1110,527711,Elliptical
+1111,527718,Spiral
+1112,527723,Irregular
+1113,527725,Spiral
+1114,527729,Elliptical
+1115,527770,Irregular
+1116,527773,Spiral
+1117,527783,Spiral
+1118,527800,Irregular
+1119,527810,Spiral
+1120,527814,Elliptical
+1121,527818,Irregular
+1122,527842,Elliptical
+1123,527843,Lenticular
+1124,527846,Spiral
+1125,527862,Irregular
+1126,527863,Spiral
+1127,527888,Irregular
+1128,527890,Elliptical
+1129,527915,Elliptical
+1130,527918,Spiral
+1131,527932,Spiral
+1132,527964,Elliptical
+1133,527972,Elliptical
+1134,527989,Spiral
+1135,527999,Spiral
+1136,528029,Elliptical
+1137,528030,Lenticular
+1138,528038,Bar Spiral
+1139,528045,Elliptical
+1140,528046,Elliptical
+1141,528048,Elliptical
+1142,528078,Bar Spiral
+1143,528099,Irregular
+1144,528107,Elliptical
+1145,528143,STAR
+1146,528149,Elliptical Cigar
+1147,528174,Elliptical
+1148,528175,Spiral
+1149,528189,Elliptical
+1150,528197,Spiral
+1151,528209,Spiral
+1152,528212,Elliptical
+1153,528221,Irregular
+1154,528225,Spiral
+1155,528257,Spiral
+1156,528262,Irregular
+1157,528270,Spiral
+1158,528294,Irregular
+1159,528296,Spiral
+1160,528315,Elliptical
+1161,528376,Elliptical
+1162,528379,Spiral
+1163,528385,Elliptical
+1164,528430,Spiral
+1165,528438,Elliptical
+1166,528455,Elliptical
+1167,528467,Spiral
+1168,528472,Spiral
+1169,528474,Spiral
+1170,528495,Elliptical
+1171,528549,Lenticular
+1172,528550,Irregular
+1173,528565,Spiral
+1174,528616,Elliptical
+1175,528618,Lenticular
+1176,528649,Elliptical
+1177,528650,Spiral
+1178,528666,Elliptical
+1179,528674,Spiral
+1180,528683,Elliptical
+1181,528706,Spiral
+1182,528708,Spiral
+1183,528720,Spiral
+1184,528721,Irregular
+1185,528736,Irregular
+1186,528753,Elliptical
+1187,528754,Spiral
+1188,528823,Irregular
+1189,528834,Spiral
+1190,528846,Elliptical
+1191,528853,Elliptical
+1192,528858,Irregular
+1193,528860,Spiral
+1194,528864,Irregular
+1195,528878,Spiral
+1196,528882,Elliptical
+1197,528912,Spiral
+1198,528933,Elliptical
+1199,528955,Elliptical
+1200,528978,Bar Spiral
+1201,528988,Irregular
+1202,529010,Elliptical
+1203,529020,Elliptical
+1204,529027,Irregular
+1205,529058,Spiral
+1206,529063,Irregular
+1207,529086,Bar Spiral
+1208,529087,Elliptical
+1209,529093,Elliptical
+1210,529135,Spiral
+1211,529136,Spiral
+1212,529157,Elliptical
+1213,529158,Lenticular
+1214,529174,Elliptical
+1215,529183,Spiral
+1216,529184,Elliptical
+1217,529211,Elliptical
+1218,529215,Spiral
+1219,529269,Spiral
+1220,529282,Spiral
+1221,529289,Spiral
+1222,529300,Irregular
+1223,529312,Spiral
+1224,529319,Spiral
+1225,529334,Irregular
+1226,529337,Spiral
+1227,529338,Elliptical
+1228,529340,Elliptical
+1229,529344,Irregular
+1230,529349,Irregular
+1231,529361,Elliptical
+1232,529369,Bar Spiral
+1233,529376,Spiral
+1234,529380,Irregular
+1235,529397,Elliptical Cigar
+1236,529415,Elliptical
+1237,529452,Elliptical
+1238,529459,Elliptical
+1239,529471,Spiral
+1240,529486,Spiral
+1241,529524,Spiral
+1242,529534,Irregular
+1243,529549,Elliptical
+1244,529558,Spiral
+1245,529576,Irregular
+1246,529577,Bar Spiral
+1247,529587,Bar Spiral
+1248,529612,Elliptical
+1249,529638,Irregular
+1250,529651,Elliptical
+1251,529652,Spiral
+1252,529667,Spiral
+1253,529670,Elliptical
+1254,529674,Elliptical
+1255,529687,Lenticular
+1256,529691,Elliptical
+1257,529727,Elliptical
+1258,529731,Spiral
+1259,529740,Spiral
+1260,529749,Spiral
+1261,529768,Elliptical
+1262,529775,Spiral
+1263,529785,Irregular
+1264,529808,Elliptical
+1265,529884,Spiral
+1266,529899,Spiral
+1267,529936,Irregular
+1268,529963,Elliptical
+1269,529987,Elliptical
+1270,530029,Elliptical
+1271,530033,Elliptical
+1272,530044,Spiral
+1273,530076,Lenticular
+1274,530084,Bar Spiral
+1275,530113,Spiral
+1276,530121,Spiral
+1277,530162,Elliptical
+1278,530165,Elliptical
+1279,530169,Elliptical
+1280,530194,Elliptical
+1281,530216,Elliptical Cigar
+1282,530233,Spiral
+1283,530256,Spiral
+1284,530257,Elliptical
+1285,530263,Elliptical
+1286,530270,Spiral
+1287,530280,Elliptical
+1288,530291,Spiral
+1289,530309,Irregular
+1290,530350,Spiral
+1291,530369,Irregular
+1292,530377,Bar Spiral
+1293,530381,Spiral
+1294,530397,Elliptical
+1295,530414,Irregular
+1296,530419,Bar Spiral
+1297,530441,Irregular
+1298,530477,Elliptical Cigar
+1299,530501,Lenticular
+1300,530527,Elliptical
+1301,530528,Bar Spiral
+1302,530577,Elliptical
+1303,530589,Elliptical
+1304,530597,Bar Spiral
+1305,530601,Elliptical
+1306,530621,Spiral
+1307,530658,Irregular
+1308,530675,Irregular
+1309,530678,Spiral
+1310,530692,Elliptical
+1311,530701,Elliptical
+1312,530710,Spiral
+1313,530750,Elliptical
+1314,530778,Spiral
+1315,530799,Irregular
+1316,530802,Lenticular
+1317,530833,Elliptical
+1318,530834,Elliptical
+1319,530842,Spiral
+1320,530859,Elliptical
+1321,530861,Lenticular
+1322,530863,Bar Spiral
+1323,530899,Spiral
+1324,530946,Spiral
+1325,530949,Irregular
+1326,530978,Spiral
+1327,531053,Elliptical
+1328,531095,Elliptical Cigar
+1329,531125,Elliptical
+1330,531141,Irregular
+1331,531151,Elliptical
+1332,531155,Irregular
+1333,531165,Elliptical
+1334,531180,Spiral
+1335,531195,Elliptical
+1336,531202,Irregular
+1337,531225,Spiral
+1338,531249,Elliptical
+1339,531261,Irregular
+1340,531268,Spiral
+1341,531270,Bar Spiral
+1342,531300,Elliptical
+1343,531325,Elliptical
+1344,531345,Spiral
+1345,531359,Elliptical
+1346,531363,Irregular
+1347,531391,Elliptical Cigar
+1348,531410,Spiral
+1349,531422,Spiral
+1350,531426,Elliptical
+1351,531427,Spiral
+1352,531431,Spiral
+1353,531435,Bar Spiral
+1354,531443,Irregular
+1355,531452,Elliptical
+1356,531462,Elliptical
+1357,531469,Spiral
+1358,531501,Elliptical
+1359,531508,Elliptical
+1360,531514,Elliptical
+1361,531516,Irregular
+1362,531517,Elliptical
+1363,531568,Elliptical
+1364,531575,Elliptical
+1365,531605,Spiral
+1366,531606,Irregular
+1367,531613,Spiral
+1368,531618,Irregular
+1369,531632,Elliptical
+1370,531639,Spiral
+1371,531670,Elliptical
+1372,531679,Elliptical
+1373,531688,Elliptical
+1374,531695,Elliptical Cigar
+1375,531747,Elliptical
+1376,531759,Spiral
+1377,531765,Elliptical
+1378,531817,Elliptical
+1379,531825,Irregular
+1380,531826,Elliptical
+1381,531850,Irregular
+1382,531861,Elliptical
+1383,531870,Spiral
+1384,531875,Spiral
+1385,531896,Spiral
+1386,531900,Elliptical
+1387,531918,Spiral
+1388,531944,Elliptical
+1389,531946,Elliptical
+1390,531964,Spiral
+1391,531984,Elliptical
+1392,531985,Spiral
+1393,532050,Spiral
+1394,532059,Elliptical
+1395,532065,Spiral
+1396,532069,Irregular
+1397,532082,Spiral
+1398,532091,Spiral
+1399,532101,Spiral
+1400,532127,Irregular
+1401,532141,Irregular
+1402,532152,Irregular
+1403,532174,Irregular
+1404,532180,Elliptical
+1405,532240,Elliptical Cigar
+1406,532248,Elliptical
+1407,532263,Elliptical
+1408,532268,Elliptical
+1409,532286,Spiral
+1410,532296,Elliptical
+1411,532298,Spiral
+1412,532301,Irregular
+1413,532328,Spiral
+1414,532331,Elliptical
+1415,532370,Spiral
+1416,532373,Elliptical
+1417,532417,Spiral
+1418,532452,Spiral
+1419,532459,Spiral
+1420,532485,Irregular
+1421,532497,Lenticular
+1422,532508,Irregular
+1423,532511,Elliptical
+1424,532525,Bar Spiral
+1425,532570,Spiral
+1426,532574,Spiral
+1427,532591,Irregular
+1428,532598,Lenticular
+1429,532608,Elliptical
+1430,532647,Bar Spiral
+1431,532657,Elliptical
+1432,532680,Elliptical
+1433,532693,Spiral
+1434,532744,Elliptical
+1435,532753,Irregular
+1436,532760,Elliptical
+1437,532763,Irregular
+1438,532790,Bar Spiral
+1439,532791,Elliptical
+1440,532805,Irregular
+1441,532828,Elliptical
+1442,532836,Spiral
+1443,532838,Elliptical
+1444,532847,Elliptical
+1445,532851,Elliptical
+1446,532856,Bar Spiral
+1447,532880,Bar Spiral
+1448,532906,Bar Spiral
+1449,532918,Elliptical
+1450,532920,Spiral
+1451,532936,Spiral
+1452,532940,Irregular
+1453,532944,Spiral
+1454,532946,Irregular
+1455,532966,Elliptical
+1456,532974,Elliptical
+1457,532994,Elliptical
+1458,532995,Spiral
+1459,533003,Spiral
+1460,533005,Elliptical
+1461,533011,Irregular
+1462,533018,Elliptical
+1463,533032,Elliptical
+1464,533035,Elliptical
+1465,533064,Irregular
+1466,533077,Elliptical
+1467,533109,Elliptical
+1468,533111,Irregular
+1469,533123,Elliptical
+1470,533129,Lenticular
+1471,533148,Elliptical
+1472,533150,Spiral
+1473,533160,Spiral
+1474,533177,Spiral
+1475,533187,Lenticular
+1476,533192,Spiral
+1477,533199,Elliptical
+1478,533303,Elliptical
+1479,533323,Elliptical Cigar
+1480,533324,Elliptical
+1481,533333,Elliptical
+1482,533347,Lenticular
+1483,533357,Irregular
+1484,533378,Elliptical
+1485,533396,Bar Spiral
+1486,533400,Irregular
+1487,533419,Elliptical
+1488,533425,Elliptical
+1489,533431,Irregular
+1490,533440,Spiral
+1491,533459,Bar Spiral
+1492,533461,Lenticular
+1493,533469,Spiral
+1494,533483,Spiral
+1495,533495,Elliptical
+1496,533499,Lenticular
+1497,533513,Irregular
+1498,533518,Spiral
+1499,533529,Elliptical
+1500,533531,Elliptical
+1501,533537,Bar Spiral
+1502,533544,Spiral
+1503,533549,Spiral
+1504,533558,Bar Spiral
+1505,533559,Elliptical
+1506,533574,Irregular
+1507,533597,Spiral
+1508,533632,Irregular
+1509,533655,Spiral
+1510,533691,Spiral
+1511,533697,Spiral
+1512,533756,Elliptical
+1513,533766,Spiral
+1514,533767,Elliptical
+1515,533790,Irregular
+1516,533809,Irregular
+1517,533826,Elliptical
+1518,533861,Lenticular
+1519,533873,Irregular
+1520,533877,Elliptical
+1521,533885,Bar Spiral
+1522,533924,Elliptical
+1523,533925,Irregular
+1524,533938,Bar Spiral
+1525,533969,Elliptical
+1526,533977,Spiral
+1527,534004,Bar Spiral
+1528,534043,Elliptical
+1529,534054,Lenticular
+1530,534072,Irregular
+1531,534074,Spiral
+1532,534078,Spiral
+1533,534086,Elliptical Cigar
+1534,534089,Elliptical
+1535,534095,Irregular
+1536,534096,Irregular
+1537,534107,Elliptical
+1538,534113,Bar Spiral
+1539,534136,Lenticular
+1540,534138,Irregular
+1541,534139,Lenticular
+1542,534164,Spiral
+1543,534208,Irregular
+1544,534227,Elliptical
+1545,534243,Spiral
+1546,534249,Elliptical
+1547,534266,Elliptical
+1548,534286,Spiral
+1549,534291,Irregular
+1550,534309,Spiral
+1551,534321,Elliptical
+1552,534331,Elliptical
+1553,534342,Lenticular
+1554,534356,Bar Spiral
+1555,534371,Elliptical
+1556,534374,Irregular
+1557,534479,Elliptical Cigar
+1558,534513,Elliptical
+1559,534558,Bar Spiral
+1560,534568,Spiral
+1561,534587,Spiral
+1562,534610,Bar Spiral
+1563,534614,Spiral
+1564,534618,Elliptical
+1565,534655,Elliptical
+1566,534657,Irregular
+1567,534676,Elliptical
+1568,534689,Spiral
+1569,534725,Spiral
+1570,534738,Spiral
+1571,534741,Elliptical
+1572,534754,Irregular
+1573,534763,Bar Spiral
+1574,534773,Elliptical
+1575,534791,Bar Spiral
+1576,534795,Elliptical
+1577,534803,Elliptical
+1578,534806,Bar Spiral
+1579,534814,Irregular
+1580,534819,Elliptical
+1581,534827,Elliptical
+1582,534835,Spiral
+1583,534856,Spiral
+1584,534873,Irregular
+1585,534874,Bar Spiral
+1586,534876,Lenticular
+1587,534903,Elliptical
+1588,534922,Irregular
+1589,534937,Spiral
+1590,534950,Irregular
+1591,534959,Lenticular
+1592,534981,Elliptical
+1593,535020,Elliptical
+1594,535044,Spiral
+1595,535057,Irregular
+1596,535062,Elliptical
+1597,535075,Elliptical
+1598,535080,Elliptical
+1599,535103,Spiral
+1600,535127,Spiral
+1601,535135,Elliptical
+1602,535144,Irregular
+1603,535148,Spiral
+1604,535167,Spiral
+1605,535234,Spiral
+1606,535251,Elliptical Cigar
+1607,535256,Bar Spiral
+1608,535319,Spiral
+1609,535322,Bar Spiral
+1610,535323,Elliptical
+1611,535327,Spiral
+1612,535339,Elliptical
+1613,535349,Bar Spiral
+1614,535354,Spiral
+1615,535369,Lenticular
+1616,535376,Spiral
+1617,535406,Elliptical
+1618,535419,Elliptical
+1619,535421,Spiral
+1620,535444,Irregular
+1621,535446,Elliptical
+1622,535450,Elliptical
+1623,535454,Spiral
+1624,535459,Bar Spiral
+1625,535463,Lenticular
+1626,535466,Elliptical
+1627,535483,Spiral
+1628,535499,Spiral
+1629,535514,Spiral
+1630,535569,Elliptical
+1631,535580,Elliptical
+1632,535587,Elliptical
+1633,535606,Spiral
+1634,535678,Spiral
+1635,535700,Lenticular
+1636,535701,Elliptical
+1637,535720,Elliptical
+1638,535721,Spiral
+1639,535735,Elliptical
+1640,535810,Spiral
+1641,535848,Lenticular
+1642,535851,Spiral
+1643,535886,Irregular
+1644,535888,Elliptical
+1645,535895,Bar Spiral
+1646,535902,Spiral
+1647,535913,Bar Spiral
+1648,535918,Elliptical
+1649,535919,Spiral
+1650,535956,Lenticular
+1651,535992,Spiral
+1652,535996,Bar Spiral
+1653,536004,Elliptical
+1654,536050,Spiral
+1655,536055,Elliptical
+1656,536067,Elliptical
+1657,536094,Elliptical
+1658,536098,Spiral
+1659,536105,Elliptical
+1660,536124,Elliptical
+1661,536141,Elliptical
+1662,536161,Spiral
+1663,536171,Elliptical
+1664,536186,Spiral
+1665,536198,Elliptical
+1666,536222,Elliptical
+1667,536242,Lenticular
+1668,536266,Spiral
+1669,536277,Irregular
+1670,536293,Bar Spiral
+1671,536308,Elliptical
+1672,536350,Elliptical
+1673,536370,Elliptical
+1674,536382,Spiral
+1675,536413,Elliptical
+1676,536415,Spiral
+1677,536426,Spiral
+1678,536429,Spiral
+1679,536438,Spiral
+1680,536465,Bar Spiral
+1681,536483,Irregular
+1682,536499,Elliptical Cigar
+1683,536510,Elliptical Cigar
+1684,536530,Spiral
+1685,536538,Elliptical
+1686,536545,Elliptical
+1687,536548,Spiral
+1688,536555,Bar Spiral
+1689,536585,Elliptical
+1690,536591,Elliptical
+1691,536621,Bar Spiral
+1692,536636,Elliptical
+1693,536641,Spiral
+1694,536652,Irregular
+1695,536721,Elliptical
+1696,536731,Irregular
+1697,536779,Irregular
+1698,536807,Irregular
+1699,536810,Bar Spiral
+1700,536821,Spiral
+1701,536829,Lenticular
+1702,536832,Elliptical
+1703,536845,Bar Spiral
+1704,536856,Lenticular
+1705,536858,Spiral
+1706,536862,Elliptical
+1707,536899,Spiral
+1708,536901,Irregular
+1709,536925,Spiral
+1710,536945,Spiral
+1711,536956,Spiral
+1712,536970,Elliptical
+1713,536978,Spiral
+1714,536982,Bar Spiral
+1715,537023,Spiral
+1716,537068,Lenticular
+1717,537077,Elliptical
+1718,537092,Irregular
+1719,537099,Elliptical
+1720,537107,Spiral
+1721,537130,Bar Spiral
+1722,537131,Elliptical
+1723,537165,Spiral
+1724,537181,Elliptical
+1725,537211,Spiral
+1726,537226,Spiral
+1727,537250,Spiral
+1728,537267,Bar Spiral
+1729,537284,Bar Spiral
+1730,537309,Elliptical
+1731,537333,Lenticular
+1732,537349,Irregular
+1733,537357,Elliptical
+1734,537359,Spiral
+1735,537363,Spiral
+1736,537398,Bar Spiral
+1737,537418,Bar Spiral
+1738,537422,Spiral
+1739,537435,Elliptical
+1740,537469,Elliptical
+1741,537470,Irregular
+1742,537480,Spiral
+1743,537490,Elliptical
+1744,537497,Elliptical
+1745,537508,Irregular
+1746,537519,Lenticular
+1747,537570,Spiral
+1748,537586,Irregular
+1749,537605,Spiral
+1750,537624,Spiral
+1751,537638,Bar Spiral
+1752,537664,Elliptical
+1753,537748,Elliptical
+1754,537751,Spiral
+1755,537766,Elliptical Cigar
+1756,537790,Spiral
+1757,537797,Elliptical
+1758,537804,Spiral
+1759,537811,Elliptical Cigar
+1760,537843,Spiral
+1761,537862,Spiral
+1762,537892,Irregular
+1763,537895,Spiral
+1764,537902,Spiral
+1765,537912,Elliptical
+1766,537932,Spiral
+1767,537954,Spiral
+1768,537964,Spiral
+1769,537975,Elliptical
+1770,537980,Elliptical
+1771,537996,Irregular
+1772,538004,Elliptical
+1773,538012,Spiral
+1774,538016,Spiral
+1775,538028,Elliptical
+1776,538030,Irregular
+1777,538052,Irregular
+1778,538059,Spiral
+1779,538071,Spiral
+1780,538072,Elliptical
+1781,538100,Spiral
+1782,538106,Bar Spiral
+1783,538129,Bar Spiral
+1784,538186,Spiral
+1785,538202,Spiral
+1786,538221,Spiral
+1787,538228,Elliptical
+1788,538231,Lenticular
+1789,538232,Spiral
+1790,538233,Bar Spiral
+1791,538246,Elliptical
+1792,538251,Irregular
+1793,538264,Spiral
+1794,538281,Spiral
+1795,538306,Irregular
+1796,538317,Spiral
+1797,538318,Spiral
+1798,538321,Elliptical
+1799,538373,Irregular
+1800,538377,Elliptical
+1801,538379,Elliptical
+1802,538382,Spiral
+1803,538386,Spiral
+1804,538396,Irregular
+1805,538407,Irregular
+1806,538410,Spiral
+1807,538433,Elliptical
+1808,538440,Elliptical
+1809,538454,Spiral
+1810,538456,Elliptical
+1811,538465,Spiral
+1812,538490,Elliptical
+1813,538539,Elliptical
+1814,538558,Lenticular
+1815,538561,Elliptical
+1816,538578,Spiral
+1817,538600,Spiral
+1818,538614,Elliptical
+1819,538622,Lenticular
+1820,538650,Elliptical
+1821,538651,Lenticular
+1822,538681,Spiral
+1823,538683,Spiral
+1824,538694,Elliptical
+1825,538701,Lenticular
+1826,538717,Elliptical
+1827,538719,Lenticular
+1828,538732,Spiral
+1829,538765,Lenticular
+1830,538781,Elliptical
+1831,538786,Spiral
+1832,538855,Spiral
+1833,538861,Irregular
+1834,538869,Elliptical
+1835,538887,Spiral
+1836,538889,Irregular
+1837,538946,Bar Spiral
+1838,538954,Spiral
+1839,538980,Irregular
+1840,538981,Spiral
+1841,538983,Lenticular
+1842,538991,Irregular
+1843,538997,Lenticular
+1844,539088,Elliptical
+1845,539093,Elliptical
+1846,539113,Elliptical
+1847,539120,Lenticular
+1848,539124,Bar Spiral
+1849,539158,Elliptical
+1850,539178,Elliptical
+1851,539206,Lenticular
+1852,539225,Spiral
+1853,539246,Spiral
+1854,539274,Elliptical
+1855,539305,Spiral
+1856,539323,Lenticular
+1857,539338,Bar Spiral
+1858,539339,Elliptical
+1859,539357,Elliptical
+1860,539367,Spiral
+1861,539370,Bar Spiral
+1862,539375,Elliptical
+1863,539423,Irregular
+1864,539444,Spiral
+1865,539458,Lenticular
+1866,539460,Irregular
+1867,539476,Spiral
+1868,539491,Elliptical
+1869,539498,Elliptical
+1870,539507,Lenticular
+1871,539534,Lenticular
+1872,539544,Elliptical
+1873,539574,Elliptical
+1874,539577,Spiral
+1875,539578,Irregular
+1876,539584,Elliptical
+1877,539589,Elliptical
+1878,539651,Spiral
+1879,539668,Spiral
+1880,539669,Irregular
+1881,539676,Elliptical
+1882,539679,Elliptical Cigar
+1883,539686,Spiral
+1884,539694,Lenticular
+1885,539738,Spiral
+1886,539743,Spiral
+1887,539770,Spiral
+1888,539790,Elliptical
+1889,539819,Spiral
+1890,539835,Spiral
+1891,539847,Bar Spiral
+1892,539855,Irregular
+1893,539878,Bar Spiral
+1894,539912,Elliptical
+1895,539954,Elliptical
+1896,539957,Elliptical
+1897,539970,Spiral
+1898,539978,Bar Spiral
+1899,539989,Bar Spiral
+1900,540009,Spiral
+1901,540034,Elliptical
+1902,540047,Elliptical Cigar
+1903,540058,Spiral
+1904,540062,Elliptical
+1905,540074,Spiral
+1906,540090,Irregular
+1907,540096,Spiral
+1908,540113,Elliptical
+1909,540121,Spiral
+1910,540158,Bar Spiral
+1911,540170,Spiral
+1912,540177,Spiral
+1913,540188,Elliptical
+1914,540193,Irregular
+1915,540203,Spiral
+1916,540207,Irregular
+1917,540219,Bar Spiral
+1918,540232,Irregular
+1919,540234,Elliptical
+1920,540239,Elliptical
+1921,540245,Irregular
+1922,540265,Elliptical
+1923,540302,Spiral
+1924,540318,Spiral
+1925,540320,Bar Spiral
+1926,540325,Irregular
+1927,540331,Spiral
+1928,540341,Spiral
+1929,540356,Elliptical
+1930,540370,Bar Spiral
+1931,540389,Spiral
+1932,540446,Elliptical
+1933,540449,Bar Spiral
+1934,540451,Irregular
+1935,540461,Spiral
+1936,540466,Elliptical
+1937,540469,Elliptical
+1938,540473,Bar Spiral
+1939,540480,Irregular
+1940,540494,Irregular
+1941,540545,Elliptical
+1942,540561,Irregular
+1943,540588,Elliptical
+1944,540589,Bar Spiral
+1945,540609,Bar Spiral
+1946,540612,Spiral
+1947,540615,Irregular
+1948,540617,Bar Spiral
+1949,540623,Elliptical
+1950,540629,Bar Spiral
+1951,540632,Spiral
+1952,540661,Spiral
+1953,540708,Elliptical
+1954,540711,Elliptical
+1955,540719,Spiral
+1956,540724,Elliptical
+1957,540730,Spiral
+1958,540739,Lenticular
+1959,540751,Spiral
+1960,540765,Spiral
+1961,540766,Elliptical
+1962,540773,Elliptical
+1963,540801,Spiral
+1964,540816,Bar Spiral
+1965,540822,Irregular
+1966,540825,Elliptical
+1967,540862,Spiral
+1968,540880,Elliptical
+1969,540891,Irregular
+1970,540897,Irregular
+1971,540932,Elliptical
+1972,540940,Elliptical
+1973,540941,Spiral
+1974,540947,Elliptical
+1975,540957,Elliptical
+1976,540965,Spiral
+1977,540991,Lenticular
+1978,541004,Elliptical Cigar
+1979,541023,Irregular
+1980,541024,Elliptical
+1981,541057,Spiral
+1982,541106,Elliptical
+1983,541108,Elliptical
+1984,541116,Spiral
+1985,541125,Spiral
+1986,541127,Elliptical
+1987,541145,Irregular
+1988,541147,Spiral
+1989,541155,Elliptical
+1990,541158,Elliptical
+1991,541172,Irregular
+1992,541177,Spiral
+1993,541183,Elliptical
+1994,541199,Elliptical
+1995,541215,Irregular
+1996,541232,Lenticular
+1997,541234,Spiral
+1998,541257,Irregular
+1999,541281,Elliptical Cigar
+2000,541285,Irregular
+2001,541294,Irregular
+2002,541300,Bar Spiral
+2003,541303,Lenticular
+2004,541312,Spiral
+2005,541326,Spiral
+2006,541329,Bar Spiral
+2007,541340,Spiral
+2008,541344,Elliptical
+2009,541355,Spiral
+2010,541422,Spiral
+2011,541446,Elliptical
+2012,541451,Elliptical
+2013,541454,Spiral
+2014,541462,Elliptical
+2015,541474,Spiral
+2016,541477,Elliptical
+2017,541510,Bar Spiral
+2018,541520,Elliptical
+2019,541525,Irregular
+2020,541526,Irregular
+2021,541550,Elliptical
+2022,541552,Irregular
+2023,541573,Lenticular
+2024,541585,Elliptical
+2025,541592,Elliptical
+2026,541596,Elliptical
+2027,541612,Elliptical
+2028,541639,Spiral
+2029,541642,Elliptical
+2030,541651,Elliptical
+2031,541656,Spiral
+2032,541667,Elliptical
+2033,541668,Irregular
+2034,541671,Spiral
+2035,541676,Elliptical
+2036,541694,Spiral
+2037,541707,Elliptical
+2038,541721,Elliptical
+2039,541736,Spiral
+2040,541746,Spiral
+2041,541761,Irregular
+2042,541765,Spiral
+2043,541769,Spiral
+2044,541778,Elliptical
+2045,541784,Elliptical
+2046,541816,Spiral
+2047,541838,Irregular
+2048,541848,Elliptical
+2049,541875,Irregular
+2050,541886,Lenticular
+2051,541903,Spiral
+2052,541908,Elliptical
+2053,541916,Elliptical
+2054,541917,Bar Spiral
+2055,541922,Bar Spiral
+2056,541925,Spiral
+2057,541942,Spiral
+2058,541957,Spiral
+2059,541966,Spiral
+2060,541975,Spiral
+2061,541977,Elliptical
+2062,541992,Irregular
+2063,542020,Spiral
+2064,542033,Elliptical
+2065,542046,Elliptical
+2066,542064,Irregular
+2067,542065,Lenticular
+2068,542071,Elliptical
+2069,542073,Bar Spiral
+2070,542082,Bar Spiral
+2071,542086,Lenticular
+2072,542100,Elliptical
+2073,542104,Irregular
+2074,542129,Bar Spiral
+2075,542153,Spiral
+2076,542162,Spiral
+2077,542186,Elliptical
+2078,542195,Elliptical
+2079,542200,Lenticular
+2080,542205,Elliptical
+2081,542225,Bar Spiral
+2082,542240,Spiral
+2083,542243,Spiral
+2084,542267,Lenticular
+2085,542285,Bar Spiral
+2086,542319,Elliptical
+2087,542338,Lenticular
+2088,542339,Elliptical
+2089,542355,Elliptical
+2090,542378,Elliptical
+2091,542383,Elliptical
+2092,542388,Elliptical
+2093,542390,Elliptical
+2094,542409,Irregular
+2095,542437,Irregular
+2096,542442,Elliptical
+2097,542488,Irregular
+2098,542532,Lenticular
+2099,542533,Spiral
+2100,542537,Elliptical
+2101,542574,Elliptical
+2102,542581,Elliptical
+2103,542603,Spiral
+2104,542611,Spiral
+2105,542621,Elliptical
+2106,542628,Irregular
+2107,542644,Elliptical
+2108,542675,Elliptical
+2109,542697,Elliptical
+2110,542710,Spiral
+2111,542730,Spiral
+2112,542738,Spiral
+2113,542748,Spiral
+2114,542763,Bar Spiral
+2115,542779,Elliptical
+2116,542781,Elliptical
+2117,542784,Spiral
+2118,542796,Irregular
+2119,542807,Lenticular
+2120,542810,Elliptical
+2121,542831,Elliptical
+2122,542835,Lenticular
+2123,542841,Irregular
+2124,542848,Spiral
+2125,542883,Irregular
+2126,542906,Elliptical
+2127,542912,Elliptical
+2128,542972,Irregular
+2129,543070,Elliptical
+2130,543074,Spiral
+2131,543075,Bar Spiral
+2132,543080,Elliptical
+2133,543114,Irregular
+2134,543132,Bar Spiral
+2135,543140,Bar Spiral
+2136,543154,Spiral
+2137,543160,Spiral
+2138,543161,Elliptical
+2139,543184,Elliptical
+2140,543190,Elliptical
+2141,543195,Irregular
+2142,543201,Spiral
+2143,543224,Irregular
+2144,543225,Elliptical
+2145,543246,Irregular
+2146,543268,Elliptical
+2147,543288,Irregular
+2148,543336,Elliptical
+2149,543341,Spiral
+2150,543343,Spiral
+2151,543346,Elliptical
+2152,543375,Elliptical
+2153,543386,Spiral
+2154,543393,Spiral
+2155,543408,Spiral
+2156,543411,Irregular
+2157,543414,Spiral
+2158,543432,Spiral
+2159,543437,Elliptical Cigar
+2160,543451,Elliptical
+2161,543499,Spiral
+2162,543542,Spiral
+2163,543564,Irregular
+2164,543565,Irregular
+2165,543611,Lenticular
+2166,543613,Spiral
+2167,543620,Bar Spiral
+2168,543640,Elliptical
+2169,543677,Irregular
+2170,543680,Elliptical
+2171,543686,Irregular
+2172,543696,Elliptical
+2173,543711,Elliptical
+2174,543745,Elliptical
+2175,543752,Elliptical
+2176,543773,Lenticular
+2177,543774,Bar Spiral
+2178,543800,Lenticular
+2179,543804,Bar Spiral
+2180,543806,Lenticular
+2181,543815,Irregular
+2182,543830,Elliptical
+2183,543837,Irregular
+2184,543840,Bar Spiral
+2185,543857,Bar Spiral
+2186,543866,Spiral
+2187,543872,Spiral
+2188,543874,Spiral
+2189,543878,Irregular
+2190,543879,Elliptical
+2191,543900,Lenticular
+2192,543902,Irregular
+2193,543915,Elliptical
+2194,543921,Elliptical
+2195,543944,Elliptical Cigar
+2196,543952,Bar Spiral
+2197,543954,Bar Spiral
+2198,543955,Spiral
+2199,543957,Spiral
+2200,543960,Spiral
+2201,544000,Bar Spiral
+2202,544013,Spiral
+2203,544015,Irregular
+2204,544017,Elliptical
+2205,544019,Irregular
+2206,544024,Elliptical
+2207,544041,Lenticular
+2208,544048,Elliptical
+2209,544054,Elliptical
+2210,544055,Elliptical
+2211,544057,Bar Spiral
+2212,544070,Spiral
+2213,544091,Irregular
+2214,544103,Elliptical
+2215,544106,Lenticular
+2216,544142,Irregular
+2217,544155,Elliptical
+2218,544176,Elliptical
+2219,544180,Spiral
+2220,544201,Lenticular
+2221,544210,Elliptical
+2222,544211,Irregular
+2223,544216,Spiral
+2224,544283,Elliptical
+2225,544297,Spiral
+2226,544309,Spiral
+2227,544321,Spiral
+2228,544352,Bar Spiral
+2229,544371,Elliptical
+2230,544378,Elliptical
+2231,544379,Spiral
+2232,544382,Elliptical
+2233,544393,Spiral
+2234,544399,Irregular
+2235,544407,Elliptical
+2236,544420,Irregular
+2237,544440,Lenticular
+2238,544441,Spiral
+2239,544460,Elliptical
+2240,544461,Spiral
+2241,544567,Elliptical Cigar
+2242,544569,Spiral
+2243,544578,Spiral
+2244,544591,Lenticular
+2245,544597,Irregular
+2246,544627,Elliptical
+2247,544635,Elliptical
+2248,544638,Spiral
+2249,544651,Bar Spiral
+2250,544657,Elliptical
+2251,544664,Lenticular
+2252,544666,Spiral
+2253,544698,Spiral
+2254,544705,Spiral
+2255,544727,Spiral
+2256,544746,Spiral
+2257,544766,Elliptical
+2258,544772,Bar Spiral
+2259,544831,Elliptical
+2260,544843,Elliptical
+2261,544854,Bar Spiral
+2262,544865,Irregular
+2263,544877,Elliptical
+2264,544901,Irregular
+2265,544909,Bar Spiral
+2266,544918,Irregular
+2267,544933,Elliptical
+2268,544936,Irregular
+2269,544959,Bar Spiral
+2270,544965,Spiral
+2271,545005,Elliptical
+2272,545018,Irregular
+2273,545024,Elliptical
+2274,545055,Elliptical
+2275,545082,Spiral
+2276,545083,Elliptical
+2277,545084,Spiral
+2278,545120,Elliptical
+2279,545127,Spiral
+2280,545152,Elliptical
+2281,545169,Spiral
+2282,545173,Lenticular
+2283,545191,Elliptical
+2284,545220,Spiral
+2285,545232,Elliptical
+2286,545240,Irregular
+2287,545243,Irregular
+2288,545265,Elliptical
+2289,545266,Elliptical
+2290,545271,Elliptical
+2291,545272,Elliptical
+2292,545278,Irregular
+2293,545315,Elliptical
+2294,545317,Elliptical
+2295,545329,Irregular
+2296,545333,Bar Spiral
+2297,545385,Elliptical
+2298,545388,Irregular
+2299,545434,Spiral
+2300,545439,Spiral
+2301,545456,Bar Spiral
+2302,545457,Elliptical
+2303,545498,Elliptical
+2304,545502,Spiral
+2305,545506,Spiral
+2306,545550,Irregular
+2307,545557,Lenticular
+2308,545561,Spiral
+2309,545597,Elliptical
+2310,545598,Lenticular
+2311,545611,Elliptical
+2312,545639,Irregular
+2313,545652,Elliptical
+2314,545666,Irregular
+2315,545675,Lenticular
+2316,545684,Spiral
+2317,545713,Elliptical
+2318,545727,Elliptical
+2319,545777,Elliptical
+2320,545780,Irregular
+2321,545834,Elliptical
+2322,545843,Elliptical
+2323,545860,Elliptical
+2324,545896,Elliptical
+2325,545901,Irregular
+2326,545912,Spiral
+2327,545942,Irregular
+2328,545944,Elliptical
+2329,545949,Spiral
+2330,545985,Irregular
+2331,545987,Elliptical
+2332,545998,Bar Spiral
+2333,546016,Bar Spiral
+2334,546020,Spiral
+2335,546048,Elliptical Cigar
+2336,546060,Irregular
+2337,546076,Bar Spiral
+2338,546086,Elliptical
+2339,546102,Irregular
+2340,546113,Bar Spiral
+2341,546118,Irregular
+2342,546123,Spiral
+2343,546137,Irregular
+2344,546153,Elliptical
+2345,546167,Spiral
+2346,546169,Spiral
+2347,546188,Spiral
+2348,546212,Spiral
+2349,546243,Elliptical
+2350,546265,Spiral
+2351,546278,Elliptical
+2352,546291,Elliptical
+2353,546304,Spiral
+2354,546305,Elliptical
+2355,546315,Irregular
+2356,546373,Bar Spiral
+2357,546436,Elliptical
+2358,546449,Spiral
+2359,546460,Elliptical
+2360,546468,Lenticular
+2361,546488,Elliptical
+2362,546523,Irregular
+2363,546529,Bar Spiral
+2364,546570,Bar Spiral
+2365,546575,Spiral
+2366,546586,Elliptical
+2367,546602,Elliptical
+2368,546615,Lenticular
+2369,546631,Spiral
+2370,546649,Irregular
+2371,546662,Spiral
+2372,546682,Elliptical
+2373,546684,Elliptical Cigar
+2374,546703,Irregular
+2375,546714,Elliptical
+2376,546736,Elliptical
+2377,546748,Elliptical
+2378,546773,Elliptical
+2379,546787,Elliptical
+2380,546844,Spiral
+2381,546845,Bar Spiral
+2382,546860,Elliptical
+2383,546866,Bar Spiral
+2384,546867,Lenticular
+2385,546881,Spiral
+2386,546896,Spiral
+2387,546929,Elliptical
+2388,546950,Elliptical
+2389,547024,Spiral
+2390,547055,Spiral
+2391,547061,Spiral
+2392,547064,Elliptical
+2393,547083,Spiral
+2394,547099,Spiral
+2395,547127,Elliptical
+2396,547130,Elliptical
+2397,547148,Elliptical
+2398,547150,Spiral
+2399,547178,Elliptical
+2400,547202,Elliptical
+2401,547224,Elliptical
+2402,547243,Lenticular
+2403,547266,Bar Spiral
+2404,547276,Bar Spiral
+2405,547285,Elliptical
+2406,547292,Elliptical
+2407,547306,Irregular
+2408,547315,Irregular
+2409,547326,Elliptical Cigar
+2410,547331,Irregular
+2411,547336,Spiral
+2412,547377,Spiral
+2413,547384,Elliptical
+2414,547422,Elliptical
+2415,547467,Elliptical
+2416,547469,Irregular
+2417,547471,Irregular
+2418,547504,Elliptical
+2419,547508,Spiral
+2420,547517,Spiral
+2421,547530,Spiral
+2422,547545,Elliptical
+2423,547579,Elliptical
+2424,547584,Elliptical
+2425,547599,Bar Spiral
+2426,547607,Spiral
+2427,547634,Irregular
+2428,547669,Elliptical
+2429,547698,Spiral
+2430,547705,Bar Spiral
+2431,547793,Spiral
+2432,547808,Elliptical
+2433,547852,Elliptical
+2434,547897,Elliptical
+2435,547904,Spiral
+2436,547915,Elliptical Cigar
+2437,547922,Elliptical
+2438,547926,Lenticular
+2439,547943,Elliptical
+2440,547958,Elliptical
+2441,547973,Elliptical
+2442,547996,Bar Spiral
+2443,547997,Elliptical
+2444,548001,Elliptical
+2445,548007,Elliptical
+2446,548009,Spiral
+2447,548013,Elliptical
+2448,548024,Bar Spiral
+2449,548052,Irregular
+2450,548066,Spiral
+2451,548068,Bar Spiral
+2452,548124,Spiral
+2453,548129,Spiral
+2454,548136,Elliptical
+2455,548157,Irregular
+2456,548163,Bar Spiral
+2457,548177,Elliptical
+2458,548197,Irregular
+2459,548212,Spiral
+2460,548217,Elliptical
+2461,548235,Spiral
+2462,548241,Irregular
+2463,548254,Irregular
+2464,548275,Elliptical
+2465,548331,Bar Spiral
+2466,548371,Spiral
+2467,548379,Elliptical
+2468,548387,Elliptical
+2469,548419,Elliptical
+2470,548423,Spiral
+2471,548470,Elliptical
+2472,548506,Elliptical
+2473,548527,Elliptical
+2474,548535,Elliptical
+2475,548548,Irregular
+2476,548550,Spiral
+2477,548551,Bar Spiral
+2478,548573,Spiral
+2479,548577,Elliptical
+2480,548580,Spiral
+2481,548585,Elliptical
+2482,548603,Irregular
+2483,548605,Bar Spiral
+2484,548616,Spiral
+2485,548637,Spiral
+2486,548641,Elliptical
+2487,548643,Elliptical
+2488,548660,Elliptical
+2489,548666,Elliptical
+2490,548670,Elliptical Cigar
+2491,548706,Irregular
+2492,548709,Elliptical
+2493,548719,Lenticular
+2494,548722,Elliptical Cigar
+2495,548733,Elliptical
+2496,548746,Elliptical
+2497,548747,Spiral
+2498,548752,Irregular
+2499,548754,Spiral
+2500,548763,Irregular
+2501,548781,Spiral
+2502,548785,Spiral
+2503,548805,Lenticular
+2504,548812,Bar Spiral
+2505,548816,Spiral
+2506,548826,Elliptical
+2507,548836,Elliptical
+2508,548844,Lenticular
+2509,548888,Elliptical
+2510,548895,Elliptical
+2511,548913,Spiral
+2512,548927,Spiral
+2513,548932,Spiral
+2514,548933,Spiral
+2515,548969,Elliptical
+2516,548995,Elliptical
+2517,549013,Elliptical
+2518,549055,Spiral
+2519,549106,Spiral
+2520,549111,Elliptical
+2521,549120,Elliptical
+2522,549127,Spiral
+2523,549139,Elliptical
+2524,549143,Irregular
+2525,549159,Elliptical
+2526,549176,Spiral
+2527,549186,Lenticular
+2528,549187,Spiral
+2529,549198,Spiral
+2530,549224,Spiral
+2531,549241,Elliptical
+2532,549244,Irregular
+2533,549270,Elliptical
+2534,549303,Spiral
+2535,549309,Elliptical Cigar
+2536,549336,Elliptical
+2537,549339,Lenticular
+2538,549354,Spiral
+2539,549371,Elliptical
+2540,549376,Spiral
+2541,549377,Spiral
+2542,549415,Spiral
+2543,549425,Irregular
+2544,549445,Irregular
+2545,549452,Irregular
+2546,549454,Irregular
+2547,549472,Spiral
+2548,549476,Spiral
+2549,549491,Spiral
+2550,549492,Irregular
+2551,549525,Bar Spiral
+2552,549528,Irregular
+2553,549537,Elliptical
+2554,549544,Elliptical
+2555,549555,Elliptical
+2556,549566,Elliptical
+2557,549574,Elliptical
+2558,549575,Spiral
+2559,549577,Elliptical
+2560,549578,Lenticular
+2561,549579,Elliptical
+2562,549580,Bar Spiral
+2563,549596,Elliptical
+2564,549598,Elliptical
+2565,549635,Elliptical
+2566,549663,Elliptical
+2567,549669,Lenticular
+2568,549686,Elliptical Cigar
+2569,549705,Bar Spiral
+2570,549720,Elliptical
+2571,549739,Elliptical
+2572,549760,Elliptical
+2573,549811,Bar Spiral
+2574,549849,Irregular
+2575,549874,Lenticular
+2576,549890,Bar Spiral
+2577,549934,Spiral
+2578,549963,Elliptical
+2579,549969,Irregular
+2580,549990,Elliptical
+2581,550000,Irregular
+2582,550029,Elliptical
+2583,550059,Elliptical
+2584,550105,Spiral
+2585,550106,Elliptical
+2586,550136,Spiral
+2587,550146,Irregular
+2588,550152,Elliptical
+2589,550155,Irregular
+2590,550161,Elliptical
+2591,550179,Spiral
+2592,550183,Elliptical
+2593,550185,Irregular
+2594,550199,Elliptical
+2595,550239,Elliptical Cigar
+2596,550251,Irregular
+2597,550272,Elliptical
+2598,550329,Spiral
+2599,550336,Spiral
+2600,550391,Spiral
+2601,550393,Irregular
+2602,550404,Irregular
+2603,550412,Irregular
+2604,550439,Irregular
+2605,550469,Elliptical
+2606,550476,Spiral
+2607,550479,Irregular
+2608,550488,Spiral
+2609,550519,Elliptical
+2610,550520,Spiral
+2611,550565,Spiral
+2612,550572,Spiral
+2613,550580,Spiral
+2614,550631,Spiral
+2615,550632,Spiral
+2616,550652,Lenticular
+2617,550663,Elliptical
+2618,550669,Irregular
+2619,550696,Spiral
+2620,550742,Irregular
+2621,550761,Irregular
+2622,550764,Bar Spiral
+2623,550767,Spiral
+2624,550777,Spiral
+2625,550778,Elliptical
+2626,550790,Spiral
+2627,550816,Elliptical Cigar
+2628,550853,Elliptical
+2629,550854,Elliptical
+2630,550857,Lenticular
+2631,550882,Spiral
+2632,550884,Lenticular
+2633,550886,Spiral
+2634,550907,Elliptical
+2635,550922,Elliptical
+2636,550926,Irregular
+2637,550931,Spiral
+2638,550933,Elliptical
+2639,550934,Elliptical
+2640,550939,Irregular
+2641,550971,Spiral
+2642,550984,Spiral
+2643,551014,Elliptical
+2644,551015,Elliptical
+2645,551037,Irregular
+2646,551043,Spiral
+2647,551045,Elliptical
+2648,551049,Elliptical
+2649,551061,Irregular
+2650,551090,Irregular
+2651,551110,Elliptical
+2652,551113,Bar Spiral
+2653,551133,Irregular
+2654,551137,Elliptical
+2655,551152,Elliptical
+2656,551177,Irregular
+2657,551192,Spiral
+2658,551194,Spiral
+2659,551215,Elliptical
+2660,551240,Elliptical
+2661,551244,Irregular
+2662,551257,Elliptical
+2663,551274,Bar Spiral
+2664,551293,Spiral
+2665,551315,Spiral
+2666,551332,Elliptical
+2667,551344,Elliptical
+2668,551347,Bar Spiral
+2669,551360,Elliptical
+2670,551375,Irregular
+2671,551378,Elliptical
+2672,551385,Irregular
+2673,551426,Irregular
+2674,551432,Bar Spiral
+2675,551462,Elliptical
+2676,551473,Spiral
+2677,551482,Lenticular
+2678,551488,Irregular
+2679,551496,Irregular
+2680,551505,Elliptical
+2681,551550,Lenticular
+2682,551553,Elliptical
+2683,551574,Elliptical
+2684,551589,Irregular
+2685,551592,Elliptical
+2686,551608,Spiral
+2687,551631,Elliptical
+2688,551657,Elliptical
+2689,551685,Elliptical
+2690,551699,Spiral
+2691,551739,Spiral
+2692,551741,Spiral
+2693,551752,Irregular
+2694,551771,Elliptical
+2695,551806,Spiral
+2696,551810,Spiral
+2697,551821,Spiral
+2698,551830,Irregular
+2699,551851,Elliptical
+2700,551896,Spiral
+2701,551904,Elliptical
+2702,551929,Spiral
+2703,551937,Elliptical
+2704,551942,Spiral
+2705,551969,Spiral
+2706,551974,Elliptical
+2707,551985,Irregular
+2708,551992,Spiral
+2709,552010,Elliptical
+2710,552017,Elliptical
+2711,552022,Elliptical
+2712,552031,Elliptical Cigar
+2713,552051,Irregular
+2714,552076,Irregular
+2715,552100,Elliptical
+2716,552103,Lenticular
+2717,552105,Elliptical
+2718,552106,Irregular
+2719,552124,Elliptical
+2720,552144,Irregular
+2721,552163,Bar Spiral
+2722,552193,Elliptical
+2723,552218,Elliptical
+2724,552241,Elliptical
+2725,552249,Spiral
+2726,552252,Elliptical Cigar
+2727,552263,Irregular
+2728,552267,Spiral
+2729,552277,Bar Spiral
+2730,552291,Spiral
+2731,552307,Elliptical
+2732,552328,Spiral
+2733,552329,Elliptical
+2734,552346,Spiral
+2735,552348,Irregular
+2736,552350,Spiral
+2737,552355,Irregular
+2738,552356,Elliptical
+2739,552365,Bar Spiral
+2740,552401,Elliptical Cigar
+2741,552424,Elliptical
+2742,552425,Spiral
+2743,552429,Bar Spiral
+2744,552449,Spiral
+2745,552450,Bar Spiral
+2746,552454,Irregular
+2747,552465,Lenticular
+2748,552489,Elliptical
+2749,552493,Bar Spiral
+2750,552501,Elliptical
+2751,552518,Spiral
+2752,552555,Elliptical
+2753,552568,Lenticular
+2754,552571,Elliptical
+2755,552583,Spiral
+2756,552595,Elliptical
+2757,552624,Bar Spiral
+2758,552626,Spiral
+2759,552659,Elliptical Cigar
+2760,552665,Lenticular
+2761,552669,Spiral
+2762,552677,Irregular
+2763,552724,Elliptical Cigar
+2764,552753,Lenticular
+2765,552754,Lenticular
+2766,552763,Spiral
+2767,552767,Irregular
+2768,552778,Lenticular
+2769,552816,Irregular
+2770,552827,Bar Spiral
+2771,552828,Spiral
+2772,552830,Lenticular
+2773,552843,Elliptical
+2774,552863,Elliptical
+2775,552870,Elliptical
+2776,552873,Elliptical
+2777,552878,Irregular
+2778,552882,Irregular
+2779,552883,Elliptical
+2780,552892,Irregular
+2781,552913,Lenticular
+2782,552954,Spiral
+2783,552980,Elliptical
+2784,552983,Lenticular
+2785,552990,Elliptical
+2786,553051,Lenticular
+2787,553054,Elliptical
+2788,553099,Elliptical
+2789,553198,Elliptical
+2790,553205,Lenticular
+2791,553245,Spiral
+2792,553254,Elliptical
+2793,553258,Spiral
+2794,553283,Spiral
+2795,553294,Elliptical
+2796,553327,Spiral
+2797,553328,Irregular
+2798,553329,Elliptical
+2799,553334,Bar Spiral
+2800,553373,Irregular
+2801,553377,Spiral
+2802,553402,Spiral
+2803,553409,Elliptical
+2804,553413,Elliptical
+2805,553431,Spiral
+2806,553467,Elliptical
+2807,553484,Irregular
+2808,553508,Irregular
+2809,553509,Elliptical
+2810,553529,Spiral
+2811,553530,Elliptical
+2812,553542,Spiral
+2813,553556,Spiral
+2814,553565,Elliptical
+2815,553608,Elliptical
+2816,553611,Elliptical
+2817,553615,Bar Spiral
+2818,553645,Irregular
+2819,553660,Bar Spiral
+2820,553668,Elliptical
+2821,553684,Spiral
+2822,553702,Spiral
+2823,553712,Spiral
+2824,553727,Spiral
+2825,553742,Elliptical
+2826,553746,Irregular
+2827,553765,Irregular
+2828,553778,Irregular
+2829,553793,Irregular
+2830,553815,Elliptical
+2831,553822,Elliptical Cigar
+2832,553843,Elliptical
+2833,553852,Irregular
+2834,553856,Irregular
+2835,553857,Spiral
+2836,553860,Bar Spiral
+2837,553869,Elliptical
+2838,553905,Spiral
+2839,553909,Elliptical
+2840,553910,Spiral
+2841,553917,Irregular
+2842,553920,Lenticular
+2843,553929,Bar Spiral
+2844,553952,Spiral
+2845,553990,Spiral
+2846,553993,Bar Spiral
+2847,554031,Bar Spiral
+2848,554036,Irregular
+2849,554081,Spiral
+2850,554091,Irregular
+2851,554099,Bar Spiral
+2852,554104,Spiral
+2853,554126,Irregular
+2854,554139,Spiral
+2855,554140,Lenticular
+2856,554162,Elliptical
+2857,554183,Irregular
+2858,554184,Irregular
+2859,554189,Spiral
+2860,554216,Elliptical
+2861,554219,Spiral
+2862,554227,Spiral
+2863,554241,Elliptical
+2864,554268,Spiral
+2865,554278,Elliptical
+2866,554295,Spiral
+2867,554304,Spiral
+2868,554318,Spiral
+2869,554343,Elliptical
+2870,554355,Elliptical
+2871,554391,Spiral
+2872,554395,Elliptical
+2873,554400,Lenticular
+2874,554405,Elliptical
+2875,554431,Elliptical
+2876,554448,Elliptical
+2877,554462,Irregular
+2878,554463,Elliptical
+2879,554491,Spiral
+2880,554492,Elliptical
+2881,554507,Spiral
+2882,554511,Spiral
+2883,554528,Elliptical
+2884,554534,Spiral
+2885,554571,Elliptical
+2886,554573,Elliptical
+2887,554585,Spiral
+2888,554617,Lenticular
+2889,554624,Bar Spiral
+2890,554692,Irregular
+2891,554704,Irregular
+2892,554713,Elliptical
+2893,554745,Spiral
+2894,554746,Spiral
+2895,554753,Irregular
+2896,554757,Irregular
+2897,554776,Elliptical
+2898,554792,Elliptical
+2899,554820,Elliptical
+2900,554833,Elliptical
+2901,554842,Bar Spiral
+2902,554854,Spiral
+2903,554881,Spiral
+2904,554883,Elliptical
+2905,554890,Elliptical
+2906,554891,Elliptical
+2907,554892,Elliptical
+2908,554898,Bar Spiral
+2909,554907,Bar Spiral
+2910,554912,Elliptical Cigar
+2911,554920,Lenticular
+2912,554948,Irregular
+2913,554990,Irregular
+2914,554994,Lenticular
+2915,554997,Elliptical
+2916,555014,Spiral
+2917,555024,Spiral
+2918,555027,Spiral
+2919,555030,Spiral
+2920,555038,Irregular
+2921,555049,Elliptical
+2922,555052,Elliptical
+2923,555055,Elliptical
+2924,555103,Bar Spiral
+2925,555118,Irregular
+2926,555136,Irregular
+2927,555145,Elliptical
+2928,555155,Elliptical
+2929,555163,Spiral
+2930,555165,Elliptical Cigar
+2931,555171,Spiral
+2932,555189,Spiral
+2933,555194,Elliptical
+2934,555230,Elliptical
+2935,555288,Irregular
+2936,555334,Elliptical
+2937,555340,Bar Spiral
+2938,555349,Lenticular
+2939,555351,Lenticular
+2940,555358,Elliptical Cigar
+2941,555381,Spiral
+2942,555428,Spiral
+2943,555432,Bar Spiral
+2944,555434,Lenticular
+2945,555440,Irregular
+2946,555459,Elliptical
+2947,555472,Elliptical
+2948,555501,Elliptical
+2949,555529,Irregular
+2950,555542,Elliptical
+2951,555553,Spiral
+2952,555561,Elliptical
+2953,555573,Spiral
+2954,555583,Irregular
+2955,555584,Bar Spiral
+2956,555602,Bar Spiral
+2957,555612,Spiral
+2958,555616,Elliptical
+2959,555622,Bar Spiral
+2960,555638,Spiral
+2961,555650,Elliptical
+2962,555662,Bar Spiral
+2963,555700,Elliptical
+2964,555725,Irregular
+2965,555739,Elliptical
+2966,555746,Spiral
+2967,555779,Elliptical
+2968,555821,Bar Spiral
+2969,555832,Elliptical
+2970,555844,Irregular
+2971,555872,Spiral
+2972,555884,Lenticular
+2973,555885,Spiral
+2974,555897,Elliptical
+2975,555902,Lenticular
+2976,555927,Elliptical
+2977,555942,Lenticular
+2978,555955,Elliptical
+2979,556007,Irregular
+2980,556012,Elliptical
+2981,556017,Lenticular
+2982,556045,Elliptical Cigar
+2983,556052,Elliptical
+2984,556068,Elliptical
+2985,556089,Spiral
+2986,556103,Spiral
+2987,556121,Bar Spiral
+2988,556127,Elliptical
+2989,556135,Bar Spiral
+2990,556136,Bar Spiral
+2991,556144,Spiral
+2992,556154,Spiral
+2993,556156,Irregular
+2994,556203,Elliptical
+2995,556210,Irregular
+2996,556218,Spiral
+2997,556221,Elliptical
+2998,556238,Spiral
+2999,556251,Elliptical
+3000,556254,Spiral
+3001,556287,Elliptical
+3002,556296,Bar Spiral
+3003,556315,Elliptical
+3004,556336,Bar Spiral
+3005,556342,Elliptical
+3006,556345,Lenticular
+3007,556349,Lenticular
+3008,556405,Spiral
+3009,556440,Elliptical
+3010,556471,Elliptical
+3011,556482,Elliptical
+3012,556494,Elliptical
+3013,556520,Irregular
+3014,556534,Elliptical
+3015,556535,Irregular
+3016,556555,Elliptical
+3017,556563,Elliptical
+3018,556569,Irregular
+3019,556576,Elliptical
+3020,556613,Spiral
+3021,556624,Elliptical
+3022,556628,Elliptical
+3023,556674,Spiral
+3024,556682,Elliptical
+3025,556718,Spiral
+3026,556728,Spiral
+3027,556764,Irregular
+3028,556773,Elliptical
+3029,556786,Bar Spiral
+3030,556799,Spiral
+3031,556830,Irregular
+3032,556839,Spiral
+3033,556873,Elliptical
+3034,556874,Spiral
+3035,556888,Bar Spiral
+3036,556902,Bar Spiral
+3037,556937,Elliptical
+3038,556956,Elliptical
+3039,556958,Elliptical
+3040,556964,Elliptical
+3041,556966,Lenticular
+3042,556972,Lenticular
+3043,556977,Spiral
+3044,556979,Lenticular
+3045,557001,Elliptical
+3046,557010,Irregular
+3047,557011,Irregular
+3048,557013,Elliptical
+3049,557037,Irregular
+3050,557056,Spiral
+3051,557058,Elliptical
+3052,557066,Elliptical
+3053,557091,Spiral
+3054,557116,Spiral
+3055,557119,Elliptical
+3056,557131,Lenticular
+3057,557155,Spiral
+3058,557164,Elliptical
+3059,557167,Elliptical
+3060,557173,Elliptical
+3061,557184,Bar Spiral
+3062,557185,Elliptical
+3063,557200,Elliptical
+3064,557213,Spiral
+3065,557226,Elliptical
+3066,557252,Elliptical
+3067,557256,Irregular
+3068,557257,Bar Spiral
+3069,557259,Elliptical
+3070,557301,Spiral
+3071,557322,Elliptical
+3072,557327,Elliptical
+3073,557373,Spiral
+3074,557375,Bar Spiral
+3075,557381,Elliptical
+3076,557388,Elliptical
+3077,557395,Elliptical
+3078,557402,Irregular
+3079,557415,Elliptical
+3080,557435,Spiral
+3081,557446,Elliptical
+3082,557455,Irregular
+3083,557463,Elliptical
+3084,557465,Elliptical
+3085,557486,Spiral
+3086,557489,Spiral
+3087,557499,Spiral
+3088,557514,Elliptical Cigar
+3089,557521,Lenticular
+3090,557541,Elliptical
+3091,557543,Elliptical
+3092,557550,Elliptical
+3093,557575,Elliptical
+3094,557580,Elliptical
+3095,557600,Spiral
+3096,557627,Irregular
+3097,557629,Lenticular
+3098,557634,Elliptical
+3099,557643,Bar Spiral
+3100,557656,Irregular
+3101,557657,Lenticular
+3102,557743,Bar Spiral
+3103,557781,Elliptical
+3104,557783,Elliptical
+3105,557784,Irregular
+3106,557812,Elliptical
+3107,557833,Spiral
+3108,557852,Bar Spiral
+3109,557853,Spiral
+3110,557858,Elliptical
+3111,557863,Elliptical
+3112,557874,Spiral
+3113,557882,Lenticular
+3114,557890,Elliptical
+3115,557896,Spiral
+3116,557920,Spiral
+3117,557924,Elliptical
+3118,557927,Irregular
+3119,557930,Spiral
+3120,557954,Elliptical
+3121,557960,Spiral
+3122,557990,Irregular
+3123,558004,Irregular
+3124,558016,Elliptical
+3125,558018,Elliptical
+3126,558042,Irregular
+3127,558053,Elliptical
+3128,558072,Irregular
+3129,558082,Spiral
+3130,558085,Spiral
+3131,558118,Elliptical
+3132,558134,Elliptical
+3133,558144,Elliptical
+3134,558153,Elliptical
+3135,558167,Elliptical
+3136,558195,Spiral
+3137,558204,Elliptical
+3138,558228,Elliptical
+3139,558239,Bar Spiral
+3140,558268,Elliptical
+3141,558272,Irregular
+3142,558298,Spiral
+3143,558307,Elliptical
+3144,558327,Irregular
+3145,558332,Irregular
+3146,558333,Spiral
+3147,558334,Spiral
+3148,558340,Spiral
+3149,558382,Elliptical
+3150,558392,Spiral
+3151,558402,Irregular
+3152,558444,Spiral
+3153,558459,Elliptical
+3154,558492,Elliptical
+3155,558518,Spiral
+3156,558541,Spiral
+3157,558542,Spiral
+3158,558546,Elliptical
+3159,558550,Irregular
+3160,558553,Irregular
+3161,558563,Irregular
+3162,558575,Spiral
+3163,558581,Elliptical
+3164,558593,Bar Spiral
+3165,558604,Spiral
+3166,558610,Irregular
+3167,558621,Irregular
+3168,558632,Bar Spiral
+3169,558644,Spiral
+3170,558646,Irregular
+3171,558647,Elliptical
+3172,558660,Elliptical
+3173,558673,Bar Spiral
+3174,558674,Elliptical Cigar
+3175,558678,Lenticular
+3176,558702,Spiral
+3177,558709,Elliptical
+3178,558716,Elliptical
+3179,558738,Lenticular
+3180,558770,Spiral
+3181,558775,Elliptical
+3182,558789,Elliptical
+3183,558791,Irregular
+3184,558799,Elliptical
+3185,558823,Irregular
+3186,558830,Irregular
+3187,558845,Spiral
+3188,558848,Bar Spiral
+3189,558885,Spiral
+3190,558892,Spiral
+3191,558925,Spiral
+3192,558937,Elliptical
+3193,558945,Elliptical
+3194,558961,Elliptical
+3195,558969,Elliptical
+3196,558976,Elliptical
+3197,558978,Elliptical
+3198,558985,Spiral
+3199,558987,Elliptical
+3200,558997,Spiral
+3201,558999,Lenticular
+3202,559003,Elliptical
+3203,559016,Elliptical
+3204,559018,Elliptical
+3205,559020,Elliptical
+3206,559047,Elliptical
+3207,559066,Spiral
+3208,559068,Elliptical
+3209,559090,Spiral
+3210,559095,Irregular
+3211,559103,Spiral
+3212,559115,Spiral
+3213,559120,Irregular
+3214,559128,Elliptical
+3215,559132,Elliptical
+3216,559135,Elliptical
+3217,559142,Lenticular
+3218,559211,Spiral
+3219,559215,Elliptical
+3220,559264,Irregular
+3221,559265,Elliptical
+3222,559266,Bar Spiral
+3223,559270,Spiral
+3224,559275,Lenticular
+3225,559306,Elliptical
+3226,559307,Spiral
+3227,559315,Elliptical
+3228,559319,Irregular
+3229,559320,Elliptical
+3230,559367,Irregular
+3231,559392,Elliptical Cigar
+3232,559393,Elliptical
+3233,559466,Irregular
+3234,559469,Spiral
+3235,559503,Irregular
+3236,559542,Spiral
+3237,559558,Elliptical Cigar
+3238,559568,Elliptical
+3239,559583,Spiral
+3240,559602,Elliptical Cigar
+3241,559608,Lenticular
+3242,559622,Irregular
+3243,559635,Irregular
+3244,559636,Bar Spiral
+3245,559646,Irregular
+3246,559650,Elliptical
+3247,559654,Elliptical
+3248,559679,Elliptical
+3249,559690,Irregular
+3250,559707,Irregular
+3251,559725,Elliptical
+3252,559737,Elliptical
+3253,559743,Irregular
+3254,559766,Elliptical
+3255,559776,Elliptical
+3256,559783,Elliptical
+3257,559796,Bar Spiral
+3258,559799,Spiral
+3259,559800,Lenticular
+3260,559804,Spiral
+3261,559810,Bar Spiral
+3262,559818,Elliptical
+3263,559843,Elliptical
+3264,559854,Bar Spiral
+3265,559866,Spiral
+3266,559868,Lenticular
+3267,559877,Irregular
+3268,559894,Elliptical
+3269,559896,Elliptical
+3270,559932,Elliptical
+3271,559937,Irregular
+3272,559962,Spiral
+3273,559963,Irregular
+3274,559983,Spiral
+3275,559997,Elliptical
+3276,560014,Elliptical Cigar
+3277,560026,Irregular
+3278,560038,Spiral
+3279,560044,Bar Spiral
+3280,560053,Elliptical
+3281,560058,Spiral
+3282,560059,Elliptical
+3283,560080,Bar Spiral
+3284,560092,Bar Spiral
+3285,560094,Lenticular
+3286,560105,Irregular
+3287,560120,Spiral
+3288,560124,Elliptical
+3289,560184,Spiral
+3290,560202,Elliptical
+3291,560204,Irregular
+3292,560213,Lenticular
+3293,560244,Spiral
+3294,560258,Elliptical
+3295,560265,Lenticular
+3296,560275,Irregular
+3297,560300,Spiral
+3298,560369,Elliptical
+3299,560385,Elliptical
+3300,560422,Spiral
+3301,560449,Lenticular
+3302,560460,Lenticular
+3303,560474,Elliptical
+3304,560490,Irregular
+3305,560520,Lenticular
+3306,560539,Spiral
+3307,560552,Spiral
+3308,560553,Spiral
+3309,560618,Spiral
+3310,560633,Irregular
+3311,560662,Elliptical
+3312,560675,Bar Spiral
+3313,560691,Spiral
+3314,560701,Elliptical
+3315,560719,Bar Spiral
+3316,560720,Irregular
+3317,560721,Elliptical
+3318,560729,Irregular
+3319,560730,Irregular
+3320,560738,Elliptical
+3321,560779,Bar Spiral
+3322,560787,Elliptical
+3323,560793,Elliptical
+3324,560795,Spiral
+3325,560814,Elliptical
+3326,560817,Elliptical
+3327,560853,Elliptical Cigar
+3328,560868,Elliptical
+3329,560872,Irregular
+3330,560874,Bar Spiral
+3331,560875,Elliptical
+3332,560882,Irregular
+3333,560928,Lenticular
+3334,560938,Elliptical
+3335,560964,Bar Spiral
+3336,560969,Elliptical
+3337,560988,Elliptical
+3338,561009,Irregular
+3339,561020,Spiral
+3340,561043,Elliptical
+3341,561054,Irregular
+3342,561055,Elliptical Cigar
+3343,561099,Elliptical
+3344,561161,Irregular
+3345,561184,Spiral
+3346,561197,Elliptical
+3347,561203,Lenticular
+3348,561213,Spiral
+3349,561225,Spiral
+3350,561273,Elliptical
+3351,561311,Elliptical
+3352,561318,Spiral
+3353,561324,Spiral
+3354,561335,Elliptical
+3355,561343,Irregular
+3356,561424,Irregular
+3357,561429,Irregular
+3358,561448,Spiral
+3359,561469,Irregular
+3360,561491,Spiral
+3361,561522,Spiral
+3362,561547,Elliptical
+3363,561585,Lenticular
+3364,561596,Elliptical
+3365,561617,Spiral
+3366,561628,Lenticular
+3367,561637,Spiral
+3368,561678,Elliptical
+3369,561685,Irregular
+3370,561696,Spiral
+3371,561727,Elliptical Cigar
+3372,561732,Elliptical
+3373,561745,Bar Spiral
+3374,561749,Lenticular
+3375,561766,Elliptical
+3376,561771,Irregular
+3377,561774,Spiral
+3378,561779,Elliptical
+3379,561806,Irregular
+3380,561811,Spiral
+3381,561839,Spiral
+3382,561842,Spiral
+3383,561861,Spiral
+3384,561882,Spiral
+3385,561888,Irregular
+3386,561910,Irregular
+3387,561928,Spiral
+3388,561990,Irregular
+3389,561997,Lenticular
+3390,561998,Irregular
+3391,562004,Lenticular
+3392,562018,Elliptical
+3393,562024,Spiral
+3394,562054,Lenticular
+3395,562058,Spiral
+3396,562082,Spiral
+3397,562085,Elliptical
+3398,562090,Spiral
+3399,562131,Elliptical
+3400,562133,Spiral
+3401,562140,Elliptical
+3402,562151,Elliptical
+3403,562161,Elliptical
+3404,562171,Irregular
+3405,562173,Elliptical
+3406,562174,Elliptical
+3407,562178,Elliptical
+3408,562183,Irregular
+3409,562211,Spiral
+3410,562229,Spiral
+3411,562238,Elliptical
+3412,562239,Elliptical
+3413,562247,Elliptical
+3414,562252,Elliptical
+3415,562256,Elliptical
+3416,562284,Irregular
+3417,562301,Elliptical
+3418,562303,Irregular
+3419,562321,Elliptical
+3420,562340,Elliptical
+3421,562352,Irregular
+3422,562362,Irregular
+3423,562374,Lenticular
+3424,562377,Elliptical
+3425,562387,Elliptical
+3426,562404,Lenticular
+3427,562430,Elliptical
+3428,562432,Elliptical
+3429,562457,Spiral
+3430,562460,Elliptical
+3431,562518,Elliptical
+3432,562536,Irregular
+3433,562541,Irregular
+3434,562571,Spiral
+3435,562585,Irregular
+3436,562590,Bar Spiral
+3437,562601,Irregular
+3438,562633,Spiral
+3439,562715,Bar Spiral
+3440,562716,Spiral
+3441,562778,Irregular
+3442,562782,Lenticular
+3443,562784,Spiral
+3444,562787,Spiral
+3445,562793,Lenticular
+3446,562816,Spiral
+3447,562819,Spiral
+3448,562828,Irregular
+3449,562852,Irregular
+3450,562897,Elliptical
+3451,562901,Spiral
+3452,562905,Elliptical
+3453,562911,Spiral
+3454,562937,Irregular
+3455,562952,Lenticular
+3456,562968,Elliptical
+3457,563041,Elliptical
+3458,563070,Irregular
+3459,563074,Irregular
+3460,563096,Bar Spiral
+3461,563098,Elliptical
+3462,563110,Elliptical
+3463,563140,Elliptical
+3464,563177,Elliptical Cigar
+3465,563186,Bar Spiral
+3466,563191,Irregular
+3467,563200,Elliptical
+3468,563204,Bar Spiral
+3469,563243,Spiral
+3470,563295,Elliptical
+3471,563303,Spiral
+3472,563311,Irregular
+3473,563331,Elliptical
+3474,563334,Spiral
+3475,563338,Elliptical
+3476,563358,Elliptical Cigar
+3477,563379,Bar Spiral
+3478,563382,Spiral
+3479,563401,Spiral
+3480,563407,Elliptical
+3481,563430,Irregular
+3482,563439,Elliptical
+3483,563446,Elliptical
+3484,563476,Lenticular
+3485,563482,Irregular
+3486,563491,Spiral
+3487,563499,Bar Spiral
+3488,563504,Spiral
+3489,563505,Irregular
+3490,563507,Spiral
+3491,563534,Irregular
+3492,563539,Spiral
+3493,563552,Elliptical
+3494,563560,Lenticular
+3495,563564,Lenticular
+3496,563573,Elliptical
+3497,563591,Elliptical
+3498,563601,Spiral
+3499,563614,Lenticular
+3500,563627,Spiral
+3501,563642,Elliptical
+3502,563650,Spiral
+3503,563656,Spiral
+3504,563691,Elliptical
+3505,563692,Elliptical
+3506,563713,Irregular
+3507,563736,Irregular
+3508,563759,Elliptical
+3509,563763,Bar Spiral
+3510,563765,Irregular
+3511,563766,Spiral
+3512,563771,Elliptical Cigar
+3513,563782,Elliptical
+3514,563808,Spiral
+3515,563848,Elliptical
+3516,563849,Elliptical
+3517,563853,Spiral
+3518,563858,Elliptical Cigar
+3519,563879,Elliptical
+3520,563881,Irregular
+3521,563900,Elliptical
+3522,563917,Bar Spiral
+3523,563982,Spiral
+3524,563985,Lenticular
+3525,563988,Lenticular
+3526,563992,Elliptical
+3527,563993,Elliptical
+3528,564008,Spiral
+3529,564046,Elliptical Cigar
+3530,564071,Elliptical
+3531,564090,Elliptical Cigar
+3532,564096,Spiral
+3533,564098,Elliptical
+3534,564114,Elliptical
+3535,564120,Elliptical
+3536,564122,Elliptical
+3537,564158,Bar Spiral
+3538,564168,Spiral
+3539,564200,Spiral
+3540,564212,Irregular
+3541,564232,Irregular
+3542,564240,Elliptical
+3543,564254,Elliptical
+3544,564304,Elliptical Cigar
+3545,564313,Irregular
+3546,564328,Elliptical
+3547,564333,Elliptical
+3548,564348,Elliptical
+3549,564375,Elliptical
+3550,564379,Elliptical
+3551,564381,Elliptical
+3552,564395,Spiral
+3553,564401,Spiral
+3554,564431,Lenticular
+3555,564445,Lenticular
+3556,564457,Spiral
+3557,564459,Elliptical
+3558,564489,Elliptical
+3559,564492,Spiral
+3560,564499,Elliptical
+3561,564501,Spiral
+3562,564511,Lenticular
+3563,564522,Bar Spiral
+3564,564530,Spiral
+3565,564536,Spiral
+3566,564539,Elliptical
+3567,564569,Spiral
+3568,564576,Elliptical
+3569,564601,Irregular
+3570,564619,Spiral
+3571,564626,Spiral
+3572,564629,Lenticular
+3573,564634,Irregular
+3574,564638,Elliptical
+3575,564639,Elliptical
+3576,564644,Spiral
+3577,564645,Bar Spiral
+3578,564671,Irregular
+3579,564676,Spiral
+3580,564677,Spiral
+3581,564688,Irregular
+3582,564697,Elliptical
+3583,564709,Bar Spiral
+3584,564721,Elliptical
+3585,564730,Elliptical
+3586,564741,Elliptical
+3587,564745,Spiral
+3588,564746,Spiral
+3589,564748,Spiral
+3590,564775,Elliptical
+3591,564780,Elliptical
+3592,564788,Lenticular
+3593,564818,Spiral
+3594,564831,Spiral
+3595,564838,Irregular
+3596,564854,Bar Spiral
+3597,564869,Irregular
+3598,564895,Irregular
+3599,564896,Bar Spiral
+3600,564901,Spiral
+3601,564982,Elliptical
+3602,564984,Spiral
+3603,564992,Irregular
+3604,564996,Elliptical
+3605,565012,Spiral
+3606,565035,Spiral
+3607,565037,Spiral
+3608,565038,Elliptical
+3609,565045,Irregular
+3610,565046,Spiral
+3611,565054,Elliptical
+3612,565059,Elliptical
+3613,565068,Elliptical
+3614,565069,Elliptical
+3615,565071,Spiral
+3616,565099,Irregular
+3617,565139,Irregular
+3618,565148,Irregular
+3619,565163,Bar Spiral
+3620,565221,Lenticular
+3621,565282,Elliptical
+3622,565290,Elliptical
+3623,565292,Elliptical
+3624,565298,Irregular
+3625,565326,Spiral
+3626,565328,Spiral
+3627,565335,Elliptical Cigar
+3628,565366,Spiral
+3629,565372,Elliptical
+3630,565380,Irregular
+3631,565385,Elliptical
+3632,565417,Irregular
+3633,565431,Elliptical
+3634,565478,Spiral
+3635,565486,Irregular
+3636,565489,Elliptical
+3637,565504,Elliptical
+3638,565519,Spiral
+3639,565538,Spiral
+3640,565555,Elliptical
+3641,565566,Irregular
+3642,565573,Bar Spiral
+3643,565575,Elliptical
+3644,565593,Spiral
+3645,565596,Irregular
+3646,565616,Spiral
+3647,565622,Spiral
+3648,565625,Elliptical
+3649,565635,Irregular
+3650,565676,Elliptical
+3651,565682,Elliptical
+3652,565692,Spiral
+3653,565726,Elliptical
+3654,565739,Spiral
+3655,565756,Spiral
+3656,565764,Irregular
+3657,565766,Elliptical
+3658,565783,Irregular
+3659,565799,Irregular
+3660,565815,Spiral
+3661,565900,Spiral
+3662,565907,Elliptical
+3663,565908,Lenticular
+3664,565913,Spiral
+3665,565916,Spiral
+3666,565988,Elliptical
+3667,565990,Irregular
+3668,566018,Elliptical
+3669,566039,Bar Spiral
+3670,566044,Elliptical
+3671,566051,Elliptical
+3672,566109,Elliptical
+3673,566138,Elliptical
+3674,566140,Irregular
+3675,566146,Spiral
+3676,566159,Irregular
+3677,566163,Spiral
+3678,566202,Spiral
+3679,566206,Irregular
+3680,566219,Irregular
+3681,566224,Elliptical
+3682,566237,Elliptical
+3683,566263,Elliptical
+3684,566267,Irregular
+3685,566277,Lenticular
+3686,566284,Spiral
+3687,566310,Elliptical Cigar
+3688,566346,Irregular
+3689,566351,Lenticular
+3690,566361,Irregular
+3691,566364,Lenticular
+3692,566380,Spiral
+3693,566388,Elliptical
+3694,566390,Irregular
+3695,566442,Elliptical
+3696,566449,Spiral
+3697,566462,Elliptical
+3698,566464,Bar Spiral
+3699,566467,Lenticular
+3700,566488,Spiral
+3701,566511,Elliptical
+3702,566512,Elliptical
+3703,566513,Elliptical
+3704,566536,Irregular
+3705,566557,Lenticular
+3706,566569,Spiral
+3707,566586,Spiral
+3708,566588,Elliptical
+3709,566593,Lenticular
+3710,566623,Irregular
+3711,566628,Spiral
+3712,566641,Irregular
+3713,566645,Elliptical
+3714,566653,Elliptical
+3715,566655,Spiral
+3716,566656,Elliptical
+3717,566733,Elliptical
+3718,566748,Irregular
+3719,566757,Spiral
+3720,566761,Elliptical
+3721,566806,Elliptical Cigar
+3722,566809,Irregular
+3723,566821,Elliptical
+3724,566834,Elliptical
+3725,566858,Spiral
+3726,566860,Irregular
+3727,566872,Spiral
+3728,566887,Elliptical
+3729,566914,Elliptical
+3730,566936,Elliptical
+3731,566950,Elliptical
+3732,566954,Irregular
+3733,566964,Irregular
+3734,566987,Irregular
+3735,566992,Elliptical
+3736,567016,Bar Spiral
+3737,567048,Lenticular
+3738,567055,Irregular
+3739,567123,Irregular
+3740,567142,Irregular
+3741,567145,Elliptical
+3742,567172,Elliptical
+3743,567180,Elliptical
+3744,567186,Elliptical
+3745,567187,Bar Spiral
+3746,567209,Elliptical
+3747,567213,Elliptical
+3748,567229,Elliptical
+3749,567246,Bar Spiral
+3750,567247,Lenticular
+3751,567258,Irregular
+3752,567260,Spiral
+3753,567294,Elliptical
+3754,567328,Elliptical
+3755,567333,Spiral
+3756,567342,Lenticular
+3757,567369,Irregular
+3758,567375,Spiral
+3759,567384,Spiral
+3760,567402,Lenticular
+3761,567412,Spiral
+3762,567413,Spiral
+3763,567416,Irregular
+3764,567425,Irregular
+3765,567434,Irregular
+3766,567444,Spiral
+3767,567450,Irregular
+3768,567466,Spiral
+3769,567505,Spiral
+3770,567521,Elliptical
+3771,567530,Elliptical
+3772,567533,Elliptical
+3773,567536,Elliptical
+3774,567541,Lenticular
+3775,567547,Elliptical
+3776,567553,Irregular
+3777,567560,Elliptical Cigar
+3778,567562,Spiral
+3779,567571,Spiral
+3780,567592,Elliptical
+3781,567608,Elliptical
+3782,567613,Spiral
+3783,567635,Elliptical
+3784,567657,Elliptical
+3785,567716,Spiral
+3786,567729,Elliptical
+3787,567752,Spiral
+3788,567755,Elliptical
+3789,567756,Spiral
+3790,567769,Spiral
+3791,567775,Spiral
+3792,567777,Spiral
+3793,567779,Elliptical
+3794,567795,Spiral
+3795,567797,Elliptical
+3796,567809,Elliptical
+3797,567840,Spiral
+3798,567843,Lenticular
+3799,567854,Elliptical
+3800,567855,Elliptical
+3801,567857,Elliptical
+3802,567859,Elliptical
+3803,567866,Bar Spiral
+3804,567874,Elliptical Cigar
+3805,567890,Spiral
+3806,567892,Elliptical
+3807,567915,Irregular
+3808,567937,Elliptical
+3809,567957,Spiral
+3810,567959,Irregular
+3811,567983,Irregular
+3812,567994,Elliptical
+3813,568003,Irregular
+3814,568040,Spiral
+3815,568055,Spiral
+3816,568061,Irregular
+3817,568064,Elliptical
+3818,568065,Irregular
+3819,568079,Elliptical
+3820,568083,Irregular
+3821,568084,Irregular
+3822,568101,Lenticular
+3823,568118,Elliptical
+3824,568138,Bar Spiral
+3825,568139,Lenticular
+3826,568145,Elliptical
+3827,568146,Spiral
+3828,568171,Elliptical Cigar
+3829,568175,Spiral
+3830,568179,Irregular
+3831,568192,Bar Spiral
+3832,568206,Spiral
+3833,568207,Elliptical
+3834,568224,Elliptical
+3835,568256,Irregular
+3836,568258,Spiral
+3837,568278,Elliptical
+3838,568300,Spiral
+3839,568302,Spiral
+3840,568318,Elliptical
+3841,568319,Irregular
+3842,568342,Spiral
+3843,568355,Elliptical
+3844,568373,Irregular
+3845,568383,Bar Spiral
+3846,568405,Lenticular
+3847,568427,Elliptical
+3848,568428,Elliptical
+3849,568435,Spiral
+3850,568440,Elliptical Cigar
+3851,568498,Elliptical
+3852,568500,Lenticular
+3853,568514,Elliptical
+3854,568532,Bar Spiral
+3855,568552,Elliptical
+3856,568558,Elliptical
+3857,568566,Irregular
+3858,568569,Elliptical
+3859,568592,Elliptical
+3860,568604,Elliptical
+3861,568607,Elliptical
+3862,568644,Spiral
+3863,568645,Spiral
+3864,568700,Spiral
+3865,568725,Elliptical
+3866,568773,Irregular
+3867,568777,Elliptical
+3868,568792,Spiral
+3869,568794,Elliptical
+3870,568795,Spiral
+3871,568801,Spiral
+3872,568810,Spiral
+3873,568813,Irregular
+3874,568814,Spiral
+3875,568815,Spiral
+3876,568843,Elliptical
+3877,568859,Irregular
+3878,568882,Elliptical
+3879,568904,Elliptical
+3880,568912,Spiral
+3881,568975,Elliptical
+3882,569010,Elliptical
+3883,569022,Lenticular
+3884,569025,Spiral
+3885,569039,Elliptical Cigar
+3886,569087,Spiral
+3887,569088,Irregular
+3888,569102,Spiral
+3889,569103,Spiral
+3890,569107,Elliptical
+3891,569108,Bar Spiral
+3892,569129,Elliptical
+3893,569161,Elliptical
+3894,569165,Spiral
+3895,569173,Lenticular
+3896,569179,Elliptical
+3897,569180,Spiral
+3898,569182,Irregular
+3899,569191,Elliptical
+3900,569230,Irregular
+3901,569235,Irregular
+3902,569278,Spiral
+3903,569297,Spiral
+3904,569298,Irregular
+3905,569324,Irregular
+3906,569326,Spiral
+3907,569331,Spiral
+3908,569346,Spiral
+3909,569363,Irregular
+3910,569371,Spiral
+3911,569387,Elliptical
+3912,569431,Elliptical
+3913,569469,Elliptical
+3914,569488,Irregular
+3915,569508,Elliptical
+3916,569514,Elliptical
+3917,569525,Irregular
+3918,569526,Elliptical
+3919,569583,Irregular
+3920,569585,Elliptical
+3921,569586,Bar Spiral
+3922,569591,Irregular
+3923,569629,Elliptical
+3924,569680,Spiral
+3925,569682,Spiral
+3926,569693,Spiral
+3927,569715,Elliptical
+3928,569716,Lenticular
+3929,569722,Elliptical
+3930,569729,Elliptical
+3931,569742,Bar Spiral
+3932,569768,Irregular
+3933,569787,Bar Spiral
+3934,569792,Spiral
+3935,569795,Irregular
+3936,569798,Elliptical
+3937,569819,Elliptical
+3938,569831,Bar Spiral
+3939,569834,Elliptical
+3940,569837,Irregular
+3941,569874,Spiral
+3942,569875,Irregular
+3943,569891,Spiral
+3944,569904,Spiral
+3945,569954,Elliptical
+3946,569972,Elliptical
+3947,570003,Elliptical
+3948,570023,Elliptical
+3949,570043,Bar Spiral
+3950,570048,Spiral
+3951,570065,Irregular
+3952,570069,Elliptical
+3953,570070,Bar Spiral
+3954,570085,Elliptical
+3955,570106,Irregular
+3956,570109,Irregular
+3957,570144,Irregular
+3958,570145,Lenticular
+3959,570153,Bar Spiral
+3960,570170,Elliptical
+3961,570173,Elliptical
+3962,570202,Elliptical Cigar
+3963,570234,Elliptical
+3964,570256,Elliptical
+3965,570269,Spiral
+3966,570309,Elliptical
+3967,570317,Lenticular
+3968,570330,Elliptical
+3969,570332,Elliptical
+3970,570379,Elliptical
+3971,570456,Elliptical
+3972,570458,Spiral
+3973,570495,Spiral
+3974,570553,Spiral
+3975,570578,Bar Spiral
+3976,570588,Irregular
+3977,570597,Spiral
+3978,570598,Irregular
+3979,570609,Elliptical
+3980,570615,Elliptical
+3981,570666,Spiral
+3982,570671,Irregular
+3983,570679,Lenticular
+3984,570685,Spiral
+3985,570686,Elliptical
+3986,570705,Spiral
+3987,570707,Spiral
+3988,570762,Spiral
+3989,570778,Spiral
+3990,570783,Elliptical
+3991,570786,Elliptical
+3992,570790,Elliptical
+3993,570795,Elliptical
+3994,570806,Spiral
+3995,570813,Spiral
+3996,570814,Elliptical
+3997,570834,Spiral
+3998,570847,Elliptical
+3999,570851,Irregular
+4000,570868,Irregular
+4001,570897,Spiral
+4002,570906,Bar Spiral
+4003,570935,Irregular
+4004,570947,Elliptical
+4005,570978,Irregular
+4006,570979,Elliptical Cigar
+4007,570984,Lenticular
+4008,570986,Spiral
+4009,570997,Elliptical
+4010,571007,Elliptical
+4011,571020,Irregular
+4012,571049,Elliptical
+4013,571058,Irregular
+4014,571071,Spiral
+4015,571078,Irregular
+4016,571109,Irregular
+4017,571113,Irregular
+4018,571125,Elliptical
+4019,571132,Spiral
+4020,571152,Elliptical
+4021,571169,Elliptical
+4022,571171,Bar Spiral
+4023,571201,Elliptical
+4024,571202,Lenticular
+4025,571207,Bar Spiral
+4026,571210,Elliptical
+4027,571213,Elliptical
+4028,571271,Elliptical
+4029,571299,Irregular
+4030,571303,Spiral
+4031,571316,Lenticular
+4032,571339,Irregular
+4033,571350,Lenticular
+4034,571351,Bar Spiral
+4035,571354,Elliptical
+4036,571356,Irregular
+4037,571359,Irregular
+4038,571368,Elliptical
+4039,571401,Elliptical
+4040,571411,Elliptical
+4041,571422,Bar Spiral
+4042,571424,Spiral
+4043,571425,Elliptical
+4044,571428,Spiral
+4045,571448,Elliptical
+4046,571473,Elliptical
+4047,571477,Elliptical
+4048,571481,Spiral
+4049,571500,Spiral
+4050,571507,Lenticular
+4051,571514,Irregular
+4052,571540,Lenticular
+4053,571566,Elliptical
+4054,571570,Elliptical
+4055,571585,Elliptical
+4056,571594,Elliptical
+4057,571608,Elliptical
+4058,571623,Elliptical
+4059,571642,Elliptical
+4060,571673,Elliptical
+4061,571686,Spiral
+4062,571694,Elliptical
+4063,571722,Irregular
+4064,571737,Elliptical
+4065,571738,Lenticular
+4066,571739,Spiral
+4067,571744,Lenticular
+4068,571746,Irregular
+4069,571763,Elliptical
+4070,571778,Elliptical
+4071,571809,Elliptical
+4072,571823,Lenticular
+4073,571828,Spiral
+4074,571838,Spiral
+4075,571841,Elliptical
+4076,571848,Elliptical
+4077,571861,Bar Spiral
+4078,571868,Bar Spiral
+4079,571878,Lenticular
+4080,571881,Irregular
+4081,571902,Spiral
+4082,571903,Elliptical
+4083,571921,Spiral
+4084,571953,Lenticular
+4085,571976,Elliptical
+4086,572011,Lenticular
+4087,572013,Elliptical
+4088,572029,Spiral
+4089,572036,Elliptical Cigar
+4090,572046,Irregular
+4091,572049,Elliptical
+4092,572073,Elliptical
+4093,572074,Bar Spiral
+4094,572076,Spiral
+4095,572077,Spiral
+4096,572102,Lenticular
+4097,572112,Irregular
+4098,572116,Spiral
+4099,572130,Spiral
+4100,572131,Spiral
+4101,572155,Spiral
+4102,572158,Elliptical
+4103,572175,Irregular
+4104,572199,Irregular
+4105,572203,Elliptical
+4106,572207,Elliptical Cigar
+4107,572213,Elliptical
+4108,572257,Spiral
+4109,572260,Elliptical
+4110,572278,Elliptical
+4111,572303,Lenticular
+4112,572314,Bar Spiral
+4113,572318,Elliptical
+4114,572337,Elliptical
+4115,572353,Irregular
+4116,572355,Spiral
+4117,572356,Elliptical
+4118,572365,Spiral
+4119,572384,Irregular
+4120,572400,Irregular
+4121,572409,Spiral
+4122,572436,Spiral
+4123,572477,Elliptical
+4124,572500,Bar Spiral
+4125,572510,Spiral
+4126,572553,Spiral
+4127,572569,Spiral
+4128,572593,Spiral
+4129,572603,Elliptical
+4130,572604,Spiral
+4131,572617,Elliptical
+4132,572625,Bar Spiral
+4133,572683,Elliptical
+4134,572694,Elliptical
+4135,572696,Lenticular
+4136,572699,Elliptical
+4137,572708,Bar Spiral
+4138,572710,Elliptical
+4139,572720,Irregular
+4140,572725,Spiral
+4141,572727,Spiral
+4142,572734,Spiral
+4143,572738,Spiral
+4144,572757,Spiral
+4145,572767,Spiral
+4146,572773,Elliptical
+4147,572798,Bar Spiral
+4148,572831,Irregular
+4149,572840,Elliptical
+4150,572852,Irregular
+4151,572914,Bar Spiral
+4152,572931,Elliptical
+4153,572949,Spiral
+4154,572981,Spiral
+4155,572982,Spiral
+4156,572991,Elliptical
+4157,572997,Spiral
+4158,573041,Bar Spiral
+4159,573048,Lenticular
+4160,573055,Lenticular
+4161,573069,Spiral
+4162,573071,Elliptical
+4163,573081,Irregular
+4164,573099,Irregular
+4165,573109,Elliptical
+4166,573129,Spiral
+4167,573132,Spiral
+4168,573137,Bar Spiral
+4169,573155,Elliptical
+4170,573176,Elliptical
+4171,573180,Irregular
+4172,573181,Elliptical
+4173,573210,Irregular
+4174,573250,Spiral
+4175,573315,Irregular
+4176,573335,Spiral
+4177,573388,Spiral
+4178,573390,Elliptical
+4179,573397,Elliptical
+4180,573399,Lenticular
+4181,573407,Spiral
+4182,573410,Lenticular
+4183,573412,Spiral
+4184,573417,Elliptical
+4185,573430,Elliptical
+4186,573438,Elliptical
+4187,573462,Spiral
+4188,573468,Elliptical
+4189,573473,Lenticular
+4190,573474,Elliptical
+4191,573484,Bar Spiral
+4192,573502,Spiral
+4193,573532,Spiral
+4194,573543,Elliptical
+4195,573548,Elliptical
+4196,573550,Bar Spiral
+4197,573555,Elliptical
+4198,573583,Elliptical Cigar
+4199,573588,Irregular
+4200,573621,Spiral
+4201,573625,Elliptical Cigar
+4202,573628,Lenticular
+4203,573643,Lenticular
+4204,573648,Lenticular
+4205,573651,Spiral
+4206,573653,Irregular
+4207,573658,Spiral
+4208,573672,Lenticular
+4209,573681,Spiral
+4210,573686,Spiral
+4211,573689,Irregular
+4212,573691,Spiral
+4213,573699,Bar Spiral
+4214,573707,Elliptical
+4215,573718,Irregular
+4216,573721,Elliptical
+4217,573723,Irregular
+4218,573736,Spiral
+4219,573743,Lenticular
+4220,573747,Irregular
+4221,573774,Elliptical
+4222,573785,Spiral
+4223,573808,Irregular
+4224,573824,Elliptical
+4225,573843,Elliptical
+4226,573853,Bar Spiral
+4227,573857,Spiral
+4228,573863,Spiral
+4229,573885,Elliptical
+4230,573888,Bar Spiral
+4231,573906,Irregular
+4232,573927,Elliptical
+4233,573935,Irregular
+4234,573937,Irregular
+4235,573949,Bar Spiral
+4236,573963,Irregular
+4237,573983,Elliptical
+4238,574005,Irregular
+4239,574010,Irregular
+4240,574015,Elliptical
+4241,574027,Bar Spiral
+4242,574039,Spiral
+4243,574047,Irregular
+4244,574050,Irregular
+4245,574055,Lenticular
+4246,574057,Spiral
+4247,574091,Irregular
+4248,574107,Spiral
+4249,574137,Bar Spiral
+4250,574138,Elliptical
+4251,574168,Spiral
+4252,574196,Spiral
+4253,574211,Elliptical
+4254,574216,Elliptical Cigar
+4255,574218,Elliptical
+4256,574244,Elliptical
+4257,574245,Irregular
+4258,574252,Spiral
+4259,574257,Elliptical
+4260,574280,Spiral
+4261,574293,Lenticular
+4262,574302,Spiral
+4263,574305,Spiral
+4264,574324,Elliptical
+4265,574333,Elliptical
+4266,574336,Elliptical
+4267,574343,Irregular
+4268,574356,Elliptical
+4269,574376,Elliptical
+4270,574393,Spiral
+4271,574408,Elliptical
+4272,574436,Bar Spiral
+4273,574439,Irregular
+4274,574442,Elliptical
+4275,574449,Bar Spiral
+4276,574450,Spiral
+4277,574461,Spiral
+4278,574479,Elliptical
+4279,574494,Elliptical
+4280,574500,Spiral
+4281,574503,Spiral
+4282,574521,Irregular
+4283,574539,Elliptical
+4284,574540,Elliptical
+4285,574577,Irregular
+4286,574587,Elliptical
+4287,574593,Irregular
+4288,574595,Bar Spiral
+4289,574599,Irregular
+4290,574601,Elliptical
+4291,574604,Spiral
+4292,574635,Elliptical
+4293,574676,Elliptical Cigar
+4294,574679,Spiral
+4295,574690,Irregular
+4296,574697,Elliptical
+4297,574705,Elliptical
+4298,574708,Lenticular
+4299,574733,Elliptical
+4300,574743,Spiral
+4301,574770,Elliptical Cigar
+4302,574781,Irregular
+4303,574787,Elliptical
+4304,574799,Elliptical
+4305,574803,Irregular
+4306,574836,Elliptical
+4307,574851,Elliptical
+4308,574933,Elliptical
+4309,574937,Elliptical Cigar
+4310,574939,Elliptical
+4311,574944,Bar Spiral
+4312,575005,Irregular
+4313,575007,Elliptical
+4314,575041,Spiral
+4315,575060,Spiral
+4316,575076,Bar Spiral
+4317,575091,Irregular
+4318,575107,Spiral
+4319,575147,Elliptical
+4320,575153,Spiral
+4321,575161,Elliptical
+4322,575206,Spiral
+4323,575211,Elliptical
+4324,575227,Spiral
+4325,575237,Irregular
+4326,575241,Spiral
+4327,575242,Elliptical
+4328,575248,Elliptical
+4329,575278,Irregular
+4330,575293,Spiral
+4331,575329,Elliptical
+4332,575357,Bar Spiral
+4333,575362,Bar Spiral
+4334,575386,Elliptical
+4335,575393,Spiral
+4336,575396,Spiral
+4337,575400,Elliptical
+4338,575446,Irregular
+4339,575461,Elliptical
+4340,575488,Spiral
+4341,575512,Spiral
+4342,575517,Spiral
+4343,575520,Elliptical
+4344,575528,Elliptical
+4345,575553,Irregular
+4346,575590,Elliptical Cigar
+4347,575614,Elliptical Cigar
+4348,575630,Spiral
+4349,575632,Elliptical
+4350,575654,Spiral
+4351,575659,Lenticular
+4352,575667,Elliptical
+4353,575695,Lenticular
+4354,575733,Spiral
+4355,575735,Spiral
+4356,575760,Spiral
+4357,575797,Lenticular
+4358,575814,Spiral
+4359,575823,Lenticular
+4360,575888,Elliptical
+4361,575892,Elliptical
+4362,575897,Elliptical
+4363,575898,Elliptical
+4364,575902,Spiral
+4365,575923,Elliptical
+4366,575935,Spiral
+4367,575948,Elliptical
+4368,575951,Elliptical
+4369,575960,Elliptical
+4370,575980,Elliptical
+4371,575986,Irregular
+4372,575988,Elliptical
+4373,576004,Spiral
+4374,576011,Elliptical
+4375,576028,Elliptical
+4376,576035,Irregular
+4377,576042,Bar Spiral
+4378,576045,Spiral
+4379,576046,Irregular
+4380,576054,Spiral
+4381,576063,Elliptical
+4382,576079,Spiral
+4383,576099,Lenticular
+4384,576105,Spiral
+4385,576108,Spiral
+4386,576109,Spiral
+4387,576130,Elliptical Cigar
+4388,576149,Elliptical
+4389,576168,Elliptical
+4390,576170,Irregular
+4391,576176,Elliptical
+4392,576207,Elliptical
+4393,576219,Elliptical
+4394,576220,Spiral
+4395,576234,Elliptical
+4396,576246,Elliptical
+4397,576253,Elliptical
+4398,576268,Spiral
+4399,576280,Elliptical
+4400,576299,Spiral
+4401,576315,Elliptical
+4402,576317,Elliptical
+4403,576330,Elliptical
+4404,576333,Irregular
+4405,576347,Spiral
+4406,576368,Elliptical
+4407,576369,Lenticular
+4408,576401,Spiral
+4409,576420,Irregular
+4410,576422,Spiral
+4411,576436,Spiral
+4412,576496,Spiral
+4413,576500,Elliptical
+4414,576503,Bar Spiral
+4415,576507,Spiral
+4416,576543,Bar Spiral
+4417,576557,Elliptical
+4418,576558,Elliptical
+4419,576561,Irregular
+4420,576572,Spiral
+4421,576588,Spiral
+4422,576596,Elliptical
+4423,576620,Elliptical
+4424,576630,Elliptical
+4425,576632,Elliptical Cigar
+4426,576633,Elliptical
+4427,576638,Elliptical
+4428,576642,Elliptical
+4429,576643,Elliptical
+4430,576672,Elliptical
+4431,576679,Bar Spiral
+4432,576680,Elliptical
+4433,576687,Spiral
+4434,576697,Bar Spiral
+4435,576703,Bar Spiral
+4436,576728,Elliptical
+4437,576736,Lenticular
+4438,576819,Spiral
+4439,576834,Elliptical
+4440,576843,Irregular
+4441,576850,Spiral
+4442,576864,Elliptical
+4443,576895,Elliptical
+4444,576910,Spiral
+4445,576913,Elliptical
+4446,576919,Spiral
+4447,576975,Elliptical
+4448,577015,Lenticular
+4449,577036,Irregular
+4450,577046,Elliptical
+4451,577052,Irregular
+4452,577064,Bar Spiral
+4453,577109,Elliptical
+4454,577142,Elliptical
+4455,577147,Irregular
+4456,577150,Elliptical
+4457,577162,Elliptical
+4458,577185,Elliptical
+4459,577188,Spiral
+4460,577194,Lenticular
+4461,577198,Elliptical
+4462,577208,Elliptical
+4463,577237,Spiral
+4464,577252,Bar Spiral
+4465,577349,Irregular
+4466,577387,Lenticular
+4467,577389,Irregular
+4468,577399,Elliptical
+4469,577402,Elliptical
+4470,577427,Elliptical
+4471,577448,Spiral
+4472,577452,Spiral
+4473,577463,Spiral
+4474,577478,Elliptical
+4475,577488,Elliptical
+4476,577496,Irregular
+4477,577514,Irregular
+4478,577521,Irregular
+4479,577555,Elliptical
+4480,577655,Elliptical
+4481,577677,Spiral
+4482,577678,Irregular
+4483,577691,Irregular
+4484,577708,Elliptical
+4485,577718,Bar Spiral
+4486,577764,Spiral
+4487,577782,Irregular
+4488,577793,Spiral
+4489,577797,Spiral
+4490,577800,Irregular
+4491,577813,Elliptical
+4492,577816,Elliptical
+4493,577829,Elliptical
+4494,577847,Spiral
+4495,577864,Spiral
+4496,577889,Spiral
+4497,577926,Spiral
+4498,577947,Bar Spiral
+4499,577950,Bar Spiral
+4500,577995,Elliptical
+4501,578011,Spiral
+4502,578013,Lenticular
+4503,578017,Spiral
+4504,578039,Elliptical
+4505,578046,Elliptical
+4506,578054,Elliptical
+4507,578075,Bar Spiral
+4508,578099,Lenticular
+4509,578103,Spiral
+4510,578113,Spiral
+4511,578122,Spiral
+4512,578128,Lenticular
+4513,578143,Elliptical
+4514,578144,Bar Spiral
+4515,578157,Spiral
+4516,578171,Spiral
+4517,578207,Bar Spiral
+4518,578216,Spiral
+4519,578225,Irregular
+4520,578241,Elliptical
+4521,578250,Irregular
+4522,578256,Spiral
+4523,578257,Spiral
+4524,578267,Spiral
+4525,578293,Spiral
+4526,578294,Spiral
+4527,578337,Lenticular
+4528,578344,Bar Spiral
+4529,578365,Spiral
+4530,578366,Elliptical
+4531,578370,Elliptical
+4532,578372,Bar Spiral
+4533,578384,Irregular
+4534,578387,Irregular
+4535,578395,Irregular
+4536,578406,Elliptical
+4537,578414,Lenticular
+4538,578418,Elliptical
+4539,578424,Spiral
+4540,578439,Elliptical Cigar
+4541,578450,Spiral
+4542,578455,Spiral
+4543,578501,Irregular
+4544,578517,Spiral
+4545,578556,Irregular
+4546,578565,Irregular
+4547,578574,Spiral
+4548,578601,Elliptical
+4549,578614,Elliptical
+4550,578636,Elliptical
+4551,578638,Spiral
+4552,578640,Spiral
+4553,578647,Irregular
+4554,578654,Elliptical
+4555,578655,Lenticular
+4556,578665,Irregular
+4557,578675,Spiral
+4558,578680,Lenticular
+4559,578684,Elliptical
+4560,578701,Irregular
+4561,578714,Spiral
+4562,578719,Elliptical
+4563,578722,Irregular
+4564,578728,Spiral
+4565,578729,Elliptical
+4566,578741,Spiral
+4567,578756,Elliptical
+4568,578757,Elliptical
+4569,578770,Bar Spiral
+4570,578807,Elliptical
+4571,578823,Elliptical
+4572,578850,Bar Spiral
+4573,578857,Irregular
+4574,578861,Spiral
+4575,578865,Bar Spiral
+4576,578876,Bar Spiral
+4577,578896,Elliptical
+4578,578904,Lenticular
+4579,578912,Irregular
+4580,578941,Bar Spiral
+4581,578945,Spiral
+4582,578947,Spiral
+4583,578955,Spiral
+4584,578956,Bar Spiral
+4585,578957,Elliptical
+4586,579057,Elliptical
+4587,579084,Elliptical
+4588,579091,Spiral
+4589,579119,Spiral
+4590,579133,Spiral
+4591,579140,Irregular
+4592,579172,Elliptical
+4593,579196,Lenticular
+4594,579232,Elliptical
+4595,579249,Elliptical
+4596,579261,Spiral
+4597,579309,Elliptical
+4598,579317,Elliptical
+4599,579337,Elliptical
+4600,579345,Elliptical
+4601,579346,Elliptical
+4602,579358,Irregular
+4603,579360,Elliptical
+4604,579394,Irregular
+4605,579395,Spiral
+4606,579397,Elliptical
+4607,579452,Spiral
+4608,579468,Irregular
+4609,579477,Elliptical
+4610,579485,Spiral
+4611,579497,Spiral
+4612,579508,Elliptical
+4613,579511,Elliptical
+4614,579524,Irregular
+4615,579566,Elliptical
+4616,579577,Elliptical Cigar
+4617,579578,Elliptical
+4618,579594,Spiral
+4619,579597,Irregular
+4620,579607,Spiral
+4621,579641,Elliptical Cigar
+4622,579647,Lenticular
+4623,579696,Spiral
+4624,579700,Spiral
+4625,579713,Lenticular
+4626,579738,Elliptical
+4627,579740,Bar Spiral
+4628,579742,Elliptical
+4629,579744,Bar Spiral
+4630,579750,Spiral
+4631,579758,Bar Spiral
+4632,579785,Irregular
+4633,579786,Elliptical
+4634,579809,Irregular
+4635,579823,Lenticular
+4636,579831,Elliptical
+4637,579835,Bar Spiral
+4638,579846,Elliptical
+4639,579889,Elliptical
+4640,579902,Spiral
+4641,579903,Irregular
+4642,579907,Spiral
+4643,579918,Elliptical
+4644,579926,Irregular
+4645,579936,Bar Spiral
+4646,579943,Elliptical
+4647,579951,Elliptical Cigar
+4648,579970,Spiral
+4649,579986,Elliptical
+4650,580001,Elliptical Cigar
+4651,580007,Elliptical
+4652,580008,Elliptical Cigar
+4653,580013,Elliptical
+4654,580019,Elliptical
+4655,580053,Spiral
+4656,580058,Bar Spiral
+4657,580061,Spiral
+4658,580062,Elliptical
+4659,580106,Elliptical
+4660,580112,Spiral
+4661,580136,Bar Spiral
+4662,580142,Elliptical
+4663,580159,Lenticular
+4664,580165,Spiral
+4665,580171,Spiral
+4666,580185,Spiral
+4667,580198,Lenticular
+4668,580213,Spiral
+4669,580266,Spiral
+4670,580286,Elliptical
+4671,580312,Spiral
+4672,580332,Elliptical
+4673,580349,Lenticular
+4674,580357,Irregular
+4675,580386,Elliptical
+4676,580389,Lenticular
+4677,580413,Lenticular
+4678,580426,Spiral
+4679,580444,Elliptical
+4680,580452,Elliptical
+4681,580482,Irregular
+4682,580522,Elliptical
+4683,580543,Irregular
+4684,580549,Spiral
+4685,580582,Elliptical
+4686,580597,Elliptical
+4687,580611,Bar Spiral
+4688,580616,Irregular
+4689,580617,Elliptical
+4690,580672,Elliptical
+4691,580693,Bar Spiral
+4692,580696,Spiral
+4693,580714,Spiral
+4694,580725,Elliptical
+4695,580728,Elliptical
+4696,580786,Bar Spiral
+4697,580825,Spiral
+4698,580861,Spiral
+4699,580870,Spiral
+4700,580900,Elliptical
+4701,580954,Spiral
+4702,580987,Irregular
+4703,580997,Spiral
+4704,581019,Elliptical
+4705,581033,Spiral
+4706,581071,Lenticular
+4707,581095,Lenticular
+4708,581107,Spiral
+4709,581144,Irregular
+4710,581159,Spiral
+4711,581174,Elliptical
+4712,581201,Spiral
+4713,581225,Spiral
+4714,581246,Elliptical
+4715,581257,Spiral
+4716,581259,Elliptical
+4717,581260,Spiral
+4718,581322,Spiral
+4719,581333,Bar Spiral
+4720,581364,Elliptical
+4721,581370,Elliptical
+4722,581379,Spiral
+4723,581381,Elliptical
+4724,581382,Elliptical
+4725,581386,Elliptical
+4726,581391,Elliptical
+4727,581449,Lenticular
+4728,581456,Spiral
+4729,581460,Spiral
+4730,581464,Lenticular
+4731,581476,Irregular
+4732,581496,Elliptical
+4733,581501,Elliptical
+4734,581519,Elliptical
+4735,581537,Elliptical
+4736,581572,Spiral
+4737,581599,Irregular
+4738,581616,Lenticular
+4739,581620,Elliptical
+4740,581628,Elliptical
+4741,581629,Spiral
+4742,581642,Elliptical
+4743,581652,Spiral
+4744,581664,Elliptical
+4745,581667,Irregular
+4746,581690,Elliptical
+4747,581695,Spiral
+4748,581697,Bar Spiral
+4749,581729,Elliptical
+4750,581747,Irregular
+4751,581762,Irregular
+4752,581778,Elliptical
+4753,581786,Spiral
+4754,581799,Spiral
+4755,581817,Elliptical
+4756,581820,Elliptical
+4757,581835,Spiral
+4758,581840,Elliptical
+4759,581847,Elliptical
+4760,581867,Irregular
+4761,581872,Bar Spiral
+4762,581896,Spiral
+4763,581898,Bar Spiral
+4764,581940,Spiral
+4765,581942,Elliptical
+4766,581952,Spiral
+4767,581956,Elliptical
+4768,581972,Spiral
+4769,581976,Irregular
+4770,582003,Elliptical
+4771,582022,Elliptical
+4772,582047,Bar Spiral
+4773,582055,Spiral
+4774,582064,Spiral
+4775,582075,Elliptical
+4776,582098,Elliptical
+4777,582099,Elliptical
+4778,582128,Spiral
+4779,582139,Elliptical
+4780,582140,Bar Spiral
+4781,582146,Elliptical
+4782,582156,Elliptical
+4783,582158,Elliptical
+4784,582166,Elliptical
+4785,582176,Lenticular
+4786,582180,Elliptical
+4787,582199,Bar Spiral
+4788,582227,Spiral
+4789,582237,Spiral
+4790,582255,Spiral
+4791,582257,Irregular
+4792,582266,Irregular
+4793,582281,Irregular
+4794,582293,Spiral
+4795,582311,Elliptical
+4796,582327,Spiral
+4797,582339,Elliptical Cigar
+4798,582344,Spiral
+4799,582362,Lenticular
+4800,582373,Lenticular
+4801,582377,Elliptical
+4802,582391,Spiral
+4803,582402,Elliptical
+4804,582404,Spiral
+4805,582411,Bar Spiral
+4806,582418,Elliptical
+4807,582468,Elliptical
+4808,582482,Elliptical
+4809,582493,Elliptical
+4810,582495,Elliptical
+4811,582505,Irregular
+4812,582513,Elliptical
+4813,582519,Elliptical
+4814,582536,Spiral
+4815,582537,Elliptical
+4816,582548,Irregular
+4817,582563,Irregular
+4818,582568,Spiral
+4819,582579,Spiral
+4820,582583,Spiral
+4821,582615,Elliptical
+4822,582619,Irregular
+4823,582635,Elliptical
+4824,582650,Elliptical
+4825,582653,Elliptical
+4826,582673,Elliptical
+4827,582691,Irregular
+4828,582693,Lenticular
+4829,582709,Lenticular
+4830,582729,Elliptical
+4831,582744,Elliptical
+4832,582746,Spiral
+4833,582758,Spiral
+4834,582761,Bar Spiral
+4835,582768,Elliptical Cigar
+4836,582791,Elliptical
+4837,582798,Spiral
+4838,582822,Spiral
+4839,582828,Elliptical
+4840,582841,Elliptical
+4841,582886,Elliptical
+4842,582888,Elliptical
+4843,582904,Elliptical
+4844,582911,Elliptical
+4845,582941,Elliptical
+4846,582944,Elliptical
+4847,582961,Elliptical
+4848,582968,Irregular
+4849,583004,Elliptical
+4850,583009,Lenticular
+4851,583025,Elliptical
+4852,583031,Elliptical
+4853,583046,Elliptical
+4854,583048,Irregular
+4855,583081,Spiral
+4856,583089,Spiral
+4857,583091,Elliptical
+4858,583094,Spiral
+4859,583117,Spiral
+4860,583121,Bar Spiral
+4861,583125,Spiral
+4862,583128,Irregular
+4863,583130,Spiral
+4864,583143,Spiral
+4865,583151,Irregular
+4866,583152,Elliptical
+4867,583164,Irregular
+4868,583166,Elliptical
+4869,583181,Elliptical
+4870,583186,Lenticular
+4871,583187,Bar Spiral
+4872,583199,Spiral
+4873,583202,Bar Spiral
+4874,583207,Elliptical
+4875,583223,Spiral
+4876,583265,Elliptical
+4877,583311,Elliptical
+4878,583320,Spiral
+4879,583337,Irregular
+4880,583347,Spiral
+4881,583371,Elliptical
+4882,583403,Bar Spiral
+4883,583424,Elliptical
+4884,583435,Elliptical
+4885,583439,Spiral
+4886,583476,Bar Spiral
+4887,583487,Irregular
+4888,583490,Irregular
+4889,583502,Elliptical
+4890,583524,Elliptical
+4891,583550,Elliptical
+4892,583565,Irregular
+4893,583568,Spiral
+4894,583583,Elliptical
+4895,583623,Spiral
+4896,583639,Elliptical
+4897,583647,Irregular
+4898,583649,Elliptical
+4899,583664,Lenticular
+4900,583715,Spiral
+4901,583731,Elliptical
+4902,583789,Elliptical
+4903,583795,Elliptical
+4904,583820,Spiral
+4905,583834,Spiral
+4906,583867,Elliptical
+4907,583878,Elliptical Cigar
+4908,583888,Elliptical
+4909,583889,Irregular
+4910,583898,Elliptical
+4911,583945,Spiral
+4912,583950,Spiral
+4913,583975,Irregular
+4914,583989,Bar Spiral
+4915,584025,Spiral
+4916,584055,Irregular
+4917,584060,Elliptical
+4918,584105,Bar Spiral
+4919,584118,Spiral
+4920,584128,Elliptical
+4921,584139,Lenticular
+4922,584142,Spiral
+4923,584173,Spiral
+4924,584200,Irregular
+4925,584205,Elliptical
+4926,584254,Elliptical
+4927,584294,Irregular
+4928,584295,Bar Spiral
+4929,584301,Elliptical
+4930,584303,Spiral
+4931,584324,Elliptical Cigar
+4932,584328,Elliptical
+4933,584335,Elliptical
+4934,584346,Elliptical
+4935,584369,Lenticular
+4936,584379,Irregular
+4937,584386,Bar Spiral
+4938,584391,STAR
+4939,584396,Irregular
+4940,584420,Elliptical
+4941,584493,Bar Spiral
+4942,584503,Spiral
+4943,584518,Spiral
+4944,584530,Spiral
+4945,584541,Elliptical
+4946,584544,Spiral
+4947,584555,Spiral
+4948,584563,Elliptical
+4949,584567,Spiral
+4950,584569,Spiral
+4951,584576,Bar Spiral
+4952,584586,Spiral
+4953,584591,Spiral
+4954,584597,Elliptical
+4955,584600,Elliptical
+4956,584602,Elliptical
+4957,584618,Lenticular
+4958,584650,Spiral
+4959,584660,Spiral
+4960,584669,Elliptical
+4961,584676,Spiral
+4962,584695,Bar Spiral
+4963,584713,Elliptical Cigar
+4964,584717,Spiral
+4965,584721,Spiral
+4966,584736,Lenticular
+4967,584738,Irregular
+4968,584756,Spiral
+4969,584758,Spiral
+4970,584773,Elliptical
+4971,584775,Spiral
+4972,584822,Elliptical
+4973,584823,Irregular
+4974,584841,Spiral
+4975,584860,Spiral
+4976,584866,Spiral
+4977,584874,Lenticular
+4978,584882,Elliptical
+4979,584887,Spiral
+4980,584891,Irregular
+4981,584892,Elliptical
+4982,584903,Lenticular
+4983,584936,Spiral
+4984,584944,Spiral
+4985,584963,Elliptical
+4986,584969,Elliptical
+4987,584986,Spiral
+4988,585007,Elliptical
+4989,585013,Lenticular
+4990,585029,Spiral
+4991,585042,Elliptical
+4992,585047,Lenticular
+4993,585048,Spiral
+4994,585052,Elliptical
+4995,585058,Spiral
+4996,585068,Irregular
+4997,585080,Spiral
+4998,585084,Irregular
+4999,585085,Spiral
+5000,585091,Elliptical
+5001,585105,Irregular
+5002,585106,Elliptical
+5003,585118,Spiral
+5004,585120,Irregular
+5005,585134,Spiral
+5006,585135,Irregular
+5007,585186,Bar Spiral
+5008,585194,Elliptical
+5009,585199,Bar Spiral
+5010,585200,Elliptical
+5011,585210,Elliptical
+5012,585212,Elliptical
+5013,585225,Lenticular
+5014,585226,Bar Spiral
+5015,585284,Elliptical
+5016,585294,Spiral
+5017,585301,Elliptical
+5018,585308,Irregular
+5019,585317,Lenticular
+5020,585328,Spiral
+5021,585372,Elliptical
+5022,585437,Irregular
+5023,585467,Spiral
+5024,585472,Elliptical
+5025,585485,Spiral
+5026,585493,Spiral
+5027,585539,Spiral
+5028,585542,Spiral
+5029,585555,Irregular
+5030,585568,Spiral
+5031,585592,Elliptical
+5032,585602,Elliptical
+5033,585603,Spiral
+5034,585611,Elliptical
+5035,585614,Bar Spiral
+5036,585631,Bar Spiral
+5037,585646,Spiral
+5038,585656,Spiral
+5039,585660,Spiral
+5040,585687,Elliptical
+5041,585692,Spiral
+5042,585699,Spiral
+5043,585716,Elliptical
+5044,585767,Spiral
+5045,585769,Bar Spiral
+5046,585774,Irregular
+5047,585782,Elliptical
+5048,585800,Elliptical
+5049,585814,Lenticular
+5050,585840,Elliptical
+5051,585845,Irregular
+5052,585853,Elliptical
+5053,585872,Elliptical
+5054,585876,Irregular
+5055,585887,Elliptical
+5056,585928,Irregular
+5057,585971,Elliptical
+5058,585972,Elliptical
+5059,585988,Elliptical
+5060,585998,Bar Spiral
+5061,586014,Elliptical Cigar
+5062,586032,Bar Spiral
+5063,586053,Spiral
+5064,586075,STAR
+5065,586131,Lenticular
+5066,586148,Irregular
+5067,586149,Bar Spiral
+5068,586166,Spiral
+5069,586177,Spiral
+5070,586178,Spiral
+5071,586182,Elliptical
+5072,586214,Spiral
+5073,586237,Lenticular
+5074,586239,Elliptical
+5075,586249,Irregular
+5076,586256,Irregular
+5077,586271,Irregular
+5078,586290,Elliptical
+5079,586312,Bar Spiral
+5080,586353,Irregular
+5081,586359,Elliptical
+5082,586378,Elliptical
+5083,586407,Irregular
+5084,586417,Elliptical
+5085,586447,Elliptical
+5086,586456,Elliptical
+5087,586492,Irregular
+5088,586501,Elliptical Cigar
+5089,586534,Spiral
+5090,586538,Elliptical Cigar
+5091,586571,Irregular
+5092,586572,Elliptical Cigar
+5093,586574,Elliptical
+5094,586591,Elliptical
+5095,586612,Bar Spiral
+5096,586616,Spiral
+5097,586623,Spiral
+5098,586639,Elliptical
+5099,586643,Irregular
+5100,586658,Spiral
+5101,586690,Spiral
+5102,586694,Elliptical
+5103,586708,Elliptical
+5104,586715,Spiral
+5105,586727,Lenticular
+5106,586741,Spiral
+5107,586771,Elliptical
+5108,586777,Bar Spiral
+5109,586795,Elliptical Cigar
+5110,586799,Spiral
+5111,586823,Lenticular
+5112,586839,Irregular
+5113,586848,Lenticular
+5114,586854,Elliptical
+5115,586865,Irregular
+5116,586914,Spiral
+5117,586927,Elliptical
+5118,586929,Spiral
+5119,586933,Elliptical
+5120,586981,Irregular
+5121,586983,Spiral
+5122,586991,Elliptical
+5123,587008,Spiral
+5124,587019,Elliptical
+5125,587029,Irregular
+5126,587034,Elliptical
+5127,587063,Elliptical
+5128,587065,Spiral
+5129,587068,Spiral
+5130,587069,Lenticular
+5131,587070,Elliptical
+5132,587092,Elliptical
+5133,587098,Spiral
+5134,587116,Elliptical
+5135,587128,Elliptical
+5136,587140,Spiral
+5137,587165,Bar Spiral
+5138,587167,Elliptical
+5139,587174,Spiral
+5140,587179,Elliptical
+5141,587188,Elliptical
+5142,587202,Elliptical
+5143,587211,Elliptical
+5144,587239,Bar Spiral
+5145,587265,Lenticular
+5146,587292,Elliptical
+5147,587306,Irregular
+5148,587308,Elliptical
+5149,587311,Elliptical
+5150,587320,Elliptical
+5151,587359,Lenticular
+5152,587369,Irregular
+5153,587424,Elliptical
+5154,587447,Elliptical
+5155,587450,Irregular
+5156,587485,Elliptical Cigar
+5157,587517,Elliptical
+5158,587537,Elliptical
+5159,587551,Irregular
+5160,587562,Elliptical
+5161,587564,Spiral
+5162,587567,Elliptical
+5163,587575,Spiral
+5164,587598,Spiral
+5165,587622,Elliptical
+5166,587646,Elliptical
+5167,587676,Irregular
+5168,587679,Elliptical
+5169,587687,Elliptical
+5170,587692,Spiral
+5171,587693,Irregular
+5172,587700,Spiral
+5173,587705,Bar Spiral
+5174,587708,Irregular
+5175,587716,Elliptical
+5176,587723,Irregular
+5177,587727,Elliptical
+5178,587743,Irregular
+5179,587752,Spiral
+5180,587754,Spiral
+5181,587780,Bar Spiral
+5182,587802,Lenticular
+5183,587884,Spiral
+5184,587914,Elliptical
+5185,587921,Irregular
+5186,587942,Elliptical
+5187,587965,Elliptical
+5188,588004,Elliptical
+5189,588016,Elliptical
+5190,588019,Irregular
+5191,588044,Elliptical
+5192,588060,Elliptical
+5193,588068,Lenticular
+5194,588078,Spiral
+5195,588091,Elliptical
+5196,588137,Spiral
+5197,588175,Spiral
+5198,588188,Elliptical
+5199,588207,Spiral
+5200,588210,Elliptical
+5201,588224,Lenticular
+5202,588234,Bar Spiral
+5203,588247,Elliptical
+5204,588259,Irregular
+5205,588269,Elliptical
+5206,588271,Elliptical
+5207,588276,Irregular
+5208,588278,Elliptical
+5209,588285,Lenticular
+5210,588300,Elliptical
+5211,588303,Elliptical
+5212,588317,Spiral
+5213,588336,Spiral
+5214,588354,Bar Spiral
+5215,588356,Spiral
+5216,588359,Spiral
+5217,588361,Spiral
+5218,588371,Spiral
+5219,588377,Elliptical
+5220,588408,Irregular
+5221,588418,Irregular
+5222,588434,Irregular
+5223,588448,Bar Spiral
+5224,588457,Spiral
+5225,588462,Spiral
+5226,588476,Irregular
+5227,588480,Elliptical
+5228,588490,Irregular
+5229,588506,Irregular
+5230,588522,Irregular
+5231,588531,Elliptical
+5232,588533,Irregular
+5233,588551,Elliptical
+5234,588555,STAR
+5235,588559,Elliptical
+5236,588577,Spiral
+5237,588588,Spiral
+5238,588607,Elliptical
+5239,588613,Elliptical
+5240,588620,Spiral
+5241,588621,Bar Spiral
+5242,588630,Elliptical Cigar
+5243,588633,Lenticular
+5244,588637,Spiral
+5245,588640,Irregular
+5246,588650,Spiral
+5247,588676,Elliptical
+5248,588681,Irregular
+5249,588686,Elliptical
+5250,588694,Elliptical
+5251,588705,Spiral
+5252,588712,Irregular
+5253,588715,Irregular
+5254,588722,Bar Spiral
+5255,588729,Bar Spiral
+5256,588744,Spiral
+5257,588785,Elliptical Cigar
+5258,588808,Spiral
+5259,588809,Elliptical
+5260,588810,Elliptical
+5261,588820,Bar Spiral
+5262,588821,Irregular
+5263,588840,Bar Spiral
+5264,588859,Elliptical
+5265,588878,Elliptical
+5266,588888,Irregular
+5267,588893,Elliptical
+5268,588921,Elliptical Cigar
+5269,588936,Elliptical Cigar
+5270,588941,Elliptical
+5271,588958,Lenticular
+5272,588961,Spiral
+5273,588967,Elliptical
+5274,589002,Elliptical Cigar
+5275,589030,Elliptical
+5276,589044,Elliptical
+5277,589048,Spiral
+5278,589058,Elliptical
+5279,589072,Bar Spiral
+5280,589085,Spiral
+5281,589086,Spiral
+5282,589088,Spiral
+5283,589103,Elliptical
+5284,589118,Elliptical
+5285,589135,Elliptical
+5286,589139,Elliptical Cigar
+5287,589157,Elliptical
+5288,589171,Elliptical
+5289,589182,Lenticular
+5290,589195,Spiral
+5291,589223,Spiral
+5292,589224,Bar Spiral
+5293,589249,Spiral
+5294,589258,Bar Spiral
+5295,589260,Spiral
+5296,589270,Bar Spiral
+5297,589280,Elliptical
+5298,589286,Irregular
+5299,589301,Irregular
+5300,589303,Elliptical
+5301,589320,Irregular
+5302,589322,Elliptical
+5303,589340,Bar Spiral
+5304,589344,Spiral
+5305,589352,Bar Spiral
+5306,589356,Spiral
+5307,589375,Lenticular
+5308,589378,Irregular
+5309,589380,Bar Spiral
+5310,589381,Lenticular
+5311,589393,Elliptical
+5312,589395,Elliptical
+5313,589399,Bar Spiral
+5314,589415,Lenticular
+5315,589418,Elliptical
+5316,589424,Spiral
+5317,589429,Elliptical
+5318,589432,Elliptical
+5319,589437,Irregular
+5320,589457,Elliptical
+5321,589458,Spiral
+5322,589501,Lenticular
+5323,589516,Irregular
+5324,589519,Spiral
+5325,589533,Irregular
+5326,589535,Spiral
+5327,589546,Elliptical
+5328,589594,Lenticular
+5329,589599,Spiral
+5330,589600,Spiral
+5331,589610,Elliptical
+5332,589613,Spiral
+5333,589660,Elliptical
+5334,589669,Spiral
+5335,589674,Spiral
+5336,589708,Elliptical
+5337,589744,Bar Spiral
+5338,589759,Lenticular
+5339,589766,Elliptical
+5340,589780,Elliptical
+5341,589796,Bar Spiral
+5342,589810,Spiral
+5343,589857,Elliptical
+5344,589864,Spiral
+5345,589878,Elliptical
+5346,589883,Spiral
+5347,589907,Elliptical
+5348,589931,Spiral
+5349,589941,Bar Spiral
+5350,589947,Bar Spiral
+5351,589958,Spiral
+5352,589974,Spiral
+5353,589976,Elliptical
+5354,589990,Elliptical
+5355,590006,Irregular
+5356,590014,Elliptical
+5357,590042,Irregular
+5358,590044,Spiral
+5359,590056,Elliptical
+5360,590061,Elliptical
+5361,590070,Bar Spiral
+5362,590071,Elliptical
+5363,590080,Elliptical
+5364,590095,Spiral
+5365,590097,Elliptical
+5366,590123,Spiral
+5367,590138,Lenticular
+5368,590142,Irregular
+5369,590147,Lenticular
+5370,590165,Irregular
+5371,590168,Elliptical
+5372,590186,Irregular
+5373,590217,Bar Spiral
+5374,590225,Spiral
+5375,590239,Elliptical
+5376,590243,Elliptical
+5377,590244,Elliptical
+5378,590260,Elliptical Cigar
+5379,590279,Irregular
+5380,590297,Spiral
+5381,590298,Spiral
+5382,590334,Elliptical
+5383,590371,Spiral
+5384,590376,Bar Spiral
+5385,590392,Spiral
+5386,590448,Elliptical
+5387,590463,Elliptical Cigar
+5388,590477,Elliptical
+5389,590481,Spiral
+5390,590504,Irregular
+5391,590505,Elliptical
+5392,590521,Spiral
+5393,590523,Bar Spiral
+5394,590548,Elliptical
+5395,590554,Irregular
+5396,590555,Spiral
+5397,590575,Elliptical Cigar
+5398,590588,Elliptical Cigar
+5399,590596,Elliptical
+5400,590616,Irregular
+5401,590624,Elliptical
+5402,590628,Spiral
+5403,590633,Lenticular
+5404,590649,Elliptical
+5405,590701,Spiral
+5406,590710,Elliptical
+5407,590740,Irregular
+5408,590760,Elliptical
+5409,590796,Irregular
+5410,590810,Elliptical
+5411,590822,Irregular
+5412,590843,Lenticular
+5413,590876,Spiral
+5414,590896,Elliptical
+5415,590947,Irregular
+5416,590951,Bar Spiral
+5417,590981,Elliptical
+5418,590984,Elliptical
+5419,590999,Irregular
+5420,591003,Spiral
+5421,591004,Spiral
+5422,591005,Spiral
+5423,591026,Elliptical Cigar
+5424,591030,Spiral
+5425,591032,Lenticular
+5426,591034,Irregular
+5427,591045,Spiral
+5428,591046,Spiral
+5429,591065,Elliptical
+5430,591068,Spiral
+5431,591086,Spiral
+5432,591099,Elliptical
+5433,591117,Elliptical
+5434,591142,Elliptical
+5435,591154,Irregular
+5436,591163,Elliptical
+5437,591172,Spiral
+5438,591183,Elliptical
+5439,591208,Lenticular
+5440,591238,Elliptical
+5441,591244,Lenticular
+5442,591246,Elliptical
+5443,591248,Lenticular
+5444,591252,Spiral
+5445,591280,Elliptical
+5446,591341,Elliptical
+5447,591342,Elliptical
+5448,591353,Elliptical
+5449,591354,Elliptical
+5450,591383,Irregular
+5451,591400,Elliptical
+5452,591408,Spiral
+5453,591412,Bar Spiral
+5454,591423,Elliptical
+5455,591426,Elliptical
+5456,591454,Spiral
+5457,591474,Spiral
+5458,591505,Spiral
+5459,591514,Elliptical
+5460,591516,Irregular
+5461,591523,Spiral
+5462,591526,Lenticular
+5463,591530,Spiral
+5464,591533,Elliptical
+5465,591539,Irregular
+5466,591565,Lenticular
+5467,591575,Elliptical
+5468,591608,Spiral
+5469,591675,Elliptical
+5470,591694,Irregular
+5471,591707,Irregular
+5472,591714,Irregular
+5473,591720,Irregular
+5474,591729,Elliptical
+5475,591745,Irregular
+5476,591751,Bar Spiral
+5477,591768,Elliptical
+5478,591775,Spiral
+5479,591776,Spiral
+5480,591779,Spiral
+5481,591795,Irregular
+5482,591805,Lenticular
+5483,591817,Spiral
+5484,591866,Spiral
+5485,591874,Spiral
+5486,591878,Spiral
+5487,591884,Spiral
+5488,591887,Elliptical
+5489,591923,Spiral
+5490,591947,Spiral
+5491,591953,Irregular
+5492,591959,Elliptical
+5493,591961,Irregular
+5494,591983,Spiral
+5495,591987,Elliptical
+5496,591988,Spiral
+5497,592003,Lenticular
+5498,592052,Elliptical Cigar
+5499,592062,Elliptical
+5500,592085,Spiral
+5501,592092,Elliptical
+5502,592138,Elliptical
+5503,592148,Irregular
+5504,592189,Bar Spiral
+5505,592198,Spiral
+5506,592205,Bar Spiral
+5507,592206,Spiral
+5508,592236,Lenticular
+5509,592244,Spiral
+5510,592304,Irregular
+5511,592309,Spiral
+5512,592313,Spiral
+5513,592322,Elliptical Cigar
+5514,592336,Spiral
+5515,592337,Irregular
+5516,592344,Elliptical
+5517,592347,Spiral
+5518,592358,Irregular
+5519,592369,Spiral
+5520,592384,Elliptical
+5521,592398,Elliptical
+5522,592417,Elliptical
+5523,592486,Bar Spiral
+5524,592495,Elliptical
+5525,592515,Spiral
+5526,592522,Elliptical
+5527,592534,Spiral
+5528,592557,Bar Spiral
+5529,592561,Spiral
+5530,592588,Spiral
+5531,592592,Lenticular
+5532,592595,Spiral
+5533,592607,Bar Spiral
+5534,592618,Spiral
+5535,592620,Elliptical
+5536,592623,Elliptical
+5537,592629,Spiral
+5538,592635,Elliptical
+5539,592649,Irregular
+5540,592664,Spiral
+5541,592665,Bar Spiral
+5542,592667,Elliptical
+5543,592679,Elliptical
+5544,592698,Irregular
+5545,592702,Elliptical
+5546,592745,Elliptical
+5547,592760,Spiral
+5548,592800,Elliptical
+5549,592857,Spiral
+5550,592868,Lenticular
+5551,592876,Spiral
+5552,592893,Elliptical
+5553,592895,Elliptical
+5554,592923,Elliptical
+5555,592928,Spiral
+5556,592931,Spiral
+5557,592943,Elliptical
+5558,592972,Elliptical
+5559,592984,Irregular
+5560,593007,Spiral
+5561,593031,Elliptical
+5562,593039,Spiral
+5563,593066,Elliptical
+5564,593070,Elliptical
+5565,593077,Spiral
+5566,593091,Elliptical
+5567,593119,Elliptical
+5568,593167,Elliptical
+5569,593203,Elliptical
+5570,593227,Lenticular
+5571,593230,Bar Spiral
+5572,593250,Elliptical
+5573,593257,Spiral
+5574,593266,Elliptical
+5575,593298,Irregular
+5576,593308,Elliptical
+5577,593364,Irregular
+5578,593371,Elliptical
+5579,593381,Elliptical
+5580,593386,Bar Spiral
+5581,593410,Elliptical
+5582,593425,Spiral
+5583,593452,Elliptical
+5584,593458,Lenticular
+5585,593466,Bar Spiral
+5586,593471,Elliptical
+5587,593477,Spiral
+5588,593499,Spiral
+5589,593500,Spiral
+5590,593542,Bar Spiral
+5591,593556,Elliptical
+5592,593577,Lenticular
+5593,593578,Bar Spiral
+5594,593580,Elliptical
+5595,593588,Elliptical
+5596,593590,Elliptical
+5597,593611,Elliptical
+5598,593621,Elliptical
+5599,593625,Elliptical
+5600,593627,Elliptical
+5601,593630,Spiral
+5602,593662,Irregular
+5603,593667,Spiral
+5604,593681,Spiral
+5605,593689,Elliptical
+5606,593691,Bar Spiral
+5607,593711,Irregular
+5608,593713,Spiral
+5609,593725,Spiral
+5610,593727,Elliptical
+5611,593737,Elliptical
+5612,593746,Elliptical
+5613,593756,Elliptical
+5614,593766,Elliptical
+5615,593767,Bar Spiral
+5616,593796,Spiral
+5617,593810,Spiral
+5618,593832,Elliptical
+5619,593849,Irregular
+5620,593874,Irregular
+5621,593877,Irregular
+5622,593902,Spiral
+5623,593916,Spiral
+5624,593935,Spiral
+5625,593939,Spiral
+5626,593942,Elliptical
+5627,593958,Elliptical
+5628,593971,Elliptical
+5629,593985,Elliptical
+5630,593988,Elliptical
+5631,593989,Irregular
+5632,593995,Irregular
+5633,593999,Irregular
+5634,594016,Irregular
+5635,594080,Lenticular
+5636,594101,Elliptical
+5637,594111,Spiral
+5638,594123,Irregular
+5639,594127,Irregular
+5640,594136,Lenticular
+5641,594140,Lenticular
+5642,594146,Bar Spiral
+5643,594159,Irregular
+5644,594163,Spiral
+5645,594188,Elliptical Cigar
+5646,594191,Elliptical
+5647,594199,Spiral
+5648,594204,Bar Spiral
+5649,594212,Irregular
+5650,594225,Irregular
+5651,594235,Spiral
+5652,594286,Elliptical
+5653,594298,Elliptical
+5654,594317,Spiral
+5655,594322,Bar Spiral
+5656,594336,Spiral
+5657,594341,Elliptical
+5658,594349,Irregular
+5659,594380,Elliptical
+5660,594383,Spiral
+5661,594416,Elliptical
+5662,594429,Bar Spiral
+5663,594460,Spiral
+5664,594471,Bar Spiral
+5665,594495,Elliptical
+5666,594510,Irregular
+5667,594512,Elliptical
+5668,594528,Spiral
+5669,594532,Irregular
+5670,594551,Spiral
+5671,594568,Spiral
+5672,594577,Irregular
+5673,594580,Elliptical
+5674,594584,Elliptical
+5675,594633,Lenticular
+5676,594643,Elliptical
+5677,594674,Bar Spiral
+5678,594707,Spiral
+5679,594712,Irregular
+5680,594745,Spiral
+5681,594746,Spiral
+5682,594748,Elliptical Cigar
+5683,594749,Elliptical
+5684,594758,Spiral
+5685,594765,Lenticular
+5686,594810,Spiral
+5687,594812,Elliptical
+5688,594818,Spiral
+5689,594827,Spiral
+5690,594841,Irregular
+5691,594855,Elliptical
+5692,594860,Spiral
+5693,594874,Lenticular
+5694,594895,Spiral
+5695,594896,Lenticular
+5696,594956,Spiral
+5697,594960,Spiral
+5698,594962,Lenticular
+5699,594970,Elliptical
+5700,594971,Elliptical
+5701,594975,Spiral
+5702,595008,Spiral
+5703,595020,Bar Spiral
+5704,595031,Spiral
+5705,595048,Spiral
+5706,595057,Spiral
+5707,595071,Elliptical
+5708,595078,Spiral
+5709,595081,Elliptical
+5710,595090,Elliptical
+5711,595116,Spiral
+5712,595146,Spiral
+5713,595216,Spiral
+5714,595219,Spiral
+5715,595234,Irregular
+5716,595244,Spiral
+5717,595246,Elliptical
+5718,595256,Spiral
+5719,595264,Elliptical
+5720,595265,Spiral
+5721,595295,Irregular
+5722,595336,Elliptical
+5723,595346,Spiral
+5724,595348,Irregular
+5725,595364,Elliptical
+5726,595396,Irregular
+5727,595399,Bar Spiral
+5728,595404,Spiral
+5729,595434,Spiral
+5730,595450,Elliptical
+5731,595456,Elliptical
+5732,595462,Irregular
+5733,595473,Elliptical
+5734,595482,Elliptical
+5735,595484,Elliptical
+5736,595488,Elliptical
+5737,595509,Elliptical
+5738,595526,Elliptical
+5739,595527,Lenticular
+5740,595538,Elliptical
+5741,595569,Elliptical
+5742,595576,Bar Spiral
+5743,595585,Elliptical
+5744,595591,Spiral
+5745,595603,Bar Spiral
+5746,595606,Irregular
+5747,595649,Lenticular
+5748,595666,Elliptical
+5749,595669,Elliptical
+5750,595680,Elliptical
+5751,595703,Spiral
+5752,595705,Elliptical
+5753,595709,Irregular
+5754,595718,Irregular
+5755,595720,Elliptical
+5756,595733,Irregular
+5757,595736,Bar Spiral
+5758,595746,Lenticular
+5759,595748,Lenticular
+5760,595750,Irregular
+5761,595757,Elliptical
+5762,595769,Spiral
+5763,595792,Elliptical
+5764,595830,Spiral
+5765,595832,Elliptical
+5766,595848,Elliptical
+5767,595861,Elliptical
+5768,595869,Elliptical
+5769,595875,Spiral
+5770,595898,Spiral
+5771,595905,Lenticular
+5772,595914,Irregular
+5773,595915,Irregular
+5774,595940,Elliptical
+5775,595965,Spiral
+5776,595966,Spiral
+5777,595969,Irregular
+5778,595996,Irregular
+5779,596014,Elliptical
+5780,596020,Spiral
+5781,596030,Irregular
+5782,596072,Elliptical
+5783,596087,Spiral
+5784,596092,Elliptical
+5785,596093,Spiral
+5786,596122,Irregular
+5787,596153,Bar Spiral
+5788,596168,Lenticular
+5789,596177,Lenticular
+5790,596180,Elliptical
+5791,596247,Spiral
+5792,596248,Bar Spiral
+5793,596256,Elliptical
+5794,596261,Spiral
+5795,596330,Elliptical
+5796,596341,Bar Spiral
+5797,596342,Spiral
+5798,596366,Irregular
+5799,596375,Bar Spiral
+5800,596385,Irregular
+5801,596389,Irregular
+5802,596452,Spiral
+5803,596485,Irregular
+5804,596487,Lenticular
+5805,596497,Irregular
+5806,596502,Elliptical
+5807,596542,Elliptical Cigar
+5808,596551,Elliptical
+5809,596555,Spiral
+5810,596562,Lenticular
+5811,596602,Elliptical
+5812,596611,Spiral
+5813,596617,Spiral
+5814,596618,Irregular
+5815,596621,Elliptical
+5816,596663,Spiral
+5817,596665,Elliptical
+5818,596691,Spiral
+5819,596698,Irregular
+5820,596719,Spiral
+5821,596739,Spiral
+5822,596742,Irregular
+5823,596746,Elliptical
+5824,596767,Elliptical
+5825,596770,Elliptical
+5826,596785,Spiral
+5827,596788,Elliptical
+5828,596789,Lenticular
+5829,596794,Elliptical
+5830,596805,Irregular
+5831,596818,Irregular
+5832,596822,Irregular
+5833,596823,Spiral
+5834,596834,Elliptical
+5835,596852,Elliptical Cigar
+5836,596862,Spiral
+5837,596866,Elliptical
+5838,596878,Spiral
+5839,596891,Elliptical
+5840,596929,Spiral
+5841,596933,Spiral
+5842,596944,Bar Spiral
+5843,596965,Spiral
+5844,596979,Spiral
+5845,597007,Spiral
+5846,597029,Spiral
+5847,597045,Elliptical
+5848,597047,Spiral
+5849,597069,Spiral
+5850,597070,Elliptical
+5851,597082,Elliptical
+5852,597091,Irregular
+5853,597094,Elliptical
+5854,597097,Lenticular
+5855,597105,Spiral
+5856,597106,Irregular
+5857,597109,Bar Spiral
+5858,597129,Irregular
+5859,597155,Elliptical Cigar
+5860,597172,Spiral
+5861,597202,Bar Spiral
+5862,597212,Lenticular
+5863,597225,Spiral
+5864,597226,Elliptical
+5865,597240,Spiral
+5866,597266,Spiral
+5867,597293,Elliptical
+5868,597301,Elliptical
+5869,597340,Irregular
+5870,597344,Spiral
+5871,597345,Spiral
+5872,597362,Irregular
+5873,597372,Irregular
+5874,597373,Irregular
+5875,597379,Bar Spiral
+5876,597385,Elliptical
+5877,597391,Spiral
+5878,597397,Spiral
+5879,597398,Lenticular
+5880,597419,Lenticular
+5881,597433,Lenticular
+5882,597434,Spiral
+5883,597452,Spiral
+5884,597458,Bar Spiral
+5885,597495,Spiral
+5886,597503,Lenticular
+5887,597509,Irregular
+5888,597512,Elliptical
+5889,597519,Irregular
+5890,597522,Spiral
+5891,597524,Elliptical
+5892,597540,Elliptical
+5893,597555,Irregular
+5894,597578,Elliptical Cigar
+5895,597586,Elliptical
+5896,597615,Spiral
+5897,597618,Irregular
+5898,597619,Lenticular
+5899,597624,Elliptical
+5900,597630,Bar Spiral
+5901,597640,Spiral
+5902,597643,Elliptical
+5903,597646,Elliptical
+5904,597649,Elliptical
+5905,597710,Irregular
+5906,597711,Spiral
+5907,597713,Spiral
+5908,597716,Elliptical
+5909,597726,Irregular
+5910,597734,Spiral
+5911,597736,Lenticular
+5912,597745,Irregular
+5913,597765,Spiral
+5914,597778,Spiral
+5915,597792,Bar Spiral
+5916,597797,Spiral
+5917,597812,Spiral
+5918,597843,Elliptical
+5919,597860,Elliptical
+5920,597866,Elliptical
+5921,597901,Irregular
+5922,597903,Elliptical
+5923,597911,Spiral
+5924,597913,Lenticular
+5925,597924,Spiral
+5926,597939,Elliptical
+5927,597946,Irregular
+5928,597955,Elliptical
+5929,597993,Elliptical
+5930,598012,Elliptical
+5931,598015,Elliptical
+5932,598026,Spiral
+5933,598055,Spiral
+5934,598114,Elliptical
+5935,598128,Spiral
+5936,598147,Elliptical
+5937,598151,Spiral
+5938,598156,Spiral
+5939,598157,Irregular
+5940,598181,Irregular
+5941,598189,Irregular
+5942,598211,Elliptical
+5943,598216,Spiral
+5944,598222,Lenticular
+5945,598229,Spiral
+5946,598237,Irregular
+5947,598268,Elliptical
+5948,598273,Irregular
+5949,598311,Irregular
+5950,598328,Elliptical
+5951,598336,Irregular
+5952,598369,Elliptical
+5953,598395,Lenticular
+5954,598399,Spiral
+5955,598401,Bar Spiral
+5956,598414,Spiral
+5957,598429,Elliptical
+5958,598442,Spiral
+5959,598449,Spiral
+5960,598452,Spiral
+5961,598461,Spiral
+5962,598472,Elliptical
+5963,598474,Irregular
+5964,598480,Spiral
+5965,598508,Spiral
+5966,598512,Elliptical
+5967,598514,Spiral
+5968,598515,Elliptical
+5969,598526,Elliptical
+5970,598537,Spiral
+5971,598554,Elliptical
+5972,598597,Elliptical
+5973,598625,Spiral
+5974,598626,Elliptical
+5975,598628,Spiral
+5976,598653,Bar Spiral
+5977,598661,Lenticular
+5978,598663,Elliptical
+5979,598664,Bar Spiral
+5980,598672,Spiral
+5981,598680,Elliptical Cigar
+5982,598683,Spiral
+5983,598740,Lenticular
+5984,598741,Spiral
+5985,598744,Bar Spiral
+5986,598749,Spiral
+5987,598754,Spiral
+5988,598765,Elliptical
+5989,598770,Irregular
+5990,598801,Elliptical
+5991,598810,Elliptical
+5992,598811,Elliptical
+5993,598814,Elliptical Cigar
+5994,598815,Spiral
+5995,598817,Spiral
+5996,598838,Irregular
+5997,598852,Elliptical
+5998,598853,Elliptical
+5999,598854,Bar Spiral
+6000,598859,Spiral
+6001,598861,Elliptical
+6002,598869,Spiral
+6003,598870,Spiral
+6004,598880,Elliptical
+6005,598890,Elliptical
+6006,598897,Lenticular
+6007,598904,Irregular
+6008,598912,Elliptical Cigar
+6009,598914,Irregular
+6010,598916,Elliptical
+6011,598926,Irregular
+6012,598930,Elliptical
+6013,598931,Irregular
+6014,598963,Irregular
+6015,598968,Elliptical
+6016,599031,Spiral
+6017,599069,Spiral
+6018,599074,Spiral
+6019,599075,Elliptical
+6020,599088,Bar Spiral
+6021,599091,Spiral
+6022,599127,Spiral
+6023,599137,Elliptical
+6024,599143,Bar Spiral
+6025,599152,Spiral
+6026,599173,Spiral
+6027,599175,Lenticular
+6028,599177,Spiral
+6029,599181,Elliptical
+6030,599223,Elliptical
+6031,599251,Spiral
+6032,599254,Irregular
+6033,599255,Elliptical
+6034,599293,Elliptical
+6035,599302,Spiral
+6036,599316,Lenticular
+6037,599319,Irregular
+6038,599327,Spiral
+6039,599346,Spiral
+6040,599389,Elliptical
+6041,599400,Spiral
+6042,599414,Spiral
+6043,599420,Bar Spiral
+6044,599423,Elliptical
+6045,599446,Elliptical
+6046,599459,Irregular
+6047,599484,Elliptical
+6048,599510,Spiral
+6049,599517,Spiral
+6050,599531,Spiral
+6051,599541,Spiral
+6052,599548,Elliptical
+6053,599573,Bar Spiral
+6054,599589,Spiral
+6055,599615,Lenticular
+6056,599647,Spiral
+6057,599650,Elliptical Cigar
+6058,599660,Elliptical
+6059,599674,Elliptical Cigar
+6060,599684,Spiral
+6061,599705,Elliptical
+6062,599715,Spiral
+6063,599722,Elliptical
+6064,599749,Spiral
+6065,599758,Elliptical
+6066,599771,Spiral
+6067,599775,Lenticular
+6068,599788,Spiral
+6069,599790,Spiral
+6070,599792,Elliptical
+6071,599793,Bar Spiral
+6072,599795,Elliptical
+6073,599828,Elliptical Cigar
+6074,599919,Spiral
+6075,599927,Irregular
+6076,599956,Elliptical
+6077,599959,Bar Spiral
+6078,599968,Irregular
+6079,599997,Bar Spiral
+6080,599998,Irregular
+6081,599999,Elliptical
+6082,600006,Spiral
+6083,600007,Elliptical
+6084,600014,Irregular
+6085,600021,Irregular
+6086,600056,Elliptical
+6087,600059,Elliptical
+6088,600073,Irregular
+6089,600075,Spiral
+6090,600111,Irregular
+6091,600134,Elliptical
+6092,600137,Spiral
+6093,600160,Spiral
+6094,600199,Spiral
+6095,600220,Elliptical
+6096,600232,Irregular
+6097,600256,Lenticular
+6098,600262,Spiral
+6099,600288,Spiral
+6100,600297,Elliptical
+6101,600301,Elliptical
+6102,600314,Spiral
+6103,600319,Spiral
+6104,600323,Elliptical Cigar
+6105,600329,Elliptical
+6106,600330,Lenticular
+6107,600339,Elliptical
+6108,600342,Irregular
+6109,600349,Spiral
+6110,600355,Spiral
+6111,600360,Spiral
+6112,600368,Irregular
+6113,600394,Irregular
+6114,600401,Bar Spiral
+6115,600428,Elliptical
+6116,600435,Spiral
+6117,600446,Bar Spiral
+6118,600456,Spiral
+6119,600477,Spiral
+6120,600485,Spiral
+6121,600499,Irregular
+6122,600502,Elliptical
+6123,600510,Elliptical
+6124,600513,Elliptical
+6125,600521,Elliptical
+6126,600524,Spiral
+6127,600543,Spiral
+6128,600550,Elliptical
+6129,600569,Elliptical
+6130,600574,Lenticular
+6131,600583,Lenticular
+6132,600612,Elliptical
+6133,600616,Elliptical
+6134,600621,Elliptical
+6135,600659,Lenticular
+6136,600689,Spiral
+6137,600702,Spiral
+6138,600752,Elliptical
+6139,600765,Elliptical
+6140,600802,Spiral
+6141,600840,Spiral
+6142,600847,Spiral
+6143,600855,Elliptical
+6144,600872,Elliptical
+6145,600916,Spiral
+6146,600935,Spiral
+6147,600936,Elliptical Cigar
+6148,600961,Elliptical Cigar
+6149,600969,Spiral
+6150,600973,Elliptical
+6151,600974,Spiral
+6152,601016,Elliptical
+6153,601080,Elliptical
+6154,601098,Irregular
+6155,601101,Spiral
+6156,601112,Elliptical
+6157,601125,Spiral
+6158,601143,Elliptical Cigar
+6159,601149,Spiral
+6160,601153,Spiral
+6161,601159,Spiral
+6162,601161,Elliptical
+6163,601162,Bar Spiral
+6164,601174,Irregular
+6165,601187,Spiral
+6166,601243,Elliptical
+6167,601246,Elliptical
+6168,601260,Bar Spiral
+6169,601271,Elliptical
+6170,601326,Lenticular
+6171,601339,Spiral
+6172,601347,Elliptical
+6173,601360,Irregular
+6174,601390,Elliptical
+6175,601423,Elliptical
+6176,601449,Lenticular
+6177,601462,Elliptical
+6178,601474,Spiral
+6179,601481,Elliptical
+6180,601518,Elliptical
+6181,601526,Elliptical
+6182,601541,Elliptical
+6183,601569,Spiral
+6184,601570,Spiral
+6185,601584,Bar Spiral
+6186,601589,Elliptical
+6187,601592,Spiral
+6188,601606,Elliptical
+6189,601610,Irregular
+6190,601616,Spiral
+6191,601618,Spiral
+6192,601628,Elliptical
+6193,601629,Spiral
+6194,601638,Elliptical
+6195,601666,Irregular
+6196,601667,Spiral
+6197,601668,Irregular
+6198,601678,Elliptical
+6199,601690,Lenticular
+6200,601700,Spiral
+6201,601718,Elliptical
+6202,601739,Bar Spiral
+6203,601761,Irregular
+6204,601770,Irregular
+6205,601808,Spiral
+6206,601815,Spiral
+6207,601827,Irregular
+6208,601863,Irregular
+6209,601869,Spiral
+6210,601901,Spiral
+6211,601906,Lenticular
+6212,601907,Spiral
+6213,601912,Irregular
+6214,601930,Spiral
+6215,601932,Elliptical
+6216,601935,Spiral
+6217,601956,Irregular
+6218,601989,Bar Spiral
+6219,602039,Lenticular
+6220,602044,Irregular
+6221,602062,Elliptical
+6222,602075,Bar Spiral
+6223,602085,Elliptical
+6224,602093,Spiral
+6225,602105,Elliptical Cigar
+6226,602130,Spiral
+6227,602150,Spiral
+6228,602153,Spiral
+6229,602199,Spiral
+6230,602213,Elliptical
+6231,602214,Elliptical
+6232,602244,Irregular
+6233,602258,Irregular
+6234,602261,Spiral
+6235,602278,Elliptical
+6236,602279,Bar Spiral
+6237,602368,Spiral
+6238,602379,Spiral
+6239,602403,Elliptical
+6240,602407,Elliptical
+6241,602433,Elliptical
+6242,602441,Elliptical
+6243,602443,Elliptical
+6244,602445,Elliptical
+6245,602446,Lenticular
+6246,602471,Elliptical
+6247,602474,Spiral
+6248,602481,Elliptical
+6249,602504,Spiral
+6250,602533,Spiral
+6251,602538,Elliptical
+6252,602557,Elliptical
+6253,602586,Lenticular
+6254,602617,Spiral
+6255,602622,Elliptical
+6256,602637,Irregular
+6257,602668,Irregular
+6258,602684,Irregular
+6259,602687,Lenticular
+6260,602701,Spiral
+6261,602724,Irregular
+6262,602737,Lenticular
+6263,602743,Irregular
+6264,602752,Bar Spiral
+6265,602766,Elliptical
+6266,602778,Elliptical
+6267,602781,Elliptical
+6268,602797,Elliptical
+6269,602801,Irregular
+6270,602803,Elliptical Cigar
+6271,602805,Irregular
+6272,602808,Lenticular
+6273,602817,Irregular
+6274,602831,Spiral
+6275,602868,Elliptical
+6276,602908,Irregular
+6277,602910,Elliptical
+6278,602911,Spiral
+6279,602912,Spiral
+6280,602935,Elliptical
+6281,602936,Spiral
+6282,602943,Spiral
+6283,602946,Elliptical
+6284,602955,Elliptical Cigar
+6285,602957,Elliptical
+6286,602959,Elliptical
+6287,602966,Elliptical
+6288,602991,Elliptical
+6289,603008,Irregular
+6290,603022,Irregular
+6291,603031,Spiral
+6292,603032,Elliptical
+6293,603077,Irregular
+6294,603105,Spiral
+6295,603146,Elliptical
+6296,603149,Spiral
+6297,603157,Irregular
+6298,603159,Spiral
+6299,603165,Spiral
+6300,603170,Spiral
+6301,603187,Spiral
+6302,603206,Irregular
+6303,603217,Elliptical
+6304,603218,Spiral
+6305,603234,Spiral
+6306,603245,Spiral
+6307,603255,Spiral
+6308,603265,Irregular
+6309,603279,Spiral
+6310,603283,Elliptical
+6311,603313,Elliptical
+6312,603318,Elliptical
+6313,603354,Elliptical
+6314,603362,Lenticular
+6315,603385,Irregular
+6316,603391,Elliptical
+6317,603402,Bar Spiral
+6318,603416,Spiral
+6319,603467,Elliptical Cigar
+6320,603474,Spiral
+6321,603492,Elliptical
+6322,603498,Elliptical
+6323,603523,Irregular
+6324,603524,Irregular
+6325,603547,Spiral
+6326,603548,Elliptical
+6327,603573,Spiral
+6328,603576,Irregular
+6329,603607,Irregular
+6330,603617,Elliptical
+6331,603622,Elliptical
+6332,603633,Spiral
+6333,603648,Elliptical
+6334,603679,Irregular
+6335,603713,Elliptical
+6336,603729,Spiral
+6337,603736,Spiral
+6338,603740,Irregular
+6339,603767,Spiral
+6340,603769,Bar Spiral
+6341,603776,Elliptical
+6342,603778,Spiral
+6343,603793,Bar Spiral
+6344,603800,Elliptical
+6345,603822,Spiral
+6346,603833,Elliptical
+6347,603836,Elliptical
+6348,603865,Irregular
+6349,603898,Elliptical
+6350,603924,Bar Spiral
+6351,603941,Spiral
+6352,603947,Spiral
+6353,603974,Bar Spiral
+6354,603981,Irregular
+6355,603992,Spiral
+6356,603998,Elliptical
+6357,604008,Elliptical
+6358,604036,Bar Spiral
+6359,604039,Elliptical
+6360,604059,Irregular
+6361,604071,Spiral
+6362,604080,Lenticular
+6363,604085,Spiral
+6364,604091,Elliptical Cigar
+6365,604102,Spiral
+6366,604113,Elliptical
+6367,604139,Elliptical
+6368,604151,Spiral
+6369,604160,Spiral
+6370,604165,Elliptical
+6371,604180,Bar Spiral
+6372,604191,Spiral
+6373,604205,Elliptical
+6374,604215,Elliptical
+6375,604230,Bar Spiral
+6376,604240,Elliptical
+6377,604245,Irregular
+6378,604266,Elliptical
+6379,604269,Elliptical
+6380,604272,Irregular
+6381,604298,Lenticular
+6382,604306,Elliptical
+6383,604324,Spiral
+6384,604325,Spiral
+6385,604330,Spiral
+6386,604347,Irregular
+6387,604373,Elliptical
+6388,604375,Lenticular
+6389,604377,Irregular
+6390,604378,Spiral
+6391,604385,Irregular
+6392,604387,Irregular
+6393,604405,Lenticular
+6394,604448,Irregular
+6395,604474,Irregular
+6396,604478,Elliptical
+6397,604491,Elliptical
+6398,604492,Spiral
+6399,604496,Irregular
+6400,604501,Lenticular
+6401,604516,Elliptical
+6402,604525,Elliptical Cigar
+6403,604560,Spiral
+6404,604587,Lenticular
+6405,604595,Bar Spiral
+6406,604597,Elliptical
+6407,604607,Spiral
+6408,604624,Elliptical Cigar
+6409,604646,Irregular
+6410,604647,Bar Spiral
+6411,604648,Elliptical
+6412,604683,Elliptical
+6413,604692,Irregular
+6414,604712,Lenticular
+6415,604729,Spiral
+6416,604740,Elliptical
+6417,604767,Spiral
+6418,604771,Elliptical Cigar
+6419,604787,Spiral
+6420,604789,Spiral
+6421,604828,Elliptical
+6422,604838,Spiral
+6423,604848,Elliptical Cigar
+6424,604859,Spiral
+6425,604860,Elliptical
+6426,604865,Spiral
+6427,604885,Elliptical
+6428,604900,Spiral
+6429,604902,Irregular
+6430,604904,Elliptical
+6431,604918,Lenticular
+6432,604920,Elliptical
+6433,604925,Bar Spiral
+6434,604956,Elliptical
+6435,604959,Elliptical
+6436,604969,Elliptical
+6437,604999,Elliptical
+6438,605022,Spiral
+6439,605035,Elliptical
+6440,605051,Elliptical
+6441,605079,Elliptical
+6442,605090,Bar Spiral
+6443,605125,Elliptical
+6444,605134,Elliptical
+6445,605135,Spiral
+6446,605167,Bar Spiral
+6447,605183,Elliptical
+6448,605184,Irregular
+6449,605218,Spiral
+6450,605233,Elliptical
+6451,605235,Irregular
+6452,605248,Spiral
+6453,605271,Irregular
+6454,605310,Elliptical
+6455,605314,Elliptical
+6456,605318,Spiral
+6457,605348,Irregular
+6458,605349,Lenticular
+6459,605355,Spiral
+6460,605363,Elliptical
+6461,605396,Spiral
+6462,605401,Elliptical
+6463,605415,Irregular
+6464,605426,Spiral
+6465,605486,Elliptical
+6466,605506,Spiral
+6467,605507,Irregular
+6468,605527,Spiral
+6469,605533,Elliptical
+6470,605546,Elliptical
+6471,605549,Elliptical
+6472,605550,Elliptical
+6473,605564,Spiral
+6474,605565,Elliptical
+6475,605605,Elliptical
+6476,605623,Bar Spiral
+6477,605636,Spiral
+6478,605674,Elliptical
+6479,605692,Lenticular
+6480,605704,Lenticular
+6481,605712,Lenticular
+6482,605719,Elliptical
+6483,605724,Elliptical
+6484,605752,Elliptical
+6485,605826,Elliptical
+6486,605830,Spiral
+6487,605840,Spiral
+6488,605854,Spiral
+6489,605880,Spiral
+6490,605886,Spiral
+6491,605907,Elliptical
+6492,605910,Spiral
+6493,605913,Bar Spiral
+6494,605915,Spiral
+6495,605918,Elliptical
+6496,605928,Elliptical
+6497,605945,Spiral
+6498,605950,Irregular
+6499,605959,Elliptical
+6500,605960,Spiral
+6501,605961,Irregular
+6502,605967,Spiral
+6503,605992,Elliptical
+6504,606017,Elliptical
+6505,606047,Irregular
+6506,606049,Spiral
+6507,606078,Spiral
+6508,606086,Bar Spiral
+6509,606098,Spiral
+6510,606099,Elliptical
+6511,606103,Elliptical
+6512,606115,Elliptical
+6513,606117,Spiral
+6514,606155,Elliptical Cigar
+6515,606164,Irregular
+6516,606165,Elliptical
+6517,606171,Elliptical
+6518,606205,Bar Spiral
+6519,606229,Irregular
+6520,606265,Spiral
+6521,606289,Irregular
+6522,606291,Elliptical
+6523,606306,Elliptical
+6524,606310,Elliptical
+6525,606325,Bar Spiral
+6526,606343,Elliptical
+6527,606364,Elliptical
+6528,606421,Elliptical Cigar
+6529,606427,Spiral
+6530,606435,Elliptical
+6531,606443,Spiral
+6532,606455,Bar Spiral
+6533,606470,Lenticular
+6534,606479,Lenticular
+6535,606496,Bar Spiral
+6536,606503,Irregular
+6537,606507,Elliptical
+6538,606555,Elliptical
+6539,606565,Elliptical
+6540,606573,Spiral
+6541,606577,Spiral
+6542,606581,Elliptical
+6543,606584,Elliptical
+6544,606587,Spiral
+6545,606610,Irregular
+6546,606633,Spiral
+6547,606665,Spiral
+6548,606716,Elliptical
+6549,606722,Elliptical Cigar
+6550,606743,Elliptical
+6551,606791,Spiral
+6552,606802,Spiral
+6553,606829,Irregular
+6554,606833,Spiral
+6555,606837,Elliptical
+6556,606841,Irregular
+6557,606847,Elliptical
+6558,606853,Spiral
+6559,606862,Spiral
+6560,606874,Elliptical
+6561,606887,Elliptical
+6562,606890,Lenticular
+6563,606896,Spiral
+6564,606904,Elliptical
+6565,606915,Spiral
+6566,606970,Elliptical
+6567,607025,Elliptical
+6568,607026,Spiral
+6569,607037,Elliptical
+6570,607039,Spiral
+6571,607052,Irregular
+6572,607054,Elliptical
+6573,607070,Bar Spiral
+6574,607085,Elliptical
+6575,607134,Irregular
+6576,607152,Irregular
+6577,607156,Spiral
+6578,607163,Elliptical
+6579,607166,Elliptical
+6580,607170,Lenticular
+6581,607188,Bar Spiral
+6582,607200,Spiral
+6583,607213,Spiral
+6584,607249,Spiral
+6585,607274,Irregular
+6586,607285,Elliptical
+6587,607293,Elliptical
+6588,607300,Spiral
+6589,607311,Spiral
+6590,607314,Elliptical
+6591,607318,Irregular
+6592,607321,Elliptical
+6593,607324,Irregular
+6594,607326,Elliptical
+6595,607328,Spiral
+6596,607353,Bar Spiral
+6597,607374,Elliptical
+6598,607398,Elliptical
+6599,607416,Elliptical
+6600,607420,Elliptical
+6601,607435,Spiral
+6602,607436,Elliptical
+6603,607451,Spiral
+6604,607488,Elliptical Cigar
+6605,607497,Elliptical
+6606,607500,Elliptical Cigar
+6607,607511,Elliptical
+6608,607530,Elliptical
+6609,607545,Elliptical
+6610,607549,Lenticular
+6611,607558,Elliptical
+6612,607601,Lenticular
+6613,607631,Spiral
+6614,607636,Irregular
+6615,607641,Irregular
+6616,607651,Bar Spiral
+6617,607656,Irregular
+6618,607692,Elliptical
+6619,607694,Spiral
+6620,607710,Spiral
+6621,607712,Irregular
+6622,607731,Irregular
+6623,607734,Elliptical
+6624,607735,Elliptical
+6625,607738,Spiral
+6626,607752,Lenticular
+6627,607777,Spiral
+6628,607780,Spiral
+6629,607785,Elliptical
+6630,607797,Elliptical
+6631,607828,Lenticular
+6632,607836,Spiral
+6633,607846,Elliptical
+6634,607848,Elliptical
+6635,607872,Elliptical
+6636,607880,Irregular
+6637,607897,Elliptical
+6638,607900,Spiral
+6639,607924,Irregular
+6640,607931,Elliptical
+6641,607951,Spiral
+6642,607952,Spiral
+6643,607959,Elliptical
+6644,607972,Elliptical
+6645,607979,Elliptical
+6646,607991,Spiral
+6647,608021,Irregular
+6648,608027,Bar Spiral
+6649,608046,Elliptical
+6650,608076,Elliptical
+6651,608086,Spiral
+6652,608100,Lenticular
+6653,608113,Elliptical
+6654,608128,Spiral
+6655,608157,Elliptical
+6656,608161,Elliptical
+6657,608168,Spiral
+6658,608180,Bar Spiral
+6659,608190,Elliptical
+6660,608194,Elliptical
+6661,608219,Elliptical
+6662,608223,Elliptical
+6663,608251,Spiral
+6664,608265,Irregular
+6665,608278,Lenticular
+6666,608281,Spiral
+6667,608293,Irregular
+6668,608294,Spiral
+6669,608297,Elliptical
+6670,608301,Bar Spiral
+6671,608304,Irregular
+6672,608316,Bar Spiral
+6673,608325,Irregular
+6674,608339,Bar Spiral
+6675,608341,Lenticular
+6676,608350,Elliptical
+6677,608361,Spiral
+6678,608376,Spiral
+6679,608394,Elliptical
+6680,608401,Elliptical
+6681,608418,Irregular
+6682,608475,Elliptical Cigar
+6683,608476,Elliptical
+6684,608483,Spiral
+6685,608528,Irregular
+6686,608543,Elliptical
+6687,608548,Spiral
+6688,608556,Irregular
+6689,608580,Elliptical
+6690,608613,Elliptical
+6691,608627,Lenticular
+6692,608654,Irregular
+6693,608694,Lenticular
+6694,608722,Spiral
+6695,608723,Bar Spiral
+6696,608725,Spiral
+6697,608759,Elliptical
+6698,608779,Spiral
+6699,608794,Spiral
+6700,608812,Elliptical
+6701,608832,Irregular
+6702,608841,Bar Spiral
+6703,608843,Spiral
+6704,608903,Spiral
+6705,608938,Spiral
+6706,608943,Bar Spiral
+6707,608949,Irregular
+6708,608958,Irregular
+6709,608961,Elliptical
+6710,608981,Spiral
+6711,608982,Bar Spiral
+6712,609005,Elliptical
+6713,609012,Elliptical
+6714,609020,Spiral
+6715,609021,Spiral
+6716,609022,Spiral
+6717,609042,Irregular
+6718,609043,Elliptical
+6719,609079,Bar Spiral
+6720,609108,Spiral
+6721,609120,Spiral
+6722,609123,Bar Spiral
+6723,609127,Spiral
+6724,609131,Elliptical
+6725,609144,Elliptical
+6726,609146,Irregular
+6727,609153,Elliptical
+6728,609183,Elliptical
+6729,609194,Elliptical
+6730,609196,Elliptical
+6731,609202,Bar Spiral
+6732,609209,Elliptical
+6733,609254,Lenticular
+6734,609261,Spiral
+6735,609289,Bar Spiral
+6736,609316,Bar Spiral
+6737,609318,Irregular
+6738,609325,Irregular
+6739,609337,Spiral
+6740,609355,Irregular
+6741,609357,Irregular
+6742,609389,Bar Spiral
+6743,609397,Lenticular
+6744,609436,Elliptical
+6745,609465,Spiral
+6746,609484,Elliptical
+6747,609489,Elliptical
+6748,609526,Spiral
+6749,609540,Elliptical
+6750,609565,Spiral
+6751,609576,Irregular
+6752,609588,Elliptical
+6753,609597,Spiral
+6754,609606,Irregular
+6755,609610,Spiral
+6756,609627,Spiral
+6757,609641,Elliptical
+6758,609667,Bar Spiral
+6759,609669,Elliptical
+6760,609677,Lenticular
+6761,609684,Spiral
+6762,609687,Elliptical
+6763,609689,Spiral
+6764,609696,Elliptical
+6765,609737,Spiral
+6766,609740,Lenticular
+6767,609775,Lenticular
+6768,609810,Spiral
+6769,609813,Elliptical
+6770,609815,Elliptical
+6771,609819,Spiral
+6772,609857,Irregular
+6773,609874,Spiral
+6774,609882,Irregular
+6775,609886,Elliptical Cigar
+6776,609935,Elliptical
+6777,609937,Elliptical
+6778,609959,Spiral
+6779,609962,Spiral
+6780,609976,Lenticular
+6781,609996,Irregular
+6782,610002,Spiral
+6783,610008,Lenticular
+6784,610012,Elliptical
+6785,610014,Elliptical Cigar
+6786,610022,Lenticular
+6787,610025,Irregular
+6788,610027,Spiral
+6789,610034,Elliptical Cigar
+6790,610035,Irregular
+6791,610085,Irregular
+6792,610099,Spiral
+6793,610126,Elliptical
+6794,610149,Spiral
+6795,610160,Spiral
+6796,610162,Elliptical
+6797,610165,Elliptical
+6798,610232,Lenticular
+6799,610237,Elliptical
+6800,610248,Irregular
+6801,610261,Elliptical
+6802,610298,Irregular
+6803,610301,Irregular
+6804,610316,Irregular
+6805,610323,Spiral
+6806,610343,Irregular
+6807,610378,Lenticular
+6808,610382,Elliptical
+6809,610392,Bar Spiral
+6810,610412,Lenticular
+6811,610419,Lenticular
+6812,610423,Irregular
+6813,610435,Irregular
+6814,610436,Spiral
+6815,610451,Bar Spiral
+6816,610462,Elliptical
+6817,610466,Elliptical
+6818,610479,Elliptical
+6819,610498,Elliptical
+6820,610502,Spiral
+6821,610503,Elliptical
+6822,610513,Irregular
+6823,610515,Lenticular
+6824,610520,Bar Spiral
+6825,610528,Elliptical
+6826,610540,Elliptical
+6827,610558,Spiral
+6828,610573,Elliptical
+6829,610575,Irregular
+6830,610577,Spiral
+6831,610589,Spiral
+6832,610606,Spiral
+6833,610669,Elliptical
+6834,610670,Irregular
+6835,610675,Elliptical Cigar
+6836,610757,Irregular
+6837,610761,Irregular
+6838,610770,Bar Spiral
+6839,610771,Elliptical
+6840,610782,Elliptical
+6841,610791,Irregular
+6842,610799,Elliptical
+6843,610802,Elliptical
+6844,610814,Elliptical Cigar
+6845,610830,Elliptical
+6846,610835,Elliptical
+6847,610839,Irregular
+6848,610855,Spiral
+6849,610861,Elliptical
+6850,610890,Elliptical
+6851,610912,Elliptical
+6852,610937,Elliptical
+6853,610939,Elliptical
+6854,610964,Spiral
+6855,610970,Irregular
+6856,610974,Elliptical
+6857,610978,Elliptical
+6858,610990,Elliptical
+6859,611002,Elliptical
+6860,611005,Elliptical
+6861,611009,Elliptical
+6862,611011,Spiral
+6863,611025,Elliptical
+6864,611040,Spiral
+6865,611049,Spiral
+6866,611068,Elliptical
+6867,611113,Elliptical
+6868,611114,Spiral
+6869,611118,Elliptical
+6870,611143,Irregular
+6871,611159,Elliptical
+6872,611171,Elliptical
+6873,611187,Irregular
+6874,611194,Irregular
+6875,611210,Irregular
+6876,611240,Spiral
+6877,611248,Spiral
+6878,611303,Irregular
+6879,611313,Spiral
+6880,611320,Irregular
+6881,611341,Lenticular
+6882,611346,Elliptical
+6883,611374,Elliptical
+6884,611403,Elliptical Cigar
+6885,611433,Irregular
+6886,611465,Elliptical
+6887,611477,Spiral
+6888,611482,Irregular
+6889,611497,Elliptical
+6890,611513,Lenticular
+6891,611526,Lenticular
+6892,611532,Elliptical Cigar
+6893,611535,Elliptical
+6894,611536,Spiral
+6895,611556,Lenticular
+6896,611557,Elliptical
+6897,611564,Irregular
+6898,611572,Irregular
+6899,611597,Elliptical Cigar
+6900,611605,Bar Spiral
+6901,611617,Elliptical
+6902,611629,Spiral
+6903,611637,Spiral
+6904,611650,Spiral
+6905,611664,Spiral
+6906,611673,Elliptical
+6907,611674,Irregular
+6908,611680,Elliptical
+6909,611694,Elliptical
+6910,611705,Irregular
+6911,611714,Elliptical
+6912,611742,Spiral
+6913,611753,Elliptical
+6914,611761,Spiral
+6915,611768,Spiral
+6916,611781,Irregular
+6917,611787,Elliptical
+6918,611793,Elliptical
+6919,611805,Irregular
+6920,611811,Spiral
+6921,611821,Irregular
+6922,611834,Elliptical Cigar
+6923,611835,Elliptical
+6924,611850,Irregular
+6925,611864,Elliptical
+6926,611867,Spiral
+6927,611888,Spiral
+6928,611893,Elliptical
+6929,611903,Elliptical
+6930,611904,Elliptical
+6931,611915,Elliptical
+6932,611919,Elliptical
+6933,611920,Spiral
+6934,611923,Bar Spiral
+6935,611952,Irregular
+6936,611974,Elliptical
+6937,611987,Elliptical
+6938,611990,Spiral
+6939,612020,Elliptical
+6940,612030,Lenticular
+6941,612037,Elliptical
+6942,612046,Spiral
+6943,612054,Elliptical
+6944,612062,Spiral
+6945,612063,Elliptical
+6946,612082,Irregular
+6947,612094,Elliptical
+6948,612096,Elliptical
+6949,612097,Bar Spiral
+6950,612098,Spiral
+6951,612099,Elliptical
+6952,612104,Bar Spiral
+6953,612107,Elliptical
+6954,612108,Elliptical
+6955,612121,Elliptical
+6956,612124,Spiral
+6957,612128,Irregular
+6958,612139,Elliptical
+6959,612158,Lenticular
+6960,612201,Elliptical
+6961,612206,Bar Spiral
+6962,612217,Spiral
+6963,612262,Spiral
+6964,612268,Elliptical
+6965,612278,Spiral
+6966,612286,Irregular
+6967,612332,Bar Spiral
+6968,612366,Elliptical
+6969,612377,Spiral
+6970,612380,Irregular
+6971,612389,Elliptical
+6972,612393,Elliptical
+6973,612394,Bar Spiral
+6974,612407,Elliptical
+6975,612449,Bar Spiral
+6976,612459,Elliptical
+6977,612487,Irregular
+6978,612490,Elliptical
+6979,612492,Elliptical
+6980,612564,Spiral
+6981,612565,Elliptical
+6982,612572,Irregular
+6983,612581,Elliptical
+6984,612582,Lenticular
+6985,612589,Elliptical
+6986,612598,Spiral
+6987,612617,Spiral
+6988,612622,Irregular
+6989,612652,Irregular
+6990,612661,Irregular
+6991,612668,Elliptical
+6992,612672,Spiral
+6993,612705,Elliptical
+6994,612729,Irregular
