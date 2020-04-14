@@ -9,12 +9,12 @@ img = cv.imread("Brightness13-16100.jpg")
 
 #=========== Radial Light Profile Function =============
 def radial_profile(img, center):
-    a, b, c = np.indices(img.shape)
-    r = np.sqrt((a - center[0])**2 + (b - center[1])**2)
-    r = r.astype(np.int)
-    tbin = np.bincount(r.ravel(), img.ravel())
-    nr = np.bincount(r.ravel())
-    radialprofile = tbin / nr
+    a, b, c = np.indices(img.shape) # a and b are (x, y) of pixel location
+    r = np.sqrt((a - center[0])**2 + (b - center[1])**2) #get radius using distance eqn
+    r = r.astype(np.int) 
+    tbin = np.bincount(r.ravel(), img.ravel()) #integrate pixel brightness with increasing r
+    nr = np.bincount(r.ravel()) #get dr over length r
+    radialprofile = tbin / nr #divide integral of light profile by r change
     return radialprofile
 
 #============ plot points ===============
