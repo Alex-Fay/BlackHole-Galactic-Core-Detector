@@ -1,4 +1,4 @@
-#Alex Fay 3/15/2020
+#Alex Fay 3/15/2020: Gets Hubble jpg for every image in csv by objID
 import urllib.request
 import pandas as pd
 from pandas import ExcelWriter
