@@ -17,6 +17,7 @@ import os
 from sklearn.preprocessing import LabelEncoder,OneHotEncoder
 from keras import backend as K
 import pdb #debugger
+from keras.preprocessing.image import ImageDataGenerator
 
 #==========unzip training data=======
 import zipfile
@@ -60,18 +61,46 @@ def cropImages():
 cropImages()
 
 #=============training data init===========
-train_file_path = 'FinalResults.csv'
+from os import listdir
+import random
+from numpy import asarray
+from numpy import save
+from keras.preprocessing.image import load_img
+from keras.preprocessing.image import img_to_array
+from shutil import copyfile #for creating training data
+
+train_file_path = 'HubbleImageLabels.csv'
 test_file_path = 'trainLabels.csv'
+src_directory = "./images_training/"
+folder = "./images_training/"
 
-#Cuts out all in csv except galaxy name, returns list w/ commas
-ary = np.genfromtxt(train_file_path, delimiter= ',' , dtype = str)
-train_labels = list(ary[:,-1])
-tempAry = np.genfromtxt(test_file_path, dtype = str, delimiter= ",")
-test_labels = list(tempAry[:, -1])
-train_images = "./images_training/"
-test_images = "./Testing_Images/"
+#======Create Data for training and testing=========
+subdirs = ['train/', 'test/'] #prexisting folders in images_training (manual)
+for subdir in subdirs:  #Create subfolders for training and test
+  labeldirs = ['STAR', 'Elliptical', 'Elliptical_Cigar', 'Spiral', 'Bar_Spiral', 'Lenticular','Irregular']
+  for labl in labeldirs:
+    newdir = folder + subdir + labl #make folder for each type of img
+    os.makedirs(newdir, exist_ok = True)
 
-#=======CNN========
+#save 25 percent of data for testing
+random.seed(1) #random num generator
+val_ratio = .25
+src_directory = './images_training/train/'
+
+#split data into testing and training folders by class
+for file in listdir(src_directory):
+  src = src_directory + file
+  dst_dir = './images_training/train/'
+  imgType = file.split(".")
+  if (random.random() < val_ratio):
+    dst_dir = './images_training/test/'
+  dst = dst_dir + imgType[0] + "/" + file 
+  try:
+    copyfile(src, dst) #i.e. move elliptical to train/elliptical/
+  except:
+    print("Missing:" + file)
+
+#=======CNN==================
 def ConvBlock(layers, model, filters):
     for i in range(layers): 
         model.add(ZeroPadding2D((2,2)))  # zero padding of size 1
@@ -84,7 +113,7 @@ def FCBlock(model):
     
 def VGG_16():
     model = Sequential()
-    model.add(Lambda(lambda x : x, input_shape=(3,106,106)))
+    model.add(Lambda(lambda x : x, input_shape=(210,210,3)))
     
     ConvBlock(2, model, 64)
     ConvBlock(2, model, 128)
@@ -96,21 +125,24 @@ def VGG_16():
     FCBlock(model)
     FCBlock(model)
     
-    model.add(Dense(37, activation = 'sigmoid'))
+    model.add(Dense(9, activation = 'sigmoid'))
     return model
 
 #======MAIN========
+#datagen required for keras
+datagen = ImageDataGenerator(rescale =1.0/255.0)
 #cropImages()
+
+train_it = datagen.flow_from_directory('./images_training/train/', class_mode = "categorical", batch_size = 64, target_size = (210, 210))
+test_it = datagen.flow_from_directory('./images_training/test/', class_mode = "categorical", batch_size = 64, target_size = (210, 210))
+
 # Compile 
 optimizer = RMSprop(lr=1e-6)
 model = VGG_16()
 model.compile(loss='mean_squared_error', optimizer=optimizer)
 
-temp_data = (test_images, test_labels)
-print(test_labels)
-
-fitCNN = model.fit(train_images, train_labels, epochs= 40, 
-                    validation_data = temp_data)
+fitCNN = model.fit_generator(train_it, steps_per_epoch = len(train_it),epochs= 40, 
+                    validation_data = test_it, validation_steps = len(test_it))
 model.summary()
 
 #========Plot======
