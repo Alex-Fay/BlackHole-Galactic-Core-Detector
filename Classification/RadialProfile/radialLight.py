@@ -7,12 +7,13 @@ import pandas as pd
 
 #Run file seperatly for each type of galaxy
 #======== Variables ========= 
-center = [60, 60]
-readFile = "HubbleImageLabels.csv" #or other csv 
+readFile = "Spiral_List.csv" #or other csv 
+radialCSV = pd.DataFrame()
 df = pd.read_csv(readFile)
-imageName = df['ImgName']
+imgName = df['ImgName']
 labelCol = df['Label']
 item = 0
+print("ReadCSV")
 
 #======== Find Rotation Theta =========
 from PIL import Image
@@ -20,31 +21,32 @@ import math
 
 def findOrigin(i):
   maxBrt, x, y, x0, y0 = 0, 0, 0, 0, 0 #origin will be brightest pixel value
-  img = Image.open(imgName[i])
-  for x in range(120):
-    for y in range(120):
+  img = Image.open("./images_training/train/" + str(imgName[i]))
+  for x in range(s):
+    for y in range(s):
       brt = sum(img.getpixel((x, y)))
       if brt > maxBrt: 
         maxBrt = brt
         x0 = x; y0 = y #oriin values (x0, y0)
       y +=1
     x+=1
+  print("x0", x0, "y0", y0)
   return x0, y0
 
 #should combine, not sure how to break with two for loops/ out of time
-def findXRadius(x0, y0):
-  img = Image.open(imgName[i])
+def findXRadius(x0, y0, i):
+  img = Image.open("./images_training/train/" + str(imgName[i]))
   a = 0
-  for x in range(x0, 120): #get minor axis
+  for x in range(x0, s): #get minor axis
     brt = sum(img.getpixel((x, y0)))
     if(brt < 200): x+=1
     else: a = x
     return a
 
-def findYRadius(x0, y0):
-  img = Image.open(imgName[i])
+def findYRadius(x0, y0, i):
+  img = Image.open("./images_training/train/" + str(imgName[i]))
   b = 0
-  for y in range(y0, 120): #major axis
+  for y in range(y0, s): #major axis
     brt = sum(img.getpixel((x0, y)))
     if(brt < 200): #background space noise brightness
       b = y
@@ -53,8 +55,11 @@ def findYRadius(x0, y0):
 def findTheta(x0, y0, a, b):
   top = math.sqrt(abs(y0**2 - b**2))
   bottom = math.sqrt(abs(x0**2 - a**2))
-  theta = math.acos(-1 * top/bottom)
+  if(bottom == 0): theta = 0
+  else:
+    theta = math.acos(-1 * top/bottom)
   return theta
+print("Complete Rotation")
 
 #=========== Radial Light Profile Function =============
 def radial_profile(img, center):
@@ -67,22 +72,30 @@ def radial_profile(img, center):
     predictRadial = np.flipud(radialprofile) #reverse array 
     sumRad = np.sum(radialprofile)
     return radialprofile, predictRadial, sumRad
+print("Complete Radial")
 
 #====== MAIN =======
-for item in df.index & range(1, 1):
-  img = cv.imread(imageCSV[i]) #TODO: change to full csv file
+for item in df.index:
+  img = cv.imread('./images_training/train/' + str(imgName[item])) #TODO: change to full csv file
+  print(img.shape)
+  s, t, v = img.shape
+  center =[(s/2), (t/2)]
+  print("center", center)
   Y, predictRadial, sumRad = radial_profile(img, center)
   if (sumRad > 1500): #ignore to distant galaxies
     x0, y0 = findOrigin(item)
-    a = findXRadius(x0, y0)
-    b = findYRadius
-    theta = findTheta(x0 y0, a, b)
-    predictRadial.insert(0, theta)
-    ndf = pd.DataFrame(list(zip(predictRadial)))
-    ndf.to_csv("example.csv")
+    a = findXRadius(x0, y0, item)
+    b = findYRadius(x0, y0, item)
+    print(a, b)
+    theta = findTheta(x0, y0, a, b)
+    np.insert(predictRadial,0, theta)
+    #add elements to csv
+    radialCSV.loc[item] = mydataframe.append(list(predictRadial), index = item)
     item +=1
   else: item +=1
-
+  
+radialCSV.to_csv("Spiral_radial.csv")
+#TODO Put each predict array into new column
 #============ plot points ===============
 import matplotlib
 from matplotlib import pyplot as plt
