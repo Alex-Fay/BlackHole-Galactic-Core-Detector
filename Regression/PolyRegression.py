@@ -21,8 +21,7 @@ X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.25, random
 from sklearn.preprocessing import PolynomialFeatures
 poly_reg = PolynomialFeatures(degree= 5)
 X_poly = poly_reg.fit_transform(x)
-pol_reg = LinearRegression()
-pol_reg.fit(X_poly, y)
+poly_reg.fit(X_poly, y)
 
 # Plot
 def viz_polymonial():
