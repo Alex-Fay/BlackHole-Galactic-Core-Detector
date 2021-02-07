@@ -3,4 +3,4 @@ A Program which analyzes the radial light profiles of galaxies and predicts if t
 
 Please see [Final Latex File](https://github.com/Alex-Fay/BlackHole-Galactic-Core-Detector/blob/master/ReadMe%20Midterm%20Write%20Up.pdf ) for ReadMe and explanation of process.
 
-- April 2020 -
+April 2020
